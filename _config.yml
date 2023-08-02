@@ -1,8 +1,8 @@
 # Site
 name: 'daddyblondlegs'
-description: 'Tour cyclist that travels around the world, and I want to share my experiences with bicycle parts, touring gear, and cultures'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+description: 'World cyclist who dabbles as a chronic expat. Bike part reviews, travelogues, and weird stories from life in China.'
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/favicon.ico'
 baseurl: 'https://www.daddyblondlegs.com/'
 disqus: 'demowebsite'
 email: 'daddyblondlegs@gmail.com'
