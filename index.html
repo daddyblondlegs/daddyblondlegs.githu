@@ -3,7 +3,7 @@ title: "daddyblondlegs"
 layout: default
 pagination:
     enabled: true
-description: "Bicycle touring news and gear reviews."
+description: "Bicycle touring information and gear reviews."
 ---
 
 
@@ -20,8 +20,8 @@ description: "Bicycle touring news and gear reviews."
     {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <a href="{{site.baseurl}}{{latest_post.url}}" style="border-width: 1rem;border-style: solid;border-color:aliceblue;">
+    <div class="topfirstimage" style="border-width: 1rem;border-style: solid;background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -50,11 +50,11 @@ description: "Bicycle touring news and gear reviews."
         
         <!-- second latest post -->
         {%- assign second_post = site.posts[1] -%}        
-        <div class="mb-3 d-flex align-items-center">                
+        <div class="mb-3 d-flex align-items-center dad2behover">                
                 {% if second_post.image %}
-                <div class="col-md-4">
+                <div class="col-md-6" style="border-width: 1rem;border-style: solid;border-color: #bcddff;">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                  <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}">
+                  <img class="w-100 yellowhover" style="border-width: 1rem;border-style: solid;border-color: beige;" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}">
                  <!--monkey<img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">-->
                 </a>
                 </div>
@@ -80,9 +80,9 @@ description: "Bicycle touring news and gear reviews."
         {%- assign third_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
-                <div class="col-md-4">
+                <div class="col-md-6" style="border-width: 1rem;border-style: solid;border-color: #fff2cc;">
                 <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                 <img class="w-100 darkbluehover" style="border-width: 1rem;border-style: solid;border-color: #fffaee;" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -107,15 +107,15 @@ description: "Bicycle touring news and gear reviews."
         {%- assign fourth_post = site.posts[3] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
-                <div class="col-md-4">
+                <div class="col-md-6" style="border-width: 1rem;border-style: solid;border-color: #bdbdb1;padding: 0px;">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
-                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                <img class="w-100" style="border-width: 1rem;border-style: solid;border-color: #e1f0ff;padding: 0px;" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
+                    <a class="text-dark"  href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
@@ -137,7 +137,7 @@ description: "Bicycle touring news and gear reviews."
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-yellow position-relative">
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-yellow position-relative" style="border-width: 2rem;border-style: solid;border-color: #fff2cc">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">

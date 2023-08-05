@@ -35,6 +35,18 @@ a,a:hover {
 a {
 	color:#dad2be;
 }
+.dad2behover:hover {
+	color:#dad2be !important;
+}
+.lightbluehover:hover {
+	color:#bcddff !important;
+}
+.darkbluehover:hover {
+	color:#404DAD !important;
+}
+.yellowhover:hover {
+	color:#fff2cc !important;
+}
 a.text-dark:hover {
 	color:#ffe696 !important;
 }
