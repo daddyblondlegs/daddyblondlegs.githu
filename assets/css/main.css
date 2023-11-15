@@ -1389,7 +1389,7 @@ pre {
   .form-control:focus {
     color: #495057;
     background-color: #fff;
-    border-color: #2ffbc5;
+    border-color: #ffe696;
     outline: 0;
     box-shadow: 0 0 0 0.2rem #ffe696; }
   .form-control::-webkit-input-placeholder {
@@ -1570,7 +1570,7 @@ textarea.form-control {
 .was-validated .custom-control-input:valid ~ .custom-control-label, .custom-control-input.is-valid ~ .custom-control-label {
   color: #ffe696; }
   .was-validated .custom-control-input:valid ~ .custom-control-label::before, .custom-control-input.is-valid ~ .custom-control-label::before {
-    background-color: #2ffbc5; }
+    background-color: #ffe696; }
 
 .was-validated .custom-control-input:valid ~ .valid-feedback,
 .was-validated .custom-control-input:valid ~ .valid-tooltip, .custom-control-input.is-valid ~ .valid-feedback,
@@ -3056,7 +3056,7 @@ input[type="button"].btn-block {
      -moz-appearance: none;
           appearance: none; }
   .custom-select:focus {
-    border-color: #2ffbc5;
+    border-color: #ffe696;
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(47, 251, 197, 0.5); }
     .custom-select:focus::-ms-value {
@@ -3099,10 +3099,10 @@ input[type="button"].btn-block {
   margin: 0;
   opacity: 0; }
   .custom-file-input:focus ~ .custom-file-label {
-    border-color: #2ffbc5;
+    border-color: #ffe696;
     box-shadow: 0 0 0 0.2rem #ffe696; }
     .custom-file-input:focus ~ .custom-file-label::after {
-      border-color: #2ffbc5; }
+      border-color: #ffe696; }
   .custom-file-input:disabled ~ .custom-file-label {
     background-color: #e9ecef; }
   .custom-file-input:lang(en) ~ .custom-file-label::after {
@@ -3800,8 +3800,8 @@ input[type="button"].btn-block {
     z-index: 2;
     color: #333;
     text-decoration: none;
-    background-color: #fff2cc;
-    border-color: #fdfbf1; }
+    background-color: #ffe696;
+    border-color: #ffe696; }
   .page-link:focus {
     z-index: 2;
     outline: 0;
@@ -8649,14 +8649,15 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 10%;
 }
 
-.about-timeline{background-image: linear-gradient(#fdfafd, #dad2be);; padding: 1% 0 0px;}
+.about-timeline{background-image: linear-gradient(#e1f0ff, #fff4d7);; padding: 1% 0 0px;}
 
 .timeline-box h6{font-size: 55px; line-height: 1; color: #e11107; font-weight: 100; font-family: 'Helvetica Neue', sans-serif;background-color: ;position: relative; z-index: 1; display: inline-block; width: auto; padding: 0 10px;margin: -2em; transform: translate(0,-50%);} 
 
-.timeline-box a{color:#e11107} 
+.timeline-box a{color:#8cb2e9} 
+.timeline-box:hover a{color:#fff;}
 .timeline-box p{font-size: 18px; line-height: 27px; color: #000000; font-weight: 400;margin-bottom: 26px;font-family: 'Inter', sans-serif; text-align:center} 
 .timeline-box p:last-of-type{margin-bottom:15px;} 
-.start-point h4{font-size: 17px; line-height: 23px; color: #ffffff; font-weight: 600;text-transform: uppercase;background-color: #d21e1e;border-radius: 16px;display: block; width: auto; text-align: center; padding: 5px 25px;position: relative;margin-bottom: 45px;font-family: 'Inter',sans-serif;} 
+.start-point h4{font-size: 17px; line-height: 23px; color: #ffffff; font-weight: 600;text-transform: uppercase;background-color: #8cb2e9;border-radius: 16px;display: block; width: auto; text-align: center; padding: 5px 25px;position: relative;margin-bottom: 45px;font-family: 'Inter',sans-serif;} 
 .black-dot{width: 21px;height: 21px;background-color: #000;border-radius: 50%;display: block;margin: 0 auto 62px;z-index: 1;} 
 .start-point{position: relative;display: flex; justify-content: center; flex-direction: column; align-items: center} 
 .start-point:before{content:'';position: absolute;left: 0;height: 100%;width: 0px;background-color: #aaa;left: 50%;top: 0;transform: translate(-50%,0%);-webkit-transform: translate(-50%,0%);-moz-transform: translate(-50%,0%); border-left: 1px solid #aaa;} 

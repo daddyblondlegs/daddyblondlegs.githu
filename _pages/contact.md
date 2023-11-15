@@ -4,7 +4,7 @@ permalink: "/contact.html"
 ---
 
 <form action="https://formspree.io/f/mbjeqzky" method="POST">    
-<p class="mb-4">You can opt to put your email in the text box. Probably doesn't matter but you never know what the providers of these free little forms do. Also, I recommend Reynolds for tin foil hats.</p>
+<p class="mb-4">Tell me you love me or something similar.</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
@@ -13,6 +13,6 @@ permalink: "/contact.html"
 <input class="form-control" type="email" name="_replyto" placeholder="E-mail">
 </div>
 </div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Yeah boss*" required></textarea>    
+<textarea rows="8" class="form-control mb-3" name="message" placeholder="*" required="" style="text-align: left;"></textarea>    
 <input class="btn btn-success" type="submit" value="Send">
 </form>
