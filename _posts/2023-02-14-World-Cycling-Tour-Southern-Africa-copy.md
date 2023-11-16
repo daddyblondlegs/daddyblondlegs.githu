@@ -27,7 +27,11 @@ Glight
 <figure>
   <a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" class="glightbox">
     <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="{{ include.alt || include.caption }}">
+  </a> 
+   <a href="https://64.media.tumblr.com/b13937d2a3e55cf57526a520c1c2afbb/0875d5ee7e36b55a-21/s2048x3072/65badb4ce0948f1af4ad6c5590397f7e043272af.jpg" class="glightbox">
+    <img src="https://64.media.tumblr.com/b13937d2a3e55cf57526a520c1c2afbb/0875d5ee7e36b55a-21/s2048x3072/65badb4ce0948f1af4ad6c5590397f7e043272af.jpg" alt="{{ include.alt || include.caption }}">
   </a>
+  </figure>
 
 <a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" data-lightbox="sample single image">
     <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="lightbox-sample-image" title="Lightbox sample image">
