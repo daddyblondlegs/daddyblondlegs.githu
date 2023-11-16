@@ -15,12 +15,16 @@ It's probably not hard to imagine that this was my favorite leg of the world tou
 
 <p>
   <a href="/assets/images/icon norway.jpeg" data-lightbox="sample single image">
-    <img src="/assets/images/icon norway.jpef" alt="lightbox-sample-image" title="Lightbox sample image">
+    <img src="/assets/images/icon norway.jpeg" alt="lightbox-sample-image" title="Lightbox sample image">
   </a> 
-   <a href="/assets/images/icon norway.jpeg" data-lightbox="sample single image">
-    <img src="/assets/images/icon norway.jpef" alt="lightbox-sample-image" title="Lightbox sample image">
+   <a href="/assets/images/icon france.jpeg" data-lightbox="sample single image">
+    <img src="/assets/images/icon france.jpeg" alt="lightbox-sample-image" title="Lightbox sample image">
   </a> 
 </p>
+
+<a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" data-lightbox="sample single image">
+    <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="lightbox-sample-image" title="Lightbox sample image">
+  </a> 
 
 <h2>Capetown to Windhoek</h2>
 
