@@ -14,8 +14,11 @@ tags: [World Tour, Africa, Cycling]
 It's probably not hard to imagine that this was my favorite leg of the world tour. The traffic to nature ratio was excellent.
 
 <p>
-  <a href="/assets/images/2021-30-12_jekyll-lightbox_sample-image.jpeg" data-lightbox="sample single image">
-    <img src="/assets/images/2021-30-12_jekyll-lightbox_sample-image.jpeg" alt="lightbox-sample-image" title="Lightbox sample image">
+  <a href="/assets/images/icon norway.jpeg" data-lightbox="sample single image">
+    <img src="/assets/images/icon norway.jpef" alt="lightbox-sample-image" title="Lightbox sample image">
+  </a> 
+   <a href="/assets/images/icon norway.jpeg" data-lightbox="sample single image">
+    <img src="/assets/images/icon norway.jpef" alt="lightbox-sample-image" title="Lightbox sample image">
   </a> 
 </p>
 
