@@ -52,10 +52,9 @@ Glight
 </div>
 
 <div class="columns">
-   <div class="img1"><a class="glightbox" href="https://64.media.tumblr.com/c5aae222ab8673d238d58bbc37a03cba/d14511bd4a276187-52/s2048x3072/cb272ac9a14dc9ca187f5983ee851c016ab2d684.jpg"><img src="https://64.media.tumblr.com/c5aae222ab8673d238d58bbc37a03cba/d14511bd4a276187-52/s2048x3072/cb272ac9a14dc9ca187f5983ee851c016ab2d684.jpg" /></a>
-</div>
-<div class="img2"><a class="glightbox" href="https://64.media.tumblr.com/4b705d7dce51463975ae3a8bf7df21b6/6aa83f5e4efedd14-71/s540x810/0183118148ef3de0d49890ad90b50864589b93c0.jpg"><img src="https://64.media.tumblr.com/4b705d7dce51463975ae3a8bf7df21b6/6aa83f5e4efedd14-71/s540x810/0183118148ef3de0d49890ad90b50864589b93c0.jpg" /></a>
-</div>
+  <div class="img2"><a class="glightbox" href="https://64.media.tumblr.com/4b705d7dce51463975ae3a8bf7df21b6/6aa83f5e4efedd14-71/s540x810/0183118148ef3de0d49890ad90b50864589b93c0.jpg"><img src="https://64.media.tumblr.com/4b705d7dce51463975ae3a8bf7df21b6/6aa83f5e4efedd14-71/s540x810/0183118148ef3de0d49890ad90b50864589b93c0.jpg" /></a>
+</div> 
+<div class="img1"><a class="glightbox" href="https://64.media.tumblr.com/c5aae222ab8673d238d58bbc37a03cba/d14511bd4a276187-52/s2048x3072/cb272ac9a14dc9ca187f5983ee851c016ab2d684.jpg"><img src="https://64.media.tumblr.com/c5aae222ab8673d238d58bbc37a03cba/d14511bd4a276187-52/s2048x3072/cb272ac9a14dc9ca187f5983ee851c016ab2d684.jpg" /></a></div>
 <div class="img3"><a class="glightbox" href="https://64.media.tumblr.com/ef9c96f284fa4f79c79bed5a012eec37/6aa83f5e4efedd14-99/s540x810/de8a14535b26fee8e769ed184b6a33e57cbeaa6c.jpg"><img src="https://64.media.tumblr.com/ef9c96f284fa4f79c79bed5a012eec37/6aa83f5e4efedd14-99/s540x810/de8a14535b26fee8e769ed184b6a33e57cbeaa6c.jpg" /></a>
 </div>
 </div>
