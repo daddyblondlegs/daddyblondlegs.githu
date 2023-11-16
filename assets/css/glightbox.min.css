@@ -78,12 +78,10 @@ iframe.wait-autoplay{opacity:0}
 .glightbox-clean .gclose:hover{opacity:1}
 .gfadeIn{-webkit-animation:gfadeIn .5s ease;animation:gfadeIn .5s ease}
 .gfadeOut{-webkit-animation:gfadeOut .5s ease;animation:gfadeOut .5s ease}
-/*
 .gslideOutLeft{-webkit-animation:gslideOutLeft 0s ease;animation:gslideOutLeft 0s ease}
 .gslideInLeft{-webkit-animation:gslideInLeft .3s ease;animation:gslideInLeft 0s ease}
 .gslideOutRight{-webkit-animation:gslideOutRight 0s ease;animation:gslideOutRight 0s ease}
 .gslideInRight{-webkit-animation:gslideInRight 0s ease;animation:gslideInRight 0s ease}
-*/
 .gzoomIn{-webkit-animation:gzoomIn .5s ease;animation:gzoomIn .5s ease}
 .gzoomOut{-webkit-animation:gzoomOut .5s ease;animation:gzoomOut .5s ease}
 @-webkit-keyframes lightboxLoader{0%{-webkit-transform:rotate(0);transform:rotate(0)}
@@ -110,22 +108,22 @@ to{visibility:visible;-webkit-transform:translate3d(0,0,0);transform:translate3d
 @keyframes gslideInLeft{from{opacity:0;-webkit-transform:translate3d(-60%,0,0);transform:translate3d(-60%,0,0)}
 to{visibility:visible;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0);opacity:1}
 }
-@-webkit-keyframes gslideOutLeft{from{opacity:1;visibility:visible;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+@-webkit-keyframes gslideOutLeft{from{opacity:1;visibility:hidden;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
 to{-webkit-transform:translate3d(-60%,0,0);transform:translate3d(-60%,0,0);opacity:0;visibility:hidden}
 }
-@keyframes gslideOutLeft{from{opacity:1;visibility:visible;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+@keyframes gslideOutLeft{from{opacity:1;visibility:hidden;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
 to{-webkit-transform:translate3d(-60%,0,0);transform:translate3d(-60%,0,0);opacity:0;visibility:hidden}
 }
-@-webkit-keyframes gslideInRight{from{opacity:0;visibility:visible;-webkit-transform:translate3d(60%,0,0);transform:translate3d(60%,0,0)}
+@-webkit-keyframes gslideInRight{from{opacity:0;visibility:hidden;-webkit-transform:translate3d(60%,0,0);transform:translate3d(60%,0,0)}
 to{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0);opacity:1}
 }
-@keyframes gslideInRight{from{opacity:0;visibility:visible;-webkit-transform:translate3d(60%,0,0);transform:translate3d(60%,0,0)}
+@keyframes gslideInRight{from{opacity:0;visibility:hidden;-webkit-transform:translate3d(60%,0,0);transform:translate3d(60%,0,0)}
 to{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0);opacity:1}
 }
-@-webkit-keyframes gslideOutRight{from{opacity:1;visibility:visible;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+@-webkit-keyframes gslideOutRight{from{opacity:1;visibility:hidden;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
 to{-webkit-transform:translate3d(60%,0,0);transform:translate3d(60%,0,0);opacity:0}
 }
-@keyframes gslideOutRight{from{opacity:1;visibility:visible;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+@keyframes gslideOutRight{from{opacity:1;visibility:hidden;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
 to{-webkit-transform:translate3d(60%,0,0);transform:translate3d(60%,0,0);opacity:0}
 }
 @-webkit-keyframes gzoomIn{from{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}
