@@ -32,6 +32,7 @@ Glight
 
 <h2>Capetown to Windhoek</h2>
 
+<figure>
  <div class="columns">
    <div class="img1"><a class="glightbox" href="https://64.media.tumblr.com/a1410c88f6b9d861898ad02cf1b491e5/433a940ef3b25307-46/s540x810/2a53308ca6bb64cf5ab68c3a2f08a046aa3d37ea.jpg"><img src="https://64.media.tumblr.com/a1410c88f6b9d861898ad02cf1b491e5/433a940ef3b25307-46/s540x810/2a53308ca6bb64cf5ab68c3a2f08a046aa3d37ea.jpg" /></a>
 </div>
@@ -76,3 +77,4 @@ Glight
 <div class="img3"><a class="glightbox" href="https://64.media.tumblr.com/08d2294c16994d8f33710256ce62820b/433a940ef3b25307-c6/s540x810/3e1d409da4937002a9048fe3de44eaadda710e6c.jpg"><img src="https://64.media.tumblr.com/08d2294c16994d8f33710256ce62820b/433a940ef3b25307-c6/s540x810/3e1d409da4937002a9048fe3de44eaadda710e6c.jpg" /></a>
 </div>
 </div>
+</figure>
