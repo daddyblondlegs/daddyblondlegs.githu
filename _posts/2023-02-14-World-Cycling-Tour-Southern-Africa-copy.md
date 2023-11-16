@@ -22,6 +22,13 @@ It's probably not hard to imagine that this was my favorite leg of the world tou
   </a> 
 </p>
 
+
+Glight
+<figure>
+  <a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" class="glightbox">
+    <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="{{ include.alt || include.caption }}">
+  </a>
+
 <a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" data-lightbox="sample single image">
     <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="lightbox-sample-image" title="Lightbox sample image">
   </a> 
