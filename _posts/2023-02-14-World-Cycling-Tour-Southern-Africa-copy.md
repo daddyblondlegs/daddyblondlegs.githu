@@ -14,16 +14,11 @@ tags: [World Tour, Africa, Cycling]
 It's probably not hard to imagine that this was my favorite leg of the world tour. The traffic to nature ratio was excellent.
 
 
-<div class="hes-gallery" data-wrap="true" data-img-count="true">
-            <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="image1" data-subtext="kociak" data-alt="kociak">
-            <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="image2" data-subtext="Kolejny kociak">
-            <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="image3" data-subtext="Trzeci kociak ^^" >
-            <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="image4" data-subtext="Leci czwart" data-alt="co jeest" >
-            <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="image5" data-subtext="Daleeeej" >
-            <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="image6" data-subtext="Kozaaak" >
-            <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="image7" data-subtext="Slodziaaaaak" >
-            <img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" alt="image8" data-subtext="Ostatni kociak :/" >
-</div>
+<a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" data-lightbox="image-1" data-title="My caption">Image #1</a>
+
+<a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" data-lightbox="roadtrip">Image #2</a>
+<a href="https://64.media.tumblr.com/2e2dd62d288dfdff04d6737d3da495ea/0875d5ee7e36b55a-dc/s2048x3072/ae98abf46f36d2e564567ceca2ddfcf3e7a14a9b.jpg" data-lightbox="roadtrip">Image #3</a>
+<a href="https://64.media.tumblr.com/38b7e0ecd01b6009a7df1ef5df017199/0875d5ee7e36b55a-1e/s2048x3072/5b7dc246b18f781121d2eb93eecc1b6e89728012.jpg" data-lightbox="roadtrip">Image #4</a>
 
 <h2>Capetown to Windhoek</h2>
 
@@ -93,49 +88,40 @@ It's probably not hard to imagine that this was my favorite leg of the world tou
 <h2>Windhoek to Livingstone</h2>
   
   <div class="columns">
-  <p>   <a class="img1" href="https://64.media.tumblr.com/a1410c88f6b9d861898ad02cf1b491e5/433a940ef3b25307-46/s540x810/2a53308ca6bb64cf5ab68c3a2f08a046aa3d37ea.jpg"><img src="https://64.media.tumblr.com/a1410c88f6b9d861898ad02cf1b491e5/433a940ef3b25307-46/s540x810/2a53308ca6bb64cf5ab68c3a2f08a046aa3d37ea.jpg" /></a>
-</img>
-  <a class="img2" href="https://64.media.tumblr.com/efd03e06e8ff0bea4811a4099bc69910/433a940ef3b25307-34/s540x810/1464ea5f4cde741be15c29938faecb1fca3fa785.jpg"><img src="https://64.media.tumblr.com/efd03e06e8ff0bea4811a4099bc69910/433a940ef3b25307-34/s540x810/1464ea5f4cde741be15c29938faecb1fca3fa785.jpg" /></a>
-  </img>
-  <a class="img1" href="https://64.media.tumblr.com/61545ce879ee74092e411d52ba000fd8/433a940ef3b25307-b5/s540x810/282d4e5298c826361ec860e87162aa8b69431ae7.jpg"><img src="https://64.media.tumblr.com/61545ce879ee74092e411d52ba000fd8/433a940ef3b25307-b5/s540x810/282d4e5298c826361ec860e87162aa8b69431ae7.jpg" /></a>
-</img>
-  </p>
+   <div class="img1"><a href="https://64.media.tumblr.com/a1410c88f6b9d861898ad02cf1b491e5/433a940ef3b25307-46/s540x810/2a53308ca6bb64cf5ab68c3a2f08a046aa3d37ea.jpg"><img src="https://64.media.tumblr.com/a1410c88f6b9d861898ad02cf1b491e5/433a940ef3b25307-46/s540x810/2a53308ca6bb64cf5ab68c3a2f08a046aa3d37ea.jpg" /></a>
+</div>
+  <div class="img2"><a href="https://64.media.tumblr.com/efd03e06e8ff0bea4811a4099bc69910/433a940ef3b25307-34/s540x810/1464ea5f4cde741be15c29938faecb1fca3fa785.jpg"><img src="https://64.media.tumblr.com/efd03e06e8ff0bea4811a4099bc69910/433a940ef3b25307-34/s540x810/1464ea5f4cde741be15c29938faecb1fca3fa785.jpg" /></a>
+  </div>
+  <div class="img3"><a href="https://64.media.tumblr.com/61545ce879ee74092e411d52ba000fd8/433a940ef3b25307-b5/s540x810/282d4e5298c826361ec860e87162aa8b69431ae7.jpg"><img src="https://64.media.tumblr.com/61545ce879ee74092e411d52ba000fd8/433a940ef3b25307-b5/s540x810/282d4e5298c826361ec860e87162aa8b69431ae7.jpg" /></a>
+</div>
+   <div class="img1"><a href="https://64.media.tumblr.com/efd03e06e8ff0bea4811a4099bc69910/d14511bd4a276187-ea/s2048x3072/75d07e3452eb0d0e923e4b1ba3d9ea55baf09118.jpg"><img src="https://64.media.tumblr.com/efd03e06e8ff0bea4811a4099bc69910/d14511bd4a276187-ea/s2048x3072/75d07e3452eb0d0e923e4b1ba3d9ea55baf09118.jpg" /></a>
+</div>
+<div class="img2"><a href="https://64.media.tumblr.com/a25e43ee2fa09860a5dba0d4998c6529/d14511bd4a276187-f4/s2048x3072/071c6dc91173c518fa6fb7a8a9414711a221e690.jpg"><img src="https://64.media.tumblr.com/a25e43ee2fa09860a5dba0d4998c6529/d14511bd4a276187-f4/s2048x3072/071c6dc91173c518fa6fb7a8a9414711a221e690.jpg" /></a>
+</div>
+<div class="img3"><a href="https://64.media.tumblr.com/ea9f3dd10084afb0b968e9d7bd3be413/d14511bd4a276187-db/s2048x3072/df0a86942a2b3f66ba36af9d9203ff7616e06f24.jpg"><img src="https://64.media.tumblr.com/ea9f3dd10084afb0b968e9d7bd3be413/d14511bd4a276187-db/s2048x3072/df0a86942a2b3f66ba36af9d9203ff7616e06f24.jpg" /></a>
+</div>
+   <div class="img1"><a href="https://64.media.tumblr.com/c5aae222ab8673d238d58bbc37a03cba/d14511bd4a276187-52/s2048x3072/cb272ac9a14dc9ca187f5983ee851c016ab2d684.jpg"><img src="https://64.media.tumblr.com/c5aae222ab8673d238d58bbc37a03cba/d14511bd4a276187-52/s2048x3072/cb272ac9a14dc9ca187f5983ee851c016ab2d684.jpg" /></a>
+</div>
+<div class="img2"><a href="https://64.media.tumblr.com/4b705d7dce51463975ae3a8bf7df21b6/6aa83f5e4efedd14-71/s540x810/0183118148ef3de0d49890ad90b50864589b93c0.jpg"><img src="https://64.media.tumblr.com/4b705d7dce51463975ae3a8bf7df21b6/6aa83f5e4efedd14-71/s540x810/0183118148ef3de0d49890ad90b50864589b93c0.jpg" /></a>
+</div>
+<div class="img3"><a href="https://64.media.tumblr.com/ef9c96f284fa4f79c79bed5a012eec37/6aa83f5e4efedd14-99/s540x810/de8a14535b26fee8e769ed184b6a33e57cbeaa6c.jpg"><img src="https://64.media.tumblr.com/ef9c96f284fa4f79c79bed5a012eec37/6aa83f5e4efedd14-99/s540x810/de8a14535b26fee8e769ed184b6a33e57cbeaa6c.jpg" /></a>
+</div>
+   <div class="img1"><a href="https://64.media.tumblr.com/362c234612d02f197958712b64860077/6aa83f5e4efedd14-57/s540x810/5e6227edbc03e3da3f2c202aad16bf4d1eb99faf.jpg"><img src="https://64.media.tumblr.com/362c234612d02f197958712b64860077/6aa83f5e4efedd14-57/s540x810/5e6227edbc03e3da3f2c202aad16bf4d1eb99faf.jpg" /></a>
+</div>
+<div class="img2"><a href="https://64.media.tumblr.com/25d0bd2bae5804dbba6e4ccf70d7d89a/6aa83f5e4efedd14-d5/s540x810/d19f9e0bb9dc4e565091a82d4327fd7e34dbe60f.jpg"><img src="https://64.media.tumblr.com/25d0bd2bae5804dbba6e4ccf70d7d89a/6aa83f5e4efedd14-d5/s540x810/d19f9e0bb9dc4e565091a82d4327fd7e34dbe60f.jpg" /></a>
+</div>
+<div class="img3"><a href="https://64.media.tumblr.com/2a998b71c56cdaa46776eb589ccc1ed5/6aa83f5e4efedd14-ed/s540x810/6bf04eb3983d146f117280b0a482b6cb30f96d68.jpg"><img src="https://64.media.tumblr.com/2a998b71c56cdaa46776eb589ccc1ed5/6aa83f5e4efedd14-ed/s540x810/6bf04eb3983d146f117280b0a482b6cb30f96d68.jpg" /></a>
+</div>
+</div>
 
 <div class="columns">
-  <p>   <a class="img1" href="https://64.media.tumblr.com/efd03e06e8ff0bea4811a4099bc69910/d14511bd4a276187-ea/s2048x3072/75d07e3452eb0d0e923e4b1ba3d9ea55baf09118.jpg"><img src="https://64.media.tumblr.com/efd03e06e8ff0bea4811a4099bc69910/d14511bd4a276187-ea/s2048x3072/75d07e3452eb0d0e923e4b1ba3d9ea55baf09118.jpg" /></a>
-</img>
-<a class="img1" href="https://64.media.tumblr.com/a25e43ee2fa09860a5dba0d4998c6529/d14511bd4a276187-f4/s2048x3072/071c6dc91173c518fa6fb7a8a9414711a221e690.jpg"><img src="https://64.media.tumblr.com/a25e43ee2fa09860a5dba0d4998c6529/d14511bd4a276187-f4/s2048x3072/071c6dc91173c518fa6fb7a8a9414711a221e690.jpg" /></a>
-</img>
-<a class="img1" href="https://64.media.tumblr.com/ea9f3dd10084afb0b968e9d7bd3be413/d14511bd4a276187-db/s2048x3072/df0a86942a2b3f66ba36af9d9203ff7616e06f24.jpg"><img src="https://64.media.tumblr.com/ea9f3dd10084afb0b968e9d7bd3be413/d14511bd4a276187-db/s2048x3072/df0a86942a2b3f66ba36af9d9203ff7616e06f24.jpg" /></a>
-</img>
-</img>
-
-<div class="columns">
-  <p>   <a class="img1" href="https://64.media.tumblr.com/c5aae222ab8673d238d58bbc37a03cba/d14511bd4a276187-52/s2048x3072/cb272ac9a14dc9ca187f5983ee851c016ab2d684.jpg"><img src="https://64.media.tumblr.com/c5aae222ab8673d238d58bbc37a03cba/d14511bd4a276187-52/s2048x3072/cb272ac9a14dc9ca187f5983ee851c016ab2d684.jpg" /></a>
-</img>
-<a class="img1" href="https://64.media.tumblr.com/4b705d7dce51463975ae3a8bf7df21b6/6aa83f5e4efedd14-71/s540x810/0183118148ef3de0d49890ad90b50864589b93c0.jpg"><img src="https://64.media.tumblr.com/4b705d7dce51463975ae3a8bf7df21b6/6aa83f5e4efedd14-71/s540x810/0183118148ef3de0d49890ad90b50864589b93c0.jpg" /></a>
-</img>
-<a class="img1" href="https://64.media.tumblr.com/ef9c96f284fa4f79c79bed5a012eec37/6aa83f5e4efedd14-99/s540x810/de8a14535b26fee8e769ed184b6a33e57cbeaa6c.jpg"><img src="https://64.media.tumblr.com/ef9c96f284fa4f79c79bed5a012eec37/6aa83f5e4efedd14-99/s540x810/de8a14535b26fee8e769ed184b6a33e57cbeaa6c.jpg" /></a>
-</img>
-</img>
-
-<div class="columns">
-  <p>   <a class="img1" href="https://64.media.tumblr.com/362c234612d02f197958712b64860077/6aa83f5e4efedd14-57/s540x810/5e6227edbc03e3da3f2c202aad16bf4d1eb99faf.jpg"><img src="https://64.media.tumblr.com/362c234612d02f197958712b64860077/6aa83f5e4efedd14-57/s540x810/5e6227edbc03e3da3f2c202aad16bf4d1eb99faf.jpg" /></a>
-</img>
-<a class="img1" href="https://64.media.tumblr.com/25d0bd2bae5804dbba6e4ccf70d7d89a/6aa83f5e4efedd14-d5/s540x810/d19f9e0bb9dc4e565091a82d4327fd7e34dbe60f.jpg"><img src="https://64.media.tumblr.com/25d0bd2bae5804dbba6e4ccf70d7d89a/6aa83f5e4efedd14-d5/s540x810/d19f9e0bb9dc4e565091a82d4327fd7e34dbe60f.jpg" /></a>
-</img>
-<a class="img1" href="https://64.media.tumblr.com/2a998b71c56cdaa46776eb589ccc1ed5/6aa83f5e4efedd14-ed/s540x810/6bf04eb3983d146f117280b0a482b6cb30f96d68.jpg"><img src="https://64.media.tumblr.com/2a998b71c56cdaa46776eb589ccc1ed5/6aa83f5e4efedd14-ed/s540x810/6bf04eb3983d146f117280b0a482b6cb30f96d68.jpg" /></a>
-</img>
-</img>
-
-<div class="columns">
-  <p>   <a class="img1" href="https://64.media.tumblr.com/da8474fc38231fb6962cd5ea36b03879/6aa83f5e4efedd14-2a/s540x810/d76807e03dba1f665c9c26c6941e208fdce31773.jpg"><img src="https://64.media.tumblr.com/da8474fc38231fb6962cd5ea36b03879/6aa83f5e4efedd14-2a/s540x810/d76807e03dba1f665c9c26c6941e208fdce31773.jpg " /></a>
-</img>
-<a class="img1" href="https://64.media.tumblr.com/7829344d0b2deabdccdc83599fdf3d3e/6aa83f5e4efedd14-fb/s540x810/0a39fbdccc86f5647d567c9b50c94992b5b63441.jpg"><img src="https://64.media.tumblr.com/7829344d0b2deabdccdc83599fdf3d3e/6aa83f5e4efedd14-fb/s540x810/0a39fbdccc86f5647d567c9b50c94992b5b63441.jpg " /></a>
-</img>
-<a class="img1" href="https://64.media.tumblr.com/08d2294c16994d8f33710256ce62820b/433a940ef3b25307-c6/s540x810/3e1d409da4937002a9048fe3de44eaadda710e6c.jpg"><img src="https://64.media.tumblr.com/08d2294c16994d8f33710256ce62820b/433a940ef3b25307-c6/s540x810/3e1d409da4937002a9048fe3de44eaadda710e6c.jpg" /></a>
-</img>
-</img>
+   <div class="img1"><a href="https://64.media.tumblr.com/da8474fc38231fb6962cd5ea36b03879/6aa83f5e4efedd14-2a/s540x810/d76807e03dba1f665c9c26c6941e208fdce31773.jpg"><img src="https://64.media.tumblr.com/da8474fc38231fb6962cd5ea36b03879/6aa83f5e4efedd14-2a/s540x810/d76807e03dba1f665c9c26c6941e208fdce31773.jpg " /></a>
+</div>
+<div class="img2"><a href="https://64.media.tumblr.com/7829344d0b2deabdccdc83599fdf3d3e/6aa83f5e4efedd14-fb/s540x810/0a39fbdccc86f5647d567c9b50c94992b5b63441.jpg"><img src="https://64.media.tumblr.com/7829344d0b2deabdccdc83599fdf3d3e/6aa83f5e4efedd14-fb/s540x810/0a39fbdccc86f5647d567c9b50c94992b5b63441.jpg " /></a>
+</div>
+<div class="img3"><a href="https://64.media.tumblr.com/08d2294c16994d8f33710256ce62820b/433a940ef3b25307-c6/s540x810/3e1d409da4937002a9048fe3de44eaadda710e6c.jpg"><img src="https://64.media.tumblr.com/08d2294c16994d8f33710256ce62820b/433a940ef3b25307-c6/s540x810/3e1d409da4937002a9048fe3de44eaadda710e6c.jpg" /></a>
+</div>
+</div>
 
 Experiement
 <div class="columns">
