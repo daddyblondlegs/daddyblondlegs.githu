@@ -9,7 +9,10 @@ For just $300, you get your very own motorcycle. No, not rent, completely own. G
 
 <p class="jumbotron" style="text-align: center; padding: 2rem 1rem;background-color: #dad2be;">
 Trans-Nam Motorbike Tour
-<br>
+Distance: 1,370mi/(2,200km)<br>
+Days: 14<br>
+Personal wrecks: 3-4<br>
+Group wrecks: 6<br>
 <br>
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&captionMenus=true&starControl=false&editinosmControl=false&datalayers=709232#6/16.273/109.336"></iframe></p>
 
@@ -100,9 +103,9 @@ We took a dirt road along the coast to a resort town. A pair of women on a scoot
 <div class="img1"><a href="https://64.media.tumblr.com/cf7a53a6c61df0d1c01e123d01bbf3ac/780577d8ca9ac848-f9/s500x750/100fad6d4da8af059f4f9121d42e9fdde6cc0a92.jpg"><img alt="" class="glightbox" src="https://64.media.tumblr.com/cf7a53a6c61df0d1c01e123d01bbf3ac/780577d8ca9ac848-f9/s2048x3072/5ecae7a2d36881a09dd101226d73336054ac75cd.jpg"></a></div>
 
 <br>
-<h2>To the End</h2>
+<h2>Growing Up</h2>
 
-I could still drive the remaining few days to Ho Chi Minh City, yet I found myself on the back of Dan's bike while Mitch drove mine. Mitch's piston had seized the night before, and he set his bike on fire. Somewhere on the back of that motorcycle it dawned on me that it made no sense that he was driving mine. He'd suggested it, and I went along with it because it was hard for me to stand up for myself. It became a challenge to "become a man", that I rose to and said I wanted to drive the rest of the way. No big deal. We switched places, and I rode the rest of the way into 5 lanes of stop-and-go traffic into the country's largest city. I'd not had this accomplishment if I'd just let it go.
+I could still drive the remaining few days to Ho Chi Minh City, yet I found myself on the back of Dan's bike while Mitch drove mine. Mitch's piston had seized the night before, and he set his bike on fire. Somewhere on the back of that motorcycle it dawned on me that it made no sense that he was driving mine. He'd suggested it, and I went along with it because it was hard for me to stand up for myself. It became a challenge to "become a man", that I rose to and said I wanted to drive the rest of the way. No big deal. We switched places, and I rode the rest of the way into 5 lanes of stop-and-go traffic into the country's largest city. I'd not had the accomplishment of cycling from Hanoi to Ho Chi Minh if I'd just "let it go".
 <br>
 
 <div class="columns">
@@ -110,4 +113,4 @@ I could still drive the remaining few days to Ho Chi Minh City, yet I found myse
 
 <div class="img1"><a href="https://64.media.tumblr.com/138f80eec8cacbf60cac5d87edd790f7/780577d8ca9ac848-a9/s500x750/3c16293291f2930f315a6abf7eb4ad778d52bba4.jpg"><img alt="" class="glightbox" src="https://64.media.tumblr.com/138f80eec8cacbf60cac5d87edd790f7/780577d8ca9ac848-a9/s2048x3072/d49c02650f111abfd4599353ba0df89b956550a5.jpg"></a></div></div>
 
-The company I bought my bike from, bought it back from me in HCMC for about $200. For 14 days of full-throttle excitement, that's quite the deal! It was my first trip where I crossed a lot of distance, and inspired a trip to India that failed and became a <div class="img1"><a href="https://daddyblondlegs.com/Motorbiking-across-Malaysia/">trip to Malaysia</a></div>, and later a really cool <div class="img1"><a href="https://daddyblondlegs.com//Motorbiking-across-Myanmar/">excursion across Myanmar</a></div>.
+The company I bought my bike from, bought it back from me in HCMC for about $200. For 14 days of full-throttle excitement, that's quite the deal! It was my first trip where I crossed a lot of distance, and inspired a trip to India that failed and became a <a href="https://daddyblondlegs.com/Motorbiking-across-Malaysia/">trip to Malaysia</a>, and later a really cool <a href="https://daddyblondlegs.com//Motorbiking-across-Myanmar/">excursion across Myanmar</a>.

@@ -36,10 +36,10 @@ Having trouble visiting places as a foreigner in post-pandemic China was to be e
 
 <div class="row">
   <div class="column2">
-    <img src="https://64.media.tumblr.com/51d4935848b8f1ca5c0d28bff17e2d44/4b2eb7ca37b6f2c1-cd/s1280x1920/1c85e55cdaf559d289fb34d31ac891f2a92dcdcb.jpg" alt="Chinese Health Code" style="width:100%">
+    <img class="glightbox" src="https://64.media.tumblr.com/51d4935848b8f1ca5c0d28bff17e2d44/4b2eb7ca37b6f2c1-cd/s1280x1920/1c85e55cdaf559d289fb34d31ac891f2a92dcdcb.jpg" alt="Chinese Health Code" style="width:100%">
   </div>
   <div class="column2">
-    <img src="https://64.media.tumblr.com/f61059b88b4c05bbbfcc04e9d95b867a/4b2eb7ca37b6f2c1-fe/s1280x1920/3a2688653205ae0249e6ad42e643a462be266e44.jpg" alt="Chinese Jiankangma for Covid" style="width:100%">
+    <img class="glightbox" src="https://64.media.tumblr.com/f61059b88b4c05bbbfcc04e9d95b867a/4b2eb7ca37b6f2c1-fe/s1280x1920/3a2688653205ae0249e6ad42e643a462be266e44.jpg" alt="Chinese Jiankangma for Covid" style="width:100%">
   </div>
 
 
