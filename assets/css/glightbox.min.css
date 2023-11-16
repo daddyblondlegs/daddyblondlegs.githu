@@ -78,10 +78,12 @@ iframe.wait-autoplay{opacity:0}
 .glightbox-clean .gclose:hover{opacity:1}
 .gfadeIn{-webkit-animation:gfadeIn .5s ease;animation:gfadeIn .5s ease}
 .gfadeOut{-webkit-animation:gfadeOut .5s ease;animation:gfadeOut .5s ease}
+/*
 .gslideOutLeft{-webkit-animation:gslideOutLeft 0s ease;animation:gslideOutLeft 0s ease}
 .gslideInLeft{-webkit-animation:gslideInLeft .3s ease;animation:gslideInLeft 0s ease}
 .gslideOutRight{-webkit-animation:gslideOutRight 0s ease;animation:gslideOutRight 0s ease}
 .gslideInRight{-webkit-animation:gslideInRight 0s ease;animation:gslideInRight 0s ease}
+*/
 .gzoomIn{-webkit-animation:gzoomIn .5s ease;animation:gzoomIn .5s ease}
 .gzoomOut{-webkit-animation:gzoomOut .5s ease;animation:gzoomOut .5s ease}
 @-webkit-keyframes lightboxLoader{0%{-webkit-transform:rotate(0);transform:rotate(0)}
