@@ -8651,7 +8651,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .about-timeline{background-image: linear-gradient(#e1f0ff, #fff4d7);; padding: 1% 0 0px;}
 
-.timeline-box h6{font-size: 55px; line-height: 1; color: #e11107; font-weight: 100; font-family: 'Helvetica Neue', sans-serif;background-color: ;position: relative; z-index: 1; display: inline-block; width: auto; padding: 0 10px;margin: -2em; transform: translate(0,-50%);} 
+.timeline-box h6{font-size: 55px; line-height: 1; color: #8cb2e9; font-weight: 100; font-family: 'Helvetica Neue', sans-serif;background-color: ;position: relative; z-index: 1; display: inline-block; width: auto; padding: 0 10px;margin: -2em; transform: translate(0,-50%);} 
 
 .timeline-box a{color:#8cb2e9} 
 .timeline-box:hover a{color:#fff;}

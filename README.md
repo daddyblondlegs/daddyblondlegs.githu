@@ -1,1 +1,1 @@
-Daddy Blond Legs wants to help you on your next bike tour by giving you ideas about the bike and gear you should use and where you should go. 
+Daddy Blondlegs wants to help you on your next bike tour by giving you ideas about the bike and gear you should use and where you should go. 

@@ -13,12 +13,11 @@ tags: [World Tour, Africa, Cycling]
 
 It's probably not hard to imagine that this was my favorite leg of the world tour. The traffic to nature ratio was excellent.
 
-
-<a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" data-lightbox="image-1" data-title="My caption">Image #1</a>
-
-<a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" data-lightbox="roadtrip">Image #2</a>
-<a href="https://64.media.tumblr.com/2e2dd62d288dfdff04d6737d3da495ea/0875d5ee7e36b55a-dc/s2048x3072/ae98abf46f36d2e564567ceca2ddfcf3e7a14a9b.jpg" data-lightbox="roadtrip">Image #3</a>
-<a href="https://64.media.tumblr.com/38b7e0ecd01b6009a7df1ef5df017199/0875d5ee7e36b55a-1e/s2048x3072/5b7dc246b18f781121d2eb93eecc1b6e89728012.jpg" data-lightbox="roadtrip">Image #4</a>
+<p>
+  <a href="/assets/images/2021-30-12_jekyll-lightbox_sample-image.jpeg" data-lightbox="sample single image">
+    <img src="/assets/images/2021-30-12_jekyll-lightbox_sample-image.jpeg" alt="lightbox-sample-image" title="Lightbox sample image">
+  </a> 
+</p>
 
 <h2>Capetown to Windhoek</h2>
 
