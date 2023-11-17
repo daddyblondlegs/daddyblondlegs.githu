@@ -209,7 +209,7 @@ Number of mosquito bites: ∞<br>
 
 <p>&nbsp;</p>
 
-<p><img class="smallest" src="https://64.media.tumblr.com/a54c59a62b7f16ac7983c36a4d25230b/tumblr_ocmhmtMQFQ1ubdk8fo3_1280.jpg" /></p>
+<p><img class="glightbox" src="https://64.media.tumblr.com/a54c59a62b7f16ac7983c36a4d25230b/tumblr_ocmhmtMQFQ1ubdk8fo3_1280.jpg" /></p>
 
 <a href="https://64.media.tumblr.com/a5d0b5b104135dda96123c8f1c8ba5f2/tumblr_ocmhmtMQFQ1ubdk8fo5_1280.jpg"><img class="column2" src="https://64.media.tumblr.com/a5d0b5b104135dda96123c8f1c8ba5f2/tumblr_ocmhmtMQFQ1ubdk8fo5_1280.jpg" /></a>
 

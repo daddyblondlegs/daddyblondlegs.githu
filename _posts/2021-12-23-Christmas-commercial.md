@@ -21,19 +21,19 @@ tag: [China, ShenZhen]
 
 <p>&nbsp;</p>
 
-<p><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/76751d2246e3a752bf48c48f0fc8826d/987040df88261879-7e/s500x750/bf9d4eccb8bfcfa23b45a207d272562de67061ad.jpg" /></p>
+<p><img alt="image" class="glightbox" src="https://64.media.tumblr.com/76751d2246e3a752bf48c48f0fc8826d/987040df88261879-7e/s500x750/bf9d4eccb8bfcfa23b45a207d272562de67061ad.jpg" /></p>
 
-<p><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/2c5a1267728d046972fd9fae23e5249b/987040df88261879-3b/s500x750/6fe228426fea6b7c82a24217715e3e7e48cf3172.jpg" /></p>
+<p><img alt="image" class="glightbox" src="https://64.media.tumblr.com/2c5a1267728d046972fd9fae23e5249b/987040df88261879-3b/s500x750/6fe228426fea6b7c82a24217715e3e7e48cf3172.jpg" /></p>
 
 <p>Several weeks later the video girl asked if I want to be a hand model, which was a bit of a let down because I thought she said head model (you know I have experience).</p>
 
 <p>In a studio lot 10 minutes from where we work, I walked in on a white-on-white set contrasted by one of our big honkin&rsquo; black boxes. &ldquo;Just press and hold for 3 seconds&hellip; wait for it to beep&hellip;&rdquo;. &ldquo;&hellip;uhp, too fast, pause longer in between&hellip;&rdquo; &ldquo;&hellip;plug the male into the female for the black cable, ok and now the red&hellip;&rdquo; &ldquo;Great work!&rdquo;. I&rsquo;d hop out of the set and nine guys would redundantly start doing all of the arrangements for the next set and call me when it was ready. It was as close as I&rsquo;ll get to being a dignitary. The videos are to be for tutorials on topics that most people learned how to do in the 20th century, but I don&rsquo;t let it get to me, my dainty mitts got air time.</p>
 
-<p><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/4ac0aa26684f12fdb50d611980ae3907/987040df88261879-d6/s500x750/605b2b834d7ad146734e2215c717b55cddac1523.jpg" /></p>
+<p><img alt="image" class="glightbox" src="https://64.media.tumblr.com/4ac0aa26684f12fdb50d611980ae3907/987040df88261879-d6/s500x750/605b2b834d7ad146734e2215c717b55cddac1523.jpg" /></p>
 
-<p><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/926b18b510a891ebcad336ba6b75fd20/987040df88261879-d4/s500x750/a54d0292891cb7322e3ebba8dd11063cee7cd91c.jpg" /></p>
+<p><img alt="image" class="glightbox" src="https://64.media.tumblr.com/926b18b510a891ebcad336ba6b75fd20/987040df88261879-d4/s500x750/a54d0292891cb7322e3ebba8dd11063cee7cd91c.jpg" /></p>
 
-<p><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/0d86de23feb7cae4b9c4032985736b94/987040df88261879-a8/s500x750/17b4e9de91d46df097f504dc5220bf012db2d180.jpg" /></p>
+<p><img alt="image" class="glightbox" src="https://64.media.tumblr.com/0d86de23feb7cae4b9c4032985736b94/987040df88261879-a8/s500x750/17b4e9de91d46df097f504dc5220bf012db2d180.jpg" /></p>
 
 <ul>
 </ul>

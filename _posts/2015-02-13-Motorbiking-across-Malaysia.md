@@ -21,13 +21,13 @@ tags: [Malaysia, Motorcycle]
 &nbsp;</p>
 
 
-<a href="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg" /></a><a href="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg" /></a><a href="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg" /></a>
 <div class="columns">
   <div class="img1">
-   <a href="https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg"><img src="https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg" /></a>
+   <a href="https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg" /></a>
   </div>
   <div class="img2">
-   <a href="https://64.media.tumblr.com/9784634013130d158d0174a6ac101707/tumblr_ntcmrvcL9i1ubdk8fo6_1280.jpg"><img src="https://64.media.tumblr.com/9784634013130d158d0174a6ac101707/tumblr_ntcmrvcL9i1ubdk8fo6_1280.jpg" /></a>
+   <a href="https://64.media.tumblr.com/9784634013130d158d0174a6ac101707/tumblr_ntcmrvcL9i1ubdk8fo6_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/9784634013130d158d0174a6ac101707/tumblr_ntcmrvcL9i1ubdk8fo6_1280.jpg" /></a>
   </div>
   </div>
 
@@ -38,10 +38,10 @@ tags: [Malaysia, Motorcycle]
 
 <div class="columns">
   <div class="img1">
-   <a href="https://64.media.tumblr.com/4b9952f1fbfa81ab67aa13442e3f5669/tumblr_ntd8ijFlYZ1ubdk8fo3_640.jpg"><img class="smallest" src="https://64.media.tumblr.com/4b9952f1fbfa81ab67aa13442e3f5669/tumblr_ntd8ijFlYZ1ubdk8fo3_640.jpg" /></a>
+   <a href="https://64.media.tumblr.com/4b9952f1fbfa81ab67aa13442e3f5669/tumblr_ntd8ijFlYZ1ubdk8fo3_640.jpg"><img class="glightbox" src="https://64.media.tumblr.com/4b9952f1fbfa81ab67aa13442e3f5669/tumblr_ntd8ijFlYZ1ubdk8fo3_640.jpg" /></a>
   </div>
   <div class="img2">
- <a href="https://64.media.tumblr.com/547736711caf4d3f8f43232f6759b1e3/tumblr_ntd8ijFlYZ1ubdk8fo6_640.jpg"><img src="https://64.media.tumblr.com/547736711caf4d3f8f43232f6759b1e3/tumblr_ntd8ijFlYZ1ubdk8fo6_640.jpg" /></a>
+ <a href="https://64.media.tumblr.com/547736711caf4d3f8f43232f6759b1e3/tumblr_ntd8ijFlYZ1ubdk8fo6_640.jpg"><img class="glightbox" src="https://64.media.tumblr.com/547736711caf4d3f8f43232f6759b1e3/tumblr_ntd8ijFlYZ1ubdk8fo6_640.jpg" /></a>
  </div>
   </div>
 
@@ -51,33 +51,33 @@ tags: [Malaysia, Motorcycle]
 
 <p>&nbsp;</p>
 
-<a href="https://64.media.tumblr.com/a6a4781f2a5cf4cba2f14c8e92bfeeee/tumblr_ntd8ijFlYZ1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/a6a4781f2a5cf4cba2f14c8e92bfeeee/tumblr_ntd8ijFlYZ1ubdk8fo1_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/a6a4781f2a5cf4cba2f14c8e92bfeeee/tumblr_ntd8ijFlYZ1ubdk8fo1_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/a6a4781f2a5cf4cba2f14c8e92bfeeee/tumblr_ntd8ijFlYZ1ubdk8fo1_1280.jpg" /></a>
 
 <div class="columns">
   <div class="img1">
-   <a href="https://64.media.tumblr.com/d1d69e55d21d1ff2825a905510eaa62f/5b63dce4c5c5e9da-12/s500x750/49b9d439602fcc75b39a6537e7e952ff7c3122e7.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/d1d69e55d21d1ff2825a905510eaa62f/5b63dce4c5c5e9da-12/s500x750/49b9d439602fcc75b39a6537e7e952ff7c3122e7.jpg" /></a>
+   <a href="https://64.media.tumblr.com/d1d69e55d21d1ff2825a905510eaa62f/5b63dce4c5c5e9da-12/s500x750/49b9d439602fcc75b39a6537e7e952ff7c3122e7.jpg"><img alt="image" class="glightbox" src="https://64.media.tumblr.com/d1d69e55d21d1ff2825a905510eaa62f/5b63dce4c5c5e9da-12/s500x750/49b9d439602fcc75b39a6537e7e952ff7c3122e7.jpg" /></a>
   </div>
   <div class="img2">
- <a href="https://64.media.tumblr.com/c828eed3112657ca9a8f5ac02e84dcda/5b63dce4c5c5e9da-d6/s500x750/8afea81080703a9dd4d0138ea7ace8ee98898f1a.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/c828eed3112657ca9a8f5ac02e84dcda/5b63dce4c5c5e9da-d6/s500x750/8afea81080703a9dd4d0138ea7ace8ee98898f1a.jpg" /></a>
+ <a href="https://64.media.tumblr.com/c828eed3112657ca9a8f5ac02e84dcda/5b63dce4c5c5e9da-d6/s500x750/8afea81080703a9dd4d0138ea7ace8ee98898f1a.jpg"><img alt="image" class="glightbox" src="https://64.media.tumblr.com/c828eed3112657ca9a8f5ac02e84dcda/5b63dce4c5c5e9da-d6/s500x750/8afea81080703a9dd4d0138ea7ace8ee98898f1a.jpg" /></a>
  </div>
   </div>
-  <a href="https://64.media.tumblr.com/63135e6745af2dc0c4b3fd1b09c4e2f7/tumblr_ntd8ijFlYZ1ubdk8fo10_1280.jpg"><img src="https://64.media.tumblr.com/63135e6745af2dc0c4b3fd1b09c4e2f7/tumblr_ntd8ijFlYZ1ubdk8fo10_1280.jpg" /></a>
+  <a href="https://64.media.tumblr.com/63135e6745af2dc0c4b3fd1b09c4e2f7/tumblr_ntd8ijFlYZ1ubdk8fo10_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/63135e6745af2dc0c4b3fd1b09c4e2f7/tumblr_ntd8ijFlYZ1ubdk8fo10_1280.jpg" /></a>
 
 <p>I stayed at a beach side resort one night. There was a bench down far enough the guard couldn&#39;t see me. The 9 days were hotel free, tent free, sleeping bag free. I just sort of layed wherever. One night I slept in the upper seating area of a cafeteria above a fish market. One of the tables was broken and laying up against the wall. Two nights were spent in houses under construction, but neither sand piles nor scaffolding are as comfortable as they sound. 
 </p>
 <p>&nbsp;</p>
 <div class="columns">
   <div class="img1">
-<a href="https://64.media.tumblr.com/1f031c404867968ee9f0d2076b3b4046/tumblr_ntd8ijFlYZ1ubdk8fo2_1280.jpg"><img class="smallest" src="https://64.media.tumblr.com/1f031c404867968ee9f0d2076b3b4046/tumblr_ntd8ijFlYZ1ubdk8fo2_1280.jpg" /></a>   
+<a href="https://64.media.tumblr.com/1f031c404867968ee9f0d2076b3b4046/tumblr_ntd8ijFlYZ1ubdk8fo2_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/1f031c404867968ee9f0d2076b3b4046/tumblr_ntd8ijFlYZ1ubdk8fo2_1280.jpg" /></a>   
   </div>
   <div class="img2">
- <a href="https://64.media.tumblr.com/23a95ad3875ffba6c61077718af1a521/tumblr_ntd8ijFlYZ1ubdk8fo7_1280.jpg"><img src="https://64.media.tumblr.com/23a95ad3875ffba6c61077718af1a521/tumblr_ntd8ijFlYZ1ubdk8fo7_1280.jpg" /></a>
+ <a href="https://64.media.tumblr.com/23a95ad3875ffba6c61077718af1a521/tumblr_ntd8ijFlYZ1ubdk8fo7_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/23a95ad3875ffba6c61077718af1a521/tumblr_ntd8ijFlYZ1ubdk8fo7_1280.jpg" /></a>
  </div>
   </div>
 
 
 
-   <img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/ee02bf89ec55e7aac34d840aef82f48d/03e42fe2a6a6f052-14/s500x750/e52608862dcf36f31964d6178ef00f7026fc8ae1.gifv" />
+   <img alt="image" class="glightbox" src="https://64.media.tumblr.com/ee02bf89ec55e7aac34d840aef82f48d/03e42fe2a6a6f052-14/s500x750/e52608862dcf36f31964d6178ef00f7026fc8ae1.gifv" />
   
 
 <p>It was kind of fun being out on the road listening to my 110cc rental bike buzz at its laughable top speed. It was somewhat interesting, but not the mega-awesome experience I had hoped for. I guess trips like that are bound to come along.</p>

@@ -137,4 +137,4 @@ tags: [Italy, Hiking]
 
 <p>&nbsp;</p>
 
-<p><em>And now, it&#39;s time for a <a href="https://64.media.tumblr.com/721bf5b4a47ea684d00a824b9f3bbdee/tumblr_phmi1mIgXx1ubdk8fo3_1280.gifv">celebratory gif dance</a>!</em></p>
+<p><em>And now, it&#39;s time for a <a class="glightbox" href="https://64.media.tumblr.com/721bf5b4a47ea684d00a824b9f3bbdee/tumblr_phmi1mIgXx1ubdk8fo3_1280.gifv">celebratory gif dance</a>!</em></p>

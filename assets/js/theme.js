@@ -216,7 +216,7 @@ if(el.closest('ul, p')) {
 
 document.addEventListener("DOMContentLoaded", function() {
 
-  //create lightbox div in the footer
+ /* //create lightbox div in the footer
   var newdiv = document.createElement("div");
   newdiv.setAttribute('id',"lightbox");
   document.body.appendChild(newdiv);
@@ -276,7 +276,7 @@ document.addEventListener("DOMContentLoaded", function() {
       });
   });
 
-});
+});*/
 
 
 //Image Map Resize

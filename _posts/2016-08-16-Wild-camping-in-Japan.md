@@ -23,7 +23,7 @@ tags: [Cycling, Japan]
 <p>Behind a house under construction makes for an excellent sleeping spot. Only problem was, the neighbor caught me. He told me to leave by digging on his side of the fence, right by where my head was at.</p>
 </blockquote>
 
-<p><img alt="https://64.media.tumblr.com/690e09c9ba10f23cd293faa6c962747b/tumblr_ocmlngNxii1ubdk8fo5_1280.jpg" class="smallest" src="https://64.media.tumblr.com/690e09c9ba10f23cd293faa6c962747b/tumblr_ocmlngNxii1ubdk8fo5_1280.jpg" /></p>
+<p><img alt="https://64.media.tumblr.com/690e09c9ba10f23cd293faa6c962747b/tumblr_ocmlngNxii1ubdk8fo5_1280.jpg" class="glightbox" src="https://64.media.tumblr.com/690e09c9ba10f23cd293faa6c962747b/tumblr_ocmlngNxii1ubdk8fo5_1280.jpg" /></p>
 
 <blockquote>
 <p>For whatever reason, this bridge closes at night. So I slept on it.</p>

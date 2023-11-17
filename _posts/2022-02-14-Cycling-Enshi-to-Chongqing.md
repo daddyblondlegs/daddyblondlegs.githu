@@ -14,7 +14,7 @@ My last big trip in October went halfway across Hubei Province to the Three Gorg
 <p>&nbsp;</p>
 The beauty of Enshi Grand Canyon wasn’t in the down but rather the up. Seeing freshly powdered mountains made the effort worth it. I expected that after a narrow pass at the top of the mountain it would be smooth sailing down small roads toward the highway. In reality, the altitude increased and so did the snow until the road disappeared, car tracks disappeared, people and house disappeared. You just aimed your bike at the giant gap in the trees and that was the road. Downhill, I skied down with one foot on the pedal and the other on the ground until the pavement returned.
 
-<p><a href="https://64.media.tumblr.com/90ca724407ec7d5e8b5fbd3fe15d1bc5/5b98a330237e00f0-6d/s500x750/3806a20ee3883c46dbea485a3aea0a24e681f60c.jpg"><img class="center" src="https://64.media.tumblr.com/90ca724407ec7d5e8b5fbd3fe15d1bc5/5b98a330237e00f0-6d/s500x750/3806a20ee3883c46dbea485a3aea0a24e681f60c.jpg" alt="Enshi to Chongqing Cycling Map" style="width:100%;"></a></p>
+<p><a class="center" href="https://64.media.tumblr.com/90ca724407ec7d5e8b5fbd3fe15d1bc5/5b98a330237e00f0-6d/s500x750/3806a20ee3883c46dbea485a3aea0a24e681f60c.jpg"><img class="glightbox" src="https://64.media.tumblr.com/90ca724407ec7d5e8b5fbd3fe15d1bc5/5b98a330237e00f0-6d/s500x750/3806a20ee3883c46dbea485a3aea0a24e681f60c.jpg" alt="Enshi to Chongqing Cycling Map" style="width:100%;"></a></p>
 
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
