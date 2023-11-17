@@ -3,7 +3,7 @@ layout: post
 title:  "Teaching English in a Small Chinese Town of 1 Million"
 categories: [China, Expat]
 image: https://64.media.tumblr.com/bee89572eb0f844bcb72b8cf9fd416e9/tumblr_nhy20h9yCj1swz9s8o2_1280.jpg
-tags: [China, Expat]
+tags: [China, Expat Life]
 ---
 
 
