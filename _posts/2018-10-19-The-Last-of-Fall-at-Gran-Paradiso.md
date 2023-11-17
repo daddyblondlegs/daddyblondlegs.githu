@@ -11,7 +11,7 @@ tags: [Italy, Hiking]
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/76c464d7fbc3a742cad822203c52e91e/tumblr_inline_phgkpp2Si11tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/76c464d7fbc3a742cad822203c52e91e/tumblr_inline_phgkpp2Si11tz5xrk_1280.jpg" /></a></p>
+<p><a href="https://64.media.tumblr.com/76c464d7fbc3a742cad822203c52e91e/tumblr_inline_phgkpp2Si11tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/76c464d7fbc3a742cad822203c52e91e/tumblr_inline_phgkpp2Si11tz5xrk_1280.jpg" /></a></p>
 
 <p>The trail was almost entirely uphill separated from the road which uncoiled itself as it reached the top. The first day with a backpack weighing at least fifty pounds was a sharp contrast to how it was in the Dolomites the year before. Yet, the warmth was enough to offset the wind blowing over the peaks behind me, and I took two naps on the way up in the sunshine like I was some kind of reptile.</p>
 
@@ -19,7 +19,7 @@ tags: [Italy, Hiking]
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/11e4ff8b6388c5f39a175f813f4d597e/tumblr_inline_phgkdp25ik1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/11e4ff8b6388c5f39a175f813f4d597e/tumblr_inline_phgkdp25ik1tz5xrk_1280.jpg" style="height:354px; width:1280px" /></a></p>
+<p><a href="https://64.media.tumblr.com/11e4ff8b6388c5f39a175f813f4d597e/tumblr_inline_phgkdp25ik1tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/11e4ff8b6388c5f39a175f813f4d597e/tumblr_inline_phgkdp25ik1tz5xrk_1280.jpg" style="height:354px; width:1280px" /></a></p>
 
 <p>The path not so much disappeared as veered off back toward the main road I&rsquo;d left, and so I made my own path over the top of the ridge. The shady side of the mountain had kept snow in hiding between rocks. It was some time before navigating down was without the slippage that had made leaving the trail difficult. I know what they say about red skies at night and hoped the same held for corals and pinks and lavenders.</p>
 
@@ -28,10 +28,10 @@ tags: [Italy, Hiking]
 
 <div class="columns">
   <div class="img1">
-<a href="https://64.media.tumblr.com/cfef37c224bb1149cd34db352d10e129/tumblr_inline_phgke0dGoH1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/cfef37c224bb1149cd34db352d10e129/tumblr_inline_phgke0dGoH1tz5xrk_1280.jpg" style="width: 1280px; height: 960px;" /></a>
+<a href="https://64.media.tumblr.com/cfef37c224bb1149cd34db352d10e129/tumblr_inline_phgke0dGoH1tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/cfef37c224bb1149cd34db352d10e129/tumblr_inline_phgke0dGoH1tz5xrk_1280.jpg" style="width: 1280px; height: 960px;" /></a>
   </div>
   <div class="img2">
-<a href="https://64.media.tumblr.com/772b43ee564fa86b8e3a0778697b6b72/tumblr_inline_phgkdtDqlC1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/772b43ee564fa86b8e3a0778697b6b72/tumblr_inline_phgkdtDqlC1tz5xrk_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/772b43ee564fa86b8e3a0778697b6b72/tumblr_inline_phgkdtDqlC1tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/772b43ee564fa86b8e3a0778697b6b72/tumblr_inline_phgkdtDqlC1tz5xrk_1280.jpg" /></a>
  </div>
   </div>
 
@@ -41,7 +41,7 @@ tags: [Italy, Hiking]
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/60e973875aed4447b390b6999369c088/tumblr_inline_phgku9Dgq71tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/60e973875aed4447b390b6999369c088/tumblr_inline_phgku9Dgq71tz5xrk_1280.jpg" style="height:960px; width:1280px" /></a></p>
+<p><a href="https://64.media.tumblr.com/60e973875aed4447b390b6999369c088/tumblr_inline_phgku9Dgq71tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/60e973875aed4447b390b6999369c088/tumblr_inline_phgku9Dgq71tz5xrk_1280.jpg" style="height:960px; width:1280px" /></a></p>
 
 <h2>&nbsp;</h2>
 
@@ -53,10 +53,10 @@ tags: [Italy, Hiking]
 
 <div class="columns">
   <div class="img1">
-<a href="https://64.media.tumblr.com/d706fd6b148d3be75c56a8b4c3dd8cdf/tumblr_inline_phgn08Www41tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/d706fd6b148d3be75c56a8b4c3dd8cdf/tumblr_inline_phgn08Www41tz5xrk_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/d706fd6b148d3be75c56a8b4c3dd8cdf/tumblr_inline_phgn08Www41tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/d706fd6b148d3be75c56a8b4c3dd8cdf/tumblr_inline_phgn08Www41tz5xrk_1280.jpg" /></a>
   </div>
   <div class="img2">
-<a href="https://64.media.tumblr.com/cc696316d6f51e5f19d634bcd3b504b0/tumblr_inline_phglmfXBbi1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/cc696316d6f51e5f19d634bcd3b504b0/tumblr_inline_phglmfXBbi1tz5xrk_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/cc696316d6f51e5f19d634bcd3b504b0/tumblr_inline_phglmfXBbi1tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/cc696316d6f51e5f19d634bcd3b504b0/tumblr_inline_phglmfXBbi1tz5xrk_1280.jpg" /></a>
  </div>
   </div>
 
@@ -68,7 +68,7 @@ tags: [Italy, Hiking]
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/096223d75b9c3adc4aafe494e2cfbccc/tumblr_inline_phgn3jliGS1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/096223d75b9c3adc4aafe494e2cfbccc/tumblr_inline_phgn3jliGS1tz5xrk_1280.jpg" /></a></p>
+<p><a href="https://64.media.tumblr.com/096223d75b9c3adc4aafe494e2cfbccc/tumblr_inline_phgn3jliGS1tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/096223d75b9c3adc4aafe494e2cfbccc/tumblr_inline_phgn3jliGS1tz5xrk_1280.jpg" /></a></p>
 
 <p>My plan had been to cut across a mountain pass and travel something a bit more rugged than those paths meant for couples in their golden years which I&rsquo;d be on. But for the third time, I heard that the weather would get bad the next day and had to reassess my bravado. The next best thing was to take a trail of a lower altitude winding within the tree line.</p>
 
@@ -83,10 +83,10 @@ tags: [Italy, Hiking]
 <p>&nbsp;</p>
 <div class="columns">
   <div class="img1">
-<a href="https://64.media.tumblr.com/b68968eefc848f198a36bdc721187969/tumblr_inline_phh0xmuI5x1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/b68968eefc848f198a36bdc721187969/tumblr_inline_phh0xmuI5x1tz5xrk_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/b68968eefc848f198a36bdc721187969/tumblr_inline_phh0xmuI5x1tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b68968eefc848f198a36bdc721187969/tumblr_inline_phh0xmuI5x1tz5xrk_1280.jpg" /></a>
   </div>
   <div class="img2">
-<a href="https://64.media.tumblr.com/16c2d4601e03c41d2140c1225e76421b/tumblr_inline_phh18tfqav1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/16c2d4601e03c41d2140c1225e76421b/tumblr_inline_phh18tfqav1tz5xrk_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/16c2d4601e03c41d2140c1225e76421b/tumblr_inline_phh18tfqav1tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/16c2d4601e03c41d2140c1225e76421b/tumblr_inline_phh18tfqav1tz5xrk_1280.jpg" /></a>
  </div>
   </div>
 
@@ -99,7 +99,7 @@ tags: [Italy, Hiking]
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/6fc492ffc4a0e64635df8bb855759445/tumblr_inline_phh17fCVP21tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/6fc492ffc4a0e64635df8bb855759445/tumblr_inline_phh17fCVP21tz5xrk_1280.jpg" /></a></p>
+<p><a href="https://64.media.tumblr.com/6fc492ffc4a0e64635df8bb855759445/tumblr_inline_phh17fCVP21tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/6fc492ffc4a0e64635df8bb855759445/tumblr_inline_phh17fCVP21tz5xrk_1280.jpg" /></a></p>
 
 <p>It seemed the snow was unsure about its place in the world and didn&rsquo;t know what to do here. It would cling to bottom of your shoes leaving a perfectly foot-shaped hole in grass as if one&rsquo;s footsteps could bring the summer back. As a clouded sky made for an early darkness, I came to a junction where the snow was now deep and consistent. Just north was an encampment with a bivouac icon from the map. If there wasn&rsquo;t anywhere to sleep, I would hike down back into the warmer tree line.</p>
 
@@ -120,10 +120,10 @@ tags: [Italy, Hiking]
 <p>&nbsp;</p>
 <div class="columns">
   <div class="img1">
-<a href="https://64.media.tumblr.com/c3f753abe8c5cf9fc1cfb0e9c354b511/tumblr_inline_phklwziqmf1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/c3f753abe8c5cf9fc1cfb0e9c354b511/tumblr_inline_phklwziqmf1tz5xrk_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/c3f753abe8c5cf9fc1cfb0e9c354b511/tumblr_inline_phklwziqmf1tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/c3f753abe8c5cf9fc1cfb0e9c354b511/tumblr_inline_phklwziqmf1tz5xrk_1280.jpg" /></a>
   </div>
   <div class="img2">
-<a href="https://64.media.tumblr.com/3b563b690e69d3f2c9af6b7cb49d5425/tumblr_inline_phh2xbYSQX1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/3b563b690e69d3f2c9af6b7cb49d5425/tumblr_inline_phh2xbYSQX1tz5xrk_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/3b563b690e69d3f2c9af6b7cb49d5425/tumblr_inline_phh2xbYSQX1tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/3b563b690e69d3f2c9af6b7cb49d5425/tumblr_inline_phh2xbYSQX1tz5xrk_1280.jpg" /></a>
  </div>
   </div>
 
@@ -133,7 +133,7 @@ tags: [Italy, Hiking]
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/c8885b7637487e4022c0484a17cef325/tumblr_inline_phkmarEcnh1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/c8885b7637487e4022c0484a17cef325/tumblr_inline_phkmarEcnh1tz5xrk_1280.jpg" /></a></p>
+<p><a href="https://64.media.tumblr.com/c8885b7637487e4022c0484a17cef325/tumblr_inline_phkmarEcnh1tz5xrk_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/c8885b7637487e4022c0484a17cef325/tumblr_inline_phkmarEcnh1tz5xrk_1280.jpg" /></a></p>
 
 <p>&nbsp;</p>
 

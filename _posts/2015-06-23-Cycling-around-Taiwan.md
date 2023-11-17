@@ -55,40 +55,40 @@ special bike lane and everything is developed along the highways. One is
 never more than thirty minutes away from a 7-11 in Taiwan. There were so many near my hostel in Taipei, I could walk to four in
 under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all on the west coast: Taipei, Taichung, and Tainan, which mean north Tai, central Tai, and south Tai. Sleeping spots were usually in business parks or industrial areas. A detour to Sun Moon Lake was a break from the gristly cities.</p>
 
-<a href="https://64.media.tumblr.com/1a9f35a64c591fdd523726c69194c58e/tumblr_ntb2rthpfb1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/1a9f35a64c591fdd523726c69194c58e/tumblr_ntb2rthpfb1ubdk8fo2_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/1a9f35a64c591fdd523726c69194c58e/tumblr_ntb2rthpfb1ubdk8fo2_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/1a9f35a64c591fdd523726c69194c58e/tumblr_ntb2rthpfb1ubdk8fo2_1280.jpg" /></a>
 
-<a href="https://64.media.tumblr.com/862e26dea2286c16b479f26d6eb475e9/tumblr_ntb114A8D91ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/862e26dea2286c16b479f26d6eb475e9/tumblr_ntb114A8D91ubdk8fo1_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/862e26dea2286c16b479f26d6eb475e9/tumblr_ntb114A8D91ubdk8fo1_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/862e26dea2286c16b479f26d6eb475e9/tumblr_ntb114A8D91ubdk8fo1_1280.jpg" /></a>
 
-<a href="https://64.media.tumblr.com/23ea98b70b9f04c2155d6766c9f62342/tumblr_ntb0ryxUDT1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/23ea98b70b9f04c2155d6766c9f62342/tumblr_ntb0ryxUDT1ubdk8fo3_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/23ea98b70b9f04c2155d6766c9f62342/tumblr_ntb0ryxUDT1ubdk8fo3_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/23ea98b70b9f04c2155d6766c9f62342/tumblr_ntb0ryxUDT1ubdk8fo3_1280.jpg" /></a>
 
 <p style="text-align: center;" ><em>Getting through this mountain range was one of the most excruciating events in my life for the longest time. Looking back, the climb only had an elevation of 1000ft (300m), which doesn&#39;t seem like much anymore.</em></p>
 
 
 <div class="columns">
   <div class="img1">
-   <a href="https://64.media.tumblr.com/f67b65a5b11e4db61611f902024773c8/tumblr_ntb0ryxUDT1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/f67b65a5b11e4db61611f902024773c8/tumblr_ntb0ryxUDT1ubdk8fo2_1280.jpg" /></a>
+   <a href="https://64.media.tumblr.com/f67b65a5b11e4db61611f902024773c8/tumblr_ntb0ryxUDT1ubdk8fo2_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f67b65a5b11e4db61611f902024773c8/tumblr_ntb0ryxUDT1ubdk8fo2_1280.jpg" /></a>
   </div>
   <div class="img2">
-<a href="https://64.media.tumblr.com/14c2090c8f29603be1e03b6a01474918/tumblr_ntb114A8D91ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/14c2090c8f29603be1e03b6a01474918/tumblr_ntb114A8D91ubdk8fo2_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/14c2090c8f29603be1e03b6a01474918/tumblr_ntb114A8D91ubdk8fo2_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/14c2090c8f29603be1e03b6a01474918/tumblr_ntb114A8D91ubdk8fo2_1280.jpg" /></a>
  </div>
 </div>
 
 
-<a href="https://64.media.tumblr.com/9956357913906be5a41860265f780823/tumblr_ntb114A8D91ubdk8fo6_1280.jpg"><img src="https://64.media.tumblr.com/9956357913906be5a41860265f780823/tumblr_ntb114A8D91ubdk8fo6_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/9956357913906be5a41860265f780823/tumblr_ntb114A8D91ubdk8fo6_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/9956357913906be5a41860265f780823/tumblr_ntb114A8D91ubdk8fo6_1280.jpg" /></a>
 
 
 <p style="text-align: center;" ><em>Sun Moon Lake was so tranquil, I was that guy and set up a hammock along the bank.</em></p>
 
 <p>&nbsp;</p>
 
-<a href="https://64.media.tumblr.com/00655fbabc742f7c59070a801d3153b7/tumblr_ntb2eyDZgd1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/00655fbabc742f7c59070a801d3153b7/tumblr_ntb2eyDZgd1ubdk8fo2_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/00655fbabc742f7c59070a801d3153b7/tumblr_ntb2eyDZgd1ubdk8fo2_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/00655fbabc742f7c59070a801d3153b7/tumblr_ntb2eyDZgd1ubdk8fo2_1280.jpg" /></a>
 
  <div class="columns">
   <div class="img1">
- <a href="https://64.media.tumblr.com/e090b979a23863c9ac293e2cdf31f95d/tumblr_ntb2eyDZgd1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/e090b979a23863c9ac293e2cdf31f95d/tumblr_ntb2eyDZgd1ubdk8fo3_1280.jpg" /></a>
+ <a href="https://64.media.tumblr.com/e090b979a23863c9ac293e2cdf31f95d/tumblr_ntb2eyDZgd1ubdk8fo3_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/e090b979a23863c9ac293e2cdf31f95d/tumblr_ntb2eyDZgd1ubdk8fo3_1280.jpg" /></a>
   </div>
   <div class="img2">
-<a href="https://64.media.tumblr.com/262c7e83fce01ff3825aaecc38a827b5/tumblr_ntb2eyDZgd1ubdk8fo4_1280.jpg"><img src="https://64.media.tumblr.com/262c7e83fce01ff3825aaecc38a827b5/tumblr_ntb2eyDZgd1ubdk8fo4_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/262c7e83fce01ff3825aaecc38a827b5/tumblr_ntb2eyDZgd1ubdk8fo4_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/262c7e83fce01ff3825aaecc38a827b5/tumblr_ntb2eyDZgd1ubdk8fo4_1280.jpg" /></a>
  </div>
   </div>
 <p style="text-align: center;" ><em>A decorative train car at a factory-turned-boutique venue provided shelter from the rain... for the whole night.</em></p>
@@ -99,18 +99,18 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
 
 <p>Relaxed and tropical, Taiwan&#39;s southern tip is the go-to vacation spot for the island. Some places have even taken on the Hawaiian surf culture; I passed one long-haired guy pulling surf boards out of a Westphalia going out to his secret spot.</p>
 
-<a href="https://64.media.tumblr.com/00a724b6364328aec775d371df29752f/tumblr_ntb2eyDZgd1ubdk8fo5_1280.jpg"><img src="https://64.media.tumblr.com/00a724b6364328aec775d371df29752f/tumblr_ntb2eyDZgd1ubdk8fo5_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/00a724b6364328aec775d371df29752f/tumblr_ntb2eyDZgd1ubdk8fo5_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/00a724b6364328aec775d371df29752f/tumblr_ntb2eyDZgd1ubdk8fo5_1280.jpg" /></a>
 
 <div class="columns">
   <div class="img1">
- <a href="https://64.media.tumblr.com/2c6f780a44b303d89a5ead1ff3a5286b/tumblr_ntax87FPtK1ubdk8fo10_1280.jpg"><img src="https://64.media.tumblr.com/2c6f780a44b303d89a5ead1ff3a5286b/tumblr_ntax87FPtK1ubdk8fo10_1280.jpg" /></a>
+ <a href="https://64.media.tumblr.com/2c6f780a44b303d89a5ead1ff3a5286b/tumblr_ntax87FPtK1ubdk8fo10_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/2c6f780a44b303d89a5ead1ff3a5286b/tumblr_ntax87FPtK1ubdk8fo10_1280.jpg" /></a>
   </div>
   <div class="img2">
-<a href="https://64.media.tumblr.com/91ab6b974be5fe5f37e4bf003fbe7c95/tumblr_ntb2lzrOje1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/91ab6b974be5fe5f37e4bf003fbe7c95/tumblr_ntb2lzrOje1ubdk8fo1_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/91ab6b974be5fe5f37e4bf003fbe7c95/tumblr_ntb2lzrOje1ubdk8fo1_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/91ab6b974be5fe5f37e4bf003fbe7c95/tumblr_ntb2lzrOje1ubdk8fo1_1280.jpg" /></a>
  </div>
   </div>
 
-<a href="https://64.media.tumblr.com/cc237e7dff76f2994c11fbd8e95e2601/tumblr_ntb1dmfju41ubdk8fo7_r1_1280.jpg"><img src="https://64.media.tumblr.com/cc237e7dff76f2994c11fbd8e95e2601/tumblr_ntb1dmfju41ubdk8fo7_r1_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/cc237e7dff76f2994c11fbd8e95e2601/tumblr_ntb1dmfju41ubdk8fo7_r1_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/cc237e7dff76f2994c11fbd8e95e2601/tumblr_ntb1dmfju41ubdk8fo7_r1_1280.jpg" /></a>
 
 <p style="text-align: center;" ><em>The southern most point of Taiwan</em></p>
 
@@ -121,19 +121,19 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
 
 <div class="columns">
   <div class="img1">
- <a href="https://64.media.tumblr.com/0293ebdfdb77cfe16d9d6e6d8d77465e/tumblr_ntb2lzrOje1ubdk8fo5_1280.jpg"><img src="https://64.media.tumblr.com/0293ebdfdb77cfe16d9d6e6d8d77465e/tumblr_ntb2lzrOje1ubdk8fo5_1280.jpg" /></a>
+ <a href="https://64.media.tumblr.com/0293ebdfdb77cfe16d9d6e6d8d77465e/tumblr_ntb2lzrOje1ubdk8fo5_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/0293ebdfdb77cfe16d9d6e6d8d77465e/tumblr_ntb2lzrOje1ubdk8fo5_1280.jpg" /></a>
   </div>
   <div class="img2">
-<a href="https://64.media.tumblr.com/b6d2922c5edbc03c56871e909e0993fa/tumblr_ntb2lzrOje1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/b6d2922c5edbc03c56871e909e0993fa/tumblr_ntb2lzrOje1ubdk8fo3_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/b6d2922c5edbc03c56871e909e0993fa/tumblr_ntb2lzrOje1ubdk8fo3_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b6d2922c5edbc03c56871e909e0993fa/tumblr_ntb2lzrOje1ubdk8fo3_1280.jpg" /></a>
  </div>
   </div>
 
-<a href="https://64.media.tumblr.com/c7677bb3701efa23b1da6f57839e9d9f/tumblr_ntb2lzrOje1ubdk8fo4_1280.jpg"><img src="https://64.media.tumblr.com/c7677bb3701efa23b1da6f57839e9d9f/tumblr_ntb2lzrOje1ubdk8fo4_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/c7677bb3701efa23b1da6f57839e9d9f/tumblr_ntb2lzrOje1ubdk8fo4_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/c7677bb3701efa23b1da6f57839e9d9f/tumblr_ntb2lzrOje1ubdk8fo4_1280.jpg" /></a>
 
 <p style="text-align: center;" ><em>That &quot;oh crap&quot; moment when you just want these roads to be over, but then you see there&#39;s still more climbing.</em></p>
 <p>&nbsp;</p>
 
-<a href="https://64.media.tumblr.com/6878610960b6a8b026f5093c22e4c6fb/tumblr_ntb2lzrOje1ubdk8fo6_1280.jpg"><img src="https://64.media.tumblr.com/6878610960b6a8b026f5093c22e4c6fb/tumblr_ntb2lzrOje1ubdk8fo6_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/6878610960b6a8b026f5093c22e4c6fb/tumblr_ntb2lzrOje1ubdk8fo6_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/6878610960b6a8b026f5093c22e4c6fb/tumblr_ntb2lzrOje1ubdk8fo6_1280.jpg" /></a>
 
 
 <p>My first ever bike tour was officially finished once I returned the bike to the rental place.&nbsp;It was sloppy, yet incredibly fun. It helped that I was only 23. I didn&#39;t know a thing about fixing bikes or the right gear, but it was all the rush of new experiences. This was the adventure I needed. Something to prove myself.</p>

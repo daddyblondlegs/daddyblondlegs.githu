@@ -55,10 +55,10 @@ tags: [Malaysia, Motorcycle]
 
 <div class="columns">
   <div class="img1">
-   <a href="https://64.media.tumblr.com/d1d69e55d21d1ff2825a905510eaa62f/5b63dce4c5c5e9da-12/s500x750/49b9d439602fcc75b39a6537e7e952ff7c3122e7.jpg"><img alt="image" class="glightbox" src="https://64.media.tumblr.com/d1d69e55d21d1ff2825a905510eaa62f/5b63dce4c5c5e9da-12/s500x750/49b9d439602fcc75b39a6537e7e952ff7c3122e7.jpg" /></a>
+   <a href="https://64.media.tumblr.com/d1d69e55d21d1ff2825a905510eaa62f/5b63dce4c5c5e9da-12/s500x750/49b9d439602fcc75b39a6537e7e952ff7c3122e7.jpg"><img class="glightbox" src="https://64.media.tumblr.com/d1d69e55d21d1ff2825a905510eaa62f/5b63dce4c5c5e9da-12/s500x750/49b9d439602fcc75b39a6537e7e952ff7c3122e7.jpg" /></a>
   </div>
   <div class="img2">
- <a href="https://64.media.tumblr.com/c828eed3112657ca9a8f5ac02e84dcda/5b63dce4c5c5e9da-d6/s500x750/8afea81080703a9dd4d0138ea7ace8ee98898f1a.jpg"><img alt="image" class="glightbox" src="https://64.media.tumblr.com/c828eed3112657ca9a8f5ac02e84dcda/5b63dce4c5c5e9da-d6/s500x750/8afea81080703a9dd4d0138ea7ace8ee98898f1a.jpg" /></a>
+ <a href="https://64.media.tumblr.com/c828eed3112657ca9a8f5ac02e84dcda/5b63dce4c5c5e9da-d6/s500x750/8afea81080703a9dd4d0138ea7ace8ee98898f1a.jpg"><img class="glightbox" src="https://64.media.tumblr.com/c828eed3112657ca9a8f5ac02e84dcda/5b63dce4c5c5e9da-d6/s500x750/8afea81080703a9dd4d0138ea7ace8ee98898f1a.jpg" /></a>
  </div>
   </div>
   <a href="https://64.media.tumblr.com/63135e6745af2dc0c4b3fd1b09c4e2f7/tumblr_ntd8ijFlYZ1ubdk8fo10_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/63135e6745af2dc0c4b3fd1b09c4e2f7/tumblr_ntd8ijFlYZ1ubdk8fo10_1280.jpg" /></a>
@@ -77,7 +77,7 @@ tags: [Malaysia, Motorcycle]
 
 
 
-   <img alt="image" class="glightbox" src="https://64.media.tumblr.com/ee02bf89ec55e7aac34d840aef82f48d/03e42fe2a6a6f052-14/s500x750/e52608862dcf36f31964d6178ef00f7026fc8ae1.gifv" />
+   <img class="glightbox" src="https://64.media.tumblr.com/ee02bf89ec55e7aac34d840aef82f48d/03e42fe2a6a6f052-14/s500x750/e52608862dcf36f31964d6178ef00f7026fc8ae1.gifv" />
   
 
 <p>It was kind of fun being out on the road listening to my 110cc rental bike buzz at its laughable top speed. It was somewhat interesting, but not the mega-awesome experience I had hoped for. I guess trips like that are bound to come along.</p>

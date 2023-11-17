@@ -23,14 +23,14 @@ Number of mosquito bites: ∞<br>
 <iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2774089#6/37.640/140.647"></iframe>
 <small style="color: #dad2be"><em>Click the dots to read about my sleeping spots.</em></small></p>
 
-<a href="https://64.media.tumblr.com/280b22feadc199aa3bf060d467b4acb8/tumblr_ocjfvaVUJk1ubdk8fo8_r1_1280.jpg"><img src="https://64.media.tumblr.com/280b22feadc199aa3bf060d467b4acb8/tumblr_ocjfvaVUJk1ubdk8fo8_r1_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/280b22feadc199aa3bf060d467b4acb8/tumblr_ocjfvaVUJk1ubdk8fo8_r1_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/280b22feadc199aa3bf060d467b4acb8/tumblr_ocjfvaVUJk1ubdk8fo8_r1_1280.jpg" /></a>
 
 <p>The ferry&#39;s ramp lowered on the dock at Fukuoka. Now it was just me, a hiking backpack, and a bike I bought used. The excitement started to build as a I wheeled out on to the hard ground of a country I revered. It was intimidating to &quot;do Japan&quot; without much experience cycling, and then trying to succeed with just a hiking bag strapped onto the back of a bike with different colored rims. United Colors of Benetton? Never heard of that brand.</p>
 
 <p>But it was happening.&nbsp; It was time to intrude a place I had so much respect for. Time to add a badge of pride that I cycled across Japan. Riding acround Taiwan didn&#39;t turn me into a real man like I&#39;d hoped, but this trip surely would.</p>
 <p>&nbsp;</p>
 
-<a href="https://64.media.tumblr.com/8ff66ddf1abbd5244d76edd20051fb59/tumblr_ocjfvaVUJk1ubdk8fo1_1280.jpg"></a><img src="https://64.media.tumblr.com/8ff66ddf1abbd5244d76edd20051fb59/tumblr_ocjfvaVUJk1ubdk8fo1_1280.jpg" /></p>
+<a href="https://64.media.tumblr.com/8ff66ddf1abbd5244d76edd20051fb59/tumblr_ocjfvaVUJk1ubdk8fo1_1280.jpg"></a><img class="glightbox" src="https://64.media.tumblr.com/8ff66ddf1abbd5244d76edd20051fb59/tumblr_ocjfvaVUJk1ubdk8fo1_1280.jpg" /></p>
 
 <p>&nbsp;</p>
 <p>Japan was full of a weirdness that wasn&#39;t just anime, cosplay, or chindogu (the art of useless inventions). It was everywhere in daily life, sometimes not even to be seen. These tombstones weren&#39;t part of a tourist attraction. They were hidden from plain sight alongside the highway. Carved to have a visual aspect, but still tucked out of the way.</p>
@@ -127,7 +127,7 @@ Number of mosquito bites: ∞<br>
     <a href="https://64.media.tumblr.com/c898ba6eb66a1e555de3902a5695d7ff/tumblr_ocmbo887c61ubdk8fo3_1280.jpg"><img alt="" class="" src="https://64.media.tumblr.com/c898ba6eb66a1e555de3902a5695d7ff/tumblr_ocmbo887c61ubdk8fo3_1280.jpg" style=" " /></a>
   </div>
   <a href="https://64.media.tumblr.com/e2c18c004b1224e767d08020eacc9400/tumblr_ocmbo887c61ubdk8fo4_1280.jpg"><img alt="" class="" src="https://64.media.tumblr.com/e2c18c004b1224e767d08020eacc9400/tumblr_ocmbo887c61ubdk8fo4_1280.jpg" style="; " /></a>
-    <img src="">
+    <img class="glightbox" src="">
   </div>
   <div>
 <p>&nbsp;</p>
@@ -165,7 +165,7 @@ Number of mosquito bites: ∞<br>
 
 
 
-<a href="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg" /></a>
 <div class="columns">
   <div class="img1">
    <a href="https://64.media.tumblr.com/118187a71c6491da71f34a00d1e5ee0e/tumblr_ogsdauS9ou1ubdk8fo2_1280.jpg"><img class="" src="https://64.media.tumblr.com/118187a71c6491da71f34a00d1e5ee0e/tumblr_ogsdauS9ou1ubdk8fo2_1280.jpg" /></a>
@@ -182,10 +182,10 @@ Number of mosquito bites: ∞<br>
 <p>&nbsp;</p>
 
 
-<a class="column2" href="https://64.media.tumblr.com/3a7a2e494d3c6ec2ae1c601928a603f8/tumblr_ocmffokTzu1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/3a7a2e494d3c6ec2ae1c601928a603f8/tumblr_ocmffokTzu1ubdk8fo1_1280.jpg" /></a>
-<a class="column2" href="https://64.media.tumblr.com/043f66133e58ed132b9d71efe4cf87b3/tumblr_ocmffokTzu1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/043f66133e58ed132b9d71efe4cf87b3/tumblr_ocmffokTzu1ubdk8fo3_1280.jpg" /></a>
+<a class="column2" href="https://64.media.tumblr.com/3a7a2e494d3c6ec2ae1c601928a603f8/tumblr_ocmffokTzu1ubdk8fo1_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/3a7a2e494d3c6ec2ae1c601928a603f8/tumblr_ocmffokTzu1ubdk8fo1_1280.jpg" /></a>
+<a class="column2" href="https://64.media.tumblr.com/043f66133e58ed132b9d71efe4cf87b3/tumblr_ocmffokTzu1ubdk8fo3_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/043f66133e58ed132b9d71efe4cf87b3/tumblr_ocmffokTzu1ubdk8fo3_1280.jpg" /></a>
 
-<a href="https://64.media.tumblr.com/5444f26dde476b14a7551aa3e052cff3/tumblr_ocmffokTzu1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/5444f26dde476b14a7551aa3e052cff3/tumblr_ocmffokTzu1ubdk8fo2_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/5444f26dde476b14a7551aa3e052cff3/tumblr_ocmffokTzu1ubdk8fo2_1280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/5444f26dde476b14a7551aa3e052cff3/tumblr_ocmffokTzu1ubdk8fo2_1280.jpg" /></a>
 
 <p>&nbsp;</p>
 <p>As my trip was just a couple days from ending I was faced with a decision that questioned what my goals were for the trip. The easy way or the hard way. It was a literal fork in the road.</p>
