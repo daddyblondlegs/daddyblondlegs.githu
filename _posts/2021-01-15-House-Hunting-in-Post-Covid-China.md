@@ -3,7 +3,7 @@ layout: post
 title:  "House Hunting in Post-Covid China"
 categories: [China, Expat Life]
 image: https://64.media.tumblr.com/96d03d1684164de919406bae060488ee/e5072a3b42adb424-75/s500x750/fbc46e1ed9bdad19dc34fdb94b7c783ede7e6ed2.jpg
-tags: [China]
+tags: [China, Expat Life]
 ---
 
 
