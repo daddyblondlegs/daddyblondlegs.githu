@@ -47,7 +47,6 @@ tags: [Gear, Bike Touring, Tips]
 
 
 <h1>Kitchen Caddie:</h1>
-<br>
 <h2>LL Bean Toiletry Bag (Large)</h2>
 <p>A toiletry bag I’ve had since the 9th grade was the absolute perfect bag for all of my cookware. It has several mesh pockets which keep from getting too nasty, a roomy interior, and a hook that hangs from my handlebars. Hanging it keeps bugs and mice out of my leftovers better than a tree can. The two-way zipper means that when one zipper goes out (which happened), you can use the other one (it also went out).</p>
 
@@ -55,7 +54,6 @@ tags: [Gear, Bike Touring, Tips]
 
 
 <h1>Heat Source:</h1>
-<br>
 <h2>MSR Dragonfly Liquid Stove:</h2>
 <p>This portable stove runs on gasoline you can get at any gas station, or diesel, jet fuel, and white gas. The versatility means you're likely to never be in a spot where you run out like you might be with gas canisters.</p>
 <br>
@@ -65,7 +63,6 @@ tags: [Gear, Bike Touring, Tips]
 <h2>Lighter:</h2>
 <p>Regular lighters work well, but I would try to find one with an electric spark so it can be used in the rain, and one that has a little bit of a neck to it because a windscreen makes it hard to get the flame close enough to the stove. Is a grill lighter overkill?</p>
 <h1>Containers:</h1>
-<br>
 <h2>MSR Alpine Pot (2L):</h2>
 <p>The set comes with two aluminum pots, but you only need one. Trust me, you won't be as gourmet as you think after a long day of riding, and you only have one burner. Usually it's boiling everything together, but if you want to make a topping (sauce, curry, gravy) for a base (rice, beans, pasta), pour it into one of your other containers while you cook the rest. The set also comes with a lid that doubles as a frying pan which you hold with the pot handler. The lid MSR Alpine line doesn't do a good job frying because it's too thin to heat up evenly over the concentrated flame of the stove.</p>
 <br>
@@ -75,21 +72,18 @@ tags: [Gear, Bike Touring, Tips]
 <h2>Camping Cup:</h2>
 <p>This camping cup is the exact size of my stove, so it nests nicely. It's also the same diameter as the Jetboil French press plunger+screen.</p>
 <h1>Utensils:</h1>
-<br>
 <h2>Multipurpose Scissors:</h2>
 <p>Knives require cutting boards which requires flat surfaces which you'll never have. But scissors make light work of cutting. For big jobs like cutting squash, these detachable scissors have a knife on one side so you can cut the old-fashioned way using your lid as cutting board.</p>
 <br>
 <h2>Spatula (metal):</h2>
 <p>I lost mine, and frankly never really needed it. A fork works just as good most times. I do miss it.</p>
 <h1>Dry/Wet Ingredients:</h1>
-<br>
 <h2>Spices:</h2>
 <p>My tote bag has a water-resistant pocket normally used for toiletries, but it makes a great place to store spice packets. The smallest salt shaker I could find is enough for the entire trip. Few places sell small bottles of oil, but the right size <b>bottle for oil</b> means you don't have to dump out as much when you refill it with a big container.</p>
 <br>
 <h2>Coffee in a Pill Bottle:</h2>
 <p>An extra long pill bottle can hold about a week's worth of coffee. The advantage of storing it in the kitchen caddie is that it's easy to get to.</p>
 <h1>Clean up:</h1>
-<br>
 <h2>Steel Wool:</h2>
 <p>Notice I don't have a bar of soap or a sponge which require water. Steel wool scours pans and utensils, and can be cleaned with a good shake. Learning to tuck the steel wool's loose frizz neatly back on itself will mean you never need to get another one of these again.</p>
 <br>
