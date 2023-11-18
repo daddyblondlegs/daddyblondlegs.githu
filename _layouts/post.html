@@ -127,14 +127,25 @@ layout: default
 	{% endif %}
         
 	</div>
-</div>-->
+</div> -->
 <!--Cactus Comments-->
 <div class="cactus-comments">
     <div id="comment-section"></div>
   </div>
 
-  <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+      <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+    <script>
+    initComments({
+      node: document.getElementById("comment-section"),
+      defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+      serverName: "cactus.chat",
+      siteName: "forever-jekyll",
+      commentSectionId: "section1"
+    })
+    </script>
   <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
+
+  
 
 <!-- Aletbar Prev/Next -->
 <div class="alertbar">
