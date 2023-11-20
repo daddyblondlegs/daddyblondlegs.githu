@@ -4564,7 +4564,8 @@ button.close {
   padding: 1rem;
   border-bottom: 1px solid #e9ecef;
   border-top-left-radius: 0.3rem;
-  border-top-right-radius: 0.3rem; }
+  border-top-right-radius: 0.3rem;
+  background-color: #e8e8ee; }
   .modal-header .close {
     padding: 1rem;
     margin: -1rem -1rem -1rem auto; }
@@ -4576,7 +4577,7 @@ button.close {
 .modal-body {
   position: relative;
   flex: 1 1 auto;
-  padding: 3rem; }
+  padding: 2rem; }
 
 .modal-footer {
   display: flex;
