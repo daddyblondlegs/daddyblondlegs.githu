@@ -1,4 +1,4 @@
-body.lb-disable-scrolling {
+/*body.lb-disable-scrolling {
   overflow: hidden;
 }
 
@@ -31,7 +31,7 @@ body.lb-disable-scrolling {
   max-height: none;
   border-radius: 3px;
 
-  /* Image border */
+  /* Image border 
   border: 4px solid white;
 }
 
@@ -48,7 +48,7 @@ body.lb-disable-scrolling {
   border-radius: 4px;
 
   /* Background color behind image.
-     This is visible during transitions. */
+     This is visible during transitions.
   background-color: white;
 }
 
