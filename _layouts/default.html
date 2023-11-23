@@ -34,13 +34,7 @@
    
 
     {% include tracking-header.html %}
-  <!-- Add scripts/style for Lightbox2 -->
-  <script src="/assets/scripts/lightbox-plus-jquery.js"></script>
-  <link rel="stylesheet" href="/assets/stylesheets/lightbox.css">
 
-      
-  
-  <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
@@ -108,18 +102,34 @@
    
 </html>
 
-<footer class="bg-white border-top p-3 text-muted small" style="background: #fff;opacity: .94;">
+<footer style="background: #ffffffde;" class="border-top p-3 text-muted small">
     <div class="container">
-    <div class="row align-items-center justify-content-between">
-        <div>
-            <span class="navbar-brand mr-2 mb-0"></span>
-            <img src="/assets/images/dbl-logo.svg" style="max-width: 3rem;">
-            <span>© <script>document.write(new Date().getFullYear())</script></span>
-
-        </div>
-        <div>
-            <span class="navbar-brand mr-5 mb-0">Daddy is in:</span><span class="round-border">Africa</span>
-        </div>
+        <div class="row align-items-center justify-content-between">
+            <div class="img1">
+                <span class="navbar-brand mr-2 mb-0"></span>
+                <img src="/assets/images/dbl-logo.svg" style="max-width: 3rem;">
+                <span>© <script>document.write(new Date().getFullYear())</script>2023</span>
+           </div>
+          <div class="img2" style="margin-left: auto;margin-right: 0;">
+            
+                <span class="mr-2 mb-0" style="font-size: 1rem;">Daddy's in:</span>
+    
+    <style type="text/css">
+    span.round-border
+    {border: 2px solid #ffe969;
+      border-radius: 12px;
+      -moz-border-radius: 15px;
+      font-size: 1.2rem;
+      font-variant-caps: all-petite-caps;
+      padding: .1rem 1.2rem .4rem 1.2rem;
+      background: #fff4bc;
+    }
+    </style>
+        <span class="round-border"><a href="https://daddyblondlegs.com//categories.html#cycling">Africa</a></span>
+           
+    
+            </div>
+    </div>
         <div>
             <!--<a class="nav-item" href="https://www.buymeacoffee.com/daddyblondlegs" style="position: relative;right: -60%;">Coffee? <i class="fa fa-coffee text-danger"></i></a>-->        </div>
     </div>
