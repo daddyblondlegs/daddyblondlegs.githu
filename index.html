@@ -82,7 +82,7 @@ description: "Bicycle touring information and gear reviews."
                 {% if third_post.image %}
                 <div class="col-md-6" style="border-width: 1rem;border-style: solid;border-color: #fff2cc; padding: 0px;">
                 <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100 darkbluehover" style="border-width: 1rem;border-style: solid;border-color: #fffaee;" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                 <img class="w-100 lightbluehover" style="border-width: 1rem;border-style: solid;border-color: #fffaee;" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
