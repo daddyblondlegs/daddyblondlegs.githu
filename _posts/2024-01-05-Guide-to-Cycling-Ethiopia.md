@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to Cycling Ethiopia"
+title:  "World Tour: Cycling Ethiopia"
 categories: [World Tour, Cycling]
 image: https://64.media.tumblr.com/36fb67ec6d798725975b2addc998e50c/dbd638e09ca60856-c3/s2048x3072/a3ddf78bd3d2a4d878747a4e1b868e58fd12b29b.jpg"
 tags: [World Tour, Africa, Cycling, Guides]
@@ -16,7 +16,7 @@ tags: [World Tour, Africa, Cycling, Guides]
  
  <!--Top Cards --> 
 <section class="pt-4 pb-4" style="justify-content: center;">
-    <p>Ethiopia was one of the hardest places I've been. Anytime. But now on a bicycle. You feel vulnerable already, and the aggression you face only makes things that much more difficult. Some say that despite all that, it's still their top country. To that I say, "Are you out of your ever-loving mind?!" As interesting as it was, nothing redeemed it from taking last place.<p>
+    <p>Ethiopia was one of the hardest places I've been. Anytime. But now on a bicycle. You feel vulnerable already, and the aggression you face only makes things that much more difficult. Some say that despite all that, it's still their top country. To that I say, "Are you out of your ever-loving mind?!" As interesting as it was, nothing redeemed it from taking last place.</p>
    
  
 <div class="columns mb-5 text-center"> 
@@ -108,7 +108,7 @@ tags: [World Tour, Africa, Cycling, Guides]
 <p>E-visas for Djibouti may not be possible for land crossing, even by train. You&rsquo;d be better off going to the embassy in Addis; the Djibouti consulate in Dire Dawa does not issue visas. I didn&rsquo;t find this out until it was too late, but was ready to get on to the <a href="https://daddyblondlegs.com/">Middle East</a> anyways.</p>
 
 
-<section class="m-4 jumbotron">  
+<section class="p-1 jumbotron">  
 <div class="columns">
     <div class="img1"><a href="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/540x810/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/s2048x3072/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"></a></div>
     <div class="img2"><a href="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/540x810/57638e49fbcdde440651530545093942ea53ade2.jpg"><img class="glightbox" src="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/s2048x3072/57638e49fbcdde440651530545093942ea53ade2.jpg"></a></div>
