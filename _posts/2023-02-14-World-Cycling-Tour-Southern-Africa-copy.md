@@ -16,17 +16,17 @@ tags: [World Tour, Africa, Cycling]
  
  <!--Top Cards --> 
 <section class="pt-4 pb-4" style="justify-content: center;">
-    <div><p>Ethiopia was one of the hardest places I've been. Anytime. But now on a bicycle. You feel vulnerable already, and the aggression you face only makes things that much more difficult. Some say that despite all that, it's still their top country. To that I say, "Are you out of your ever-loving mind?!" As interesting as it was, nothing redeemed it from taking last place.<p></div>
-
+    <p>Ethiopia was one of the hardest places I've been. Anytime. But now on a bicycle. You feel vulnerable already, and the aggression you face only makes things that much more difficult. Some say that despite all that, it's still their top country. To that I say, "Are you out of your ever-loving mind?!" As interesting as it was, nothing redeemed it from taking last place.<p>
+   
  
 <div class="columns mb-5 text-center"> 
-    <div  style="min-width: 30%;">
-        <h3>Enjoyment</h3> 
-        <span class="dot"></span>
-        <span class="not-dot"></span>
-        <span class="not-dot"></span>
-        <span class="not-dot"></span>
-    </div>
+     <div style="min-width: 30%;">
+            <h3>Enjoyment</h3> 
+            <span class="dot"></span>
+            <span class="not-dot"></span>
+            <span class="not-dot"></span>
+            <span class="not-dot"></span>
+        </div>
   
 <div class="mr-4 ml-4" style="min-width: 30%;">
         <h3>Profile</h3> 
@@ -130,9 +130,9 @@ Ethiopia was one of the hardest places I've been. Anytime. But now on a bicycle.
 <p>Contrary to the maps, there is in fact an ATM in Omorate and in Turmi (assuming they have bills and power), and a few other towns along the way. They say you can exchange $ for birr for twice the bank rate on the black market. Where does one find a black market? Just ask a shop owner selling liquor (one told me they buy liquor in dollars) if you can pay in dollars at a 1 dollar/100 birr rate. The closer you get to Addis, the higher the exchange rate.</p>
 <h1>Sections</h1>
 <h2>Entering</h2>
-<h2>Visa on arrival is not possible for crossing at Omorate, and I don&rsquo;t think anywhere else outside flying in to Addis. An eVisa will take a couple three days to process and is relatively straightforward. If you get a bug-eyed little twerp at the Omorate immigration office, expect to be asked for your support. As always, hold your ground.</h2>
+<p>Visa on arrival is not possible for crossing at Omorate, and I don&rsquo;t think anywhere else outside flying in to Addis. An eVisa will take a couple three days to process and is relatively straightforward. If you get a bug-eyed little twerp at the Omorate immigration office, expect to be asked for your support. As always, hold your ground.</p>
 <h2>Omo Valley to Arba Minch</h2>
-<h2>The Omo Valley is a unique opportunity to see a genuine continuation of humanity&rsquo;s ancient past, and there are so many varied tribes you probably never feel like you saw everything. As a cyclist, the obvious tribes you can expect to see are the Hamer with red clay in their hair around Omorate and the Banna with white paint on their bodies standing on stilts near Key Afer. The others were either not super iconic or outside of the safe-zone. I was told that the paved A1 and A10 were the only roads I should take because areas beyond aren&rsquo;t policed. The Mursi tribe that put bowls in their lips are just outside of Jinka, but I was told I couldn't/shouldn't enter Mago National Park on a bicycle. There's really no reason to go to Jinka unless you want to book a tribe tour, but apparently Mursi people come on market days.</h2>
+<p>The Omo Valley is a unique opportunity to see a genuine continuation of humanity&rsquo;s ancient past, and there are so many varied tribes you probably never feel like you saw everything. As a cyclist, the obvious tribes you can expect to see are the Hamer with red clay in their hair around Omorate and the Banna with white paint on their bodies standing on stilts near Key Afer. The others were either not super iconic or outside of the safe-zone. I was told that the paved A1 and A10 were the only roads I should take because areas beyond aren&rsquo;t policed. The Mursi tribe that put bowls in their lips are just outside of Jinka, but I was told I couldn't/shouldn't enter Mago National Park on a bicycle. There's really no reason to go to Jinka unless you want to book a tribe tour, but apparently Mursi people come on market days.</p>
 <p>The road from Turmi to Konso is simply beautiful in its own way. The terraced fields in the mountains at sundown is worth the constant up-down and maybe even the 20-something following me seeing if he could pelt me with a rock.</p>
 <h2>Arba Minch to Addis Ababa</h2>
 <p>Arba Minch was sort of disappointing for someone who was really looking forward to hitting up a supermarket and getting a few luxuries like&hellip; I don&rsquo;t know&hellip; something other that beans, rice, and pasta? The city really only has the same little shops you see in rural parts, just times ten.</p>
