@@ -715,8 +715,8 @@ article blockquote:before {
 }*/
 article h1, article .h1 {
 	margin-bottom:2rem;
-	margin-top:4rem;
-	font-weight:600;
+	margin-top:6rem;
+	font-weight:700;
 }
 article h2,article h3,article h4,article h5,article h6,article .h2,article .h3,article .h4,article .h5,article .h6 {
 	margin-bottom:2rem;
@@ -997,6 +997,8 @@ div.a2a_full_footer {display:none;}
 	padding: 2rem
 
 }
+
+.route
 .route-text {
 	padding-left: 1.5rem !important;
 	padding-right: 1.5rem;

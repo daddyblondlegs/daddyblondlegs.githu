@@ -47,38 +47,20 @@ tags: [World Tour, Africa, Cycling, Guides]
 
 
 <section style="margin-right: auto;margin-left: auto;">
-<div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
- <div class="row gap-y">
-  <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-    <iframe class="myroutemap" width="100%" height="400px" frameborder="0" allowfullscreen="" allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=true&amp;zoomControl=false&amp;editMode=disabled&amp;moreControl=false&amp;searchControl=false&amp;tilelayersControl=false&amp;embedControl=false&amp;datalayersControl=false&amp;onLoadPanel=none&amp;captionBar=false&amp;captionMenus=false&amp;fullscreenControl=false&amp;locateControl=false&amp;measureControl=false&amp;editinosmControl=false&amp;starControl=false#7/9.655/39.886.399"><p><a href="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&fullscreenControl=null&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&datalayers=9e577de6-7fc6-4c46-a67d-d66b3e7ef2a9%2Cc759ef6b-ee94-4875-9939-6d7b50a12655%2Ce1cda227-435d-4d79-9403-6bb040f94757%2Cfcae95f5-9e6a-485a-b49d-27e7f8464c51%2Cf8c52286-0b88-4e70-8d21-4666b9aa3344%2Cd96a0802-fb1c-441d-840c-5fa196d85ee1%2C0ae319b6-709d-40c5-9b31-a1cd46f2430f%2C28fe0716-b4ac-40b6-aa2e-74bfcb8ba804%2C984ffd02-83fd-4e13-9137-2961a328698d%2C7585b9b8-34f4-4224-9ba1-a8e7e15abf13%2C087a4102-59fb-4357-bb8d-43878878031a%2C66faf9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#7/9.655/39.886">See full screen</a></p>
-    </iframe>
-</div>
-<div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
-    <p class="pl-lg-4">
-Crosses the Omo river border with Kenya, through the flatlands of the Omo valley to hills. Drops towards Konso and is flat around the lakes making a gradual climb to Addis Ababa. West to Harar follows through mountains of intense rising and falling, and then drops from Harar to Dire Dawa.
-</p> 
-  </div></a></div></a></div>
+    <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
+        <div class="row gap-y">
+            <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
+                <iframe class="myroutemap" width="100%" height="400px" frameborder="0" allowfullscreen="" allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=true&amp;zoomControl=false&amp;editMode=disabled&amp;moreControl=false&amp;searchControl=false&amp;tilelayersControl=false&amp;embedControl=false&amp;datalayersControl=false&amp;onLoadPanel=none&amp;captionBar=false&amp;captionMenus=false&amp;fullscreenControl=false&amp;locateControl=false&amp;measureControl=false&amp;editinosmControl=false&amp;starControl=false#7/9.655/39.886.399"><p><a href="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&fullscreenControl=null&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&datalayers=9e577de6-7fc6-4c46-a67d-d66b3e7ef2a9%2Cc759ef6b-ee94-4875-9939-6d7b50a12655%2Ce1cda227-435d-4d79-9403-6bb040f94757%2Cfcae95f5-9e6a-485a-b49d-27e7f8464c51%2Cf8c52286-0b88-4e70-8d21-4666b9aa3344%2Cd96a0802-fb1c-441d-840c-5fa196d85ee1%2C0ae319b6-709d-40c5-9b31-a1cd46f2430f%2C28fe0716-b4ac-40b6-aa2e-74bfcb8ba804%2C984ffd02-83fd-4e13-9137-2961a328698d%2C7585b9b8-34f4-4224-9ba1-a8e7e15abf13%2C087a4102-59fb-4357-bb8d-43878878031a%2C66faf9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#7/9.655/39.886">See full screen</a></p>
+                </iframe>
+            </div>
+            <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
+                <p class="pl-lg-4">Crosses the Omo river border with Kenya, through the flatlands of the Omo valley to hills. Drops towards Konso and is flat around the lakes making a gradual climb to Addis Ababa. West to Harar follows through mountains of intense rising and falling, and then drops from Harar to Dire Dawa.</p> 
+            </div>
+        </div>
+    </div>
 </section>   
 
-<!--Route --> 
-
-<!--Route -->
-
-
-<section class="margin-right: auto;margin-left: auto;">
-<div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
- <div class="row gap-y">
-  <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-   <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=true&fullscreenControl=null#7/9.687/39.886"></iframe>
-</div>
-<div class="route-text"><h2>The Route</h2>
-    <p class="pl-lg-4">
-Crosses the Omo river border with Kenya, through the flatlands of the Omo valley to hills. Drops towards Konso and is flat around the lakes making a gradual climb to Addis Ababa. West to Harar follows through mountains of intense rising and falling, and then drops from Harar to Dire Dawa.
-</p> 
-  </div></a></div></a></div>
-</section>   
-
-<!--Route --> 
+<!--Route -->  
 <!-- Planning -->
 
 
