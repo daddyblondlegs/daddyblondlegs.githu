@@ -14,8 +14,8 @@ tags: [World Tour, Africa, Cycling]
         <script src="bootstrap/js/bootstrap.min.js"></script>-->
     
  <!--Top Cards --> 
-<section>
-    <div class="">
+<section class="container-lg pt-4 pb-4">
+    <div >
         <section style="justify-content: center;">
             <div> 
                 <div class="columns mb-5 text-center"> 
