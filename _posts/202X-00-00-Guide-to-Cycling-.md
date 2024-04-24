@@ -25,7 +25,7 @@ tags: [World Tour, Cycling, Guides]
     </p>
    
  
-<div class="columns mb-5 text-center"> 
+<div class="columns mb-7 text-center"> 
      <div style="min-width: 30%;">
             <h3>Enjoyment</h3> 
             <span class="dot"></span>
