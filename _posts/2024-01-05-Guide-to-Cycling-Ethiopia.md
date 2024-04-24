@@ -2,7 +2,7 @@
 layout: post
 title:  "World Tour: Cycling Ethiopia"
 categories: [World Tour, Cycling]
-image: https://64.media.tumblr.com/36fb67ec6d798725975b2addc998e50c/dbd638e09ca60856-c3/s540x810/a3ddf78bd3d2a4d878747a4e1b868e58fd12b29b.jpg"
+image: https://64.media.tumblr.com/36fb67ec6d798725975b2addc998e50c/dbd638e09ca60856-c3/s2048x3072/a3ddf78bd3d2a4d878747a4e1b868e58fd12b29b.jpg
 tags: [World Tour, Africa, Cycling, Guides]
 ---
 
