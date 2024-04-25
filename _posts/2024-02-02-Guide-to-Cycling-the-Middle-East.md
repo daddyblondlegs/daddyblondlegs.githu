@@ -2,7 +2,7 @@
 layout: post
 title:  "World Tour: Cycling Saudi Arabia and Jordan"
 categories: [World Tour, Cycling]
-image: 
+image: https://64.media.tumblr.com/a93ac96349f6733673819416dd510db7/6aa83f5e4efedd14-48/s540x810/1c125b275981d5ad0f71387a696acce0cec25b1e.jpg
 tags: [World Tour, Middle East, Cycling, Guides]
 ---
 
@@ -18,32 +18,30 @@ tags: [World Tour, Middle East, Cycling, Guides]
 <section class="pt-4 pb-4" style="justify-content: center;">
     <p>
     Coming from Ethiopia, Saudi Arabia couldn&rsquo;t be easier. It was going from fighting off takers to fighting off givers. Really! There were a few times I refused bottles of water simply because I wasn&rsquo;t in the mood to stop one more time. It went from rice and beans to Kristy Kreme, from constant noise to the emptiness of long desert roads, from avoiding scams to being smothered in gifts. Jordan was similar, except people left you completely alone, which I was more than ready for.
-    </p>
-   
- 
-<div class="columns mb-7 text-center"> 
-     <div style="min-width: 30%;">
-            <h3>Enjoyment</h3> 
-            <span class="dot"></span>
-            <span class="dot"></span>
-            <span class="dot"></span>
-            <span class="half-dot"></span>
-        </div>
-  
-<div class="mr-4 ml-4 text-center" style="min-width: 30%;">
-        <h3>Profile</h3> 
-        <span>1,324 mi</span><br>
-        <span>⭧ 40.7k ft</span><br>
-        <span>⭨ 38.4k ft</span>
-
-<div style="min-width: 30%;"> 
+    </p>  
+ <div class="columns mb-7 text-center"> 
+    <div style="min-width: 30%;"> 
         <h3>Difficulty</h3>
         <span class="box"></span>
         <span class="half-box"></span>
         <span class="not-box"></span>
         <span class="not-box"></span>
-        
-</div></div></section>
+    </div>
+    <div class="mr-4 ml-4 text-center" style="min-width: 30%;">
+        <h3>Profile</h3> 
+        <span>1,324 mi</span><br>
+        <span>⭧ 40.7k ft</span><br>
+        <span>⭨ 38.4k ft</span>
+    </div>
+    <div style="min-width: 30%;">
+            <h3>Enjoyment</h3> 
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="half-dot"></span>
+    </div>
+</div>
+</section>
 
 <!--Top Cards-->
 <!--Route -->
