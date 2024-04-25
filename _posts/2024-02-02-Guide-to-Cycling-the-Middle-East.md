@@ -140,9 +140,9 @@ tags: [World Tour, Middle East, Cycling, Guides]
     <div class="col p-1"><a href="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/540x810/57638e49fbcdde440651530545093942ea53ade2.jpg"><img class="glightbox" src="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/s2048x3072/57638e49fbcdde440651530545093942ea53ade2.jpg"></a></div>
     <div class="col p-1"><a href="https://64.media.tumblr.com/b7f713bdf0d3651ef4ff5baed7c95dbd/dbd638e09ca60856-3e/540x810/638826e8f73d12acdf71ab35fb02efa13c3bf283.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b7f713bdf0d3651ef4ff5baed7c95dbd/dbd638e09ca60856-3e/s2048x3072/638826e8f73d12acdf71ab35fb02efa13c3bf283.jpg"></a> </div>
 </div>
-</section>
 
-<!-->
+
+<!--
  Multi new
 <section class="p-1 jumbotron">  
 <div class="row">
