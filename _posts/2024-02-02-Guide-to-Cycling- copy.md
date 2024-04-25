@@ -30,12 +30,11 @@ tags: [World Tour, Middle East, Cycling, Guides]
             <span class="half-dot"></span>
         </div>
   
-<div class="mr-4 ml-4" style="min-width: 30%;">
+<div class="mr-4 ml-4 text-center" style="min-width: 30%;">
         <h3>Profile</h3> 
-        <p>1,324 mi</p>
-<p>&#11111; 40.7k ft</p>
-<p>&#11112; 38.4k ft</p>
-    </div>
+        <span>1,324 mi</span><br>
+        <span>⭧ 40.7k ft</span><br>
+        <span>⭨ 38.4k ft</span>
 
 <div style="min-width: 30%;"> 
         <h3>Difficulty</h3>
@@ -57,9 +56,8 @@ tags: [World Tour, Middle East, Cycling, Guides]
                 <iframe class="myroutemap" width="100%" height="400px" frameborder="0" allowfullscreen="" allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=true&amp;zoomControl=false&amp;editMode=disabled&amp;moreControl=false&amp;searchControl=false&amp;tilelayersControl=false&amp;embedControl=false&amp;datalayersControl=false&amp;onLoadPanel=none&amp;captionBar=false&amp;captionMenus=false&amp;fullscreenControl=false&amp;locateControl=false&amp;measureControl=false&amp;editinosmControl=false&amp;starControl=false#7/9.655/39.886.399"><p><a href="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&fullscreenControl=null&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&datalayers=9e577de6-7fc6-4c46-a67d-d66b3e7ef2a9%2Cc759ef6b-ee94-4875-9939-6d7b50a12655%2Ce1cda227-435d-4d79-9403-6bb040f94757%2Cfcae95f5-9e6a-485a-b49d-27e7f8464c51%2Cf8c52286-0b88-4e70-8d21-4666b9aa3344%2Cd96a0802-fb1c-441d-840c-5fa196d85ee1%2C0ae319b6-709d-40c5-9b31-a1cd46f2430f%2C28fe0716-b4ac-40b6-aa2e-74bfcb8ba804%2C984ffd02-83fd-4e13-9137-2961a328698d%2C7585b9b8-34f4-4224-9ba1-a8e7e15abf13%2C087a4102-59fb-4357-bb8d-43878878031a%2C66faf9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#7/9.655/39.886">See full screen</a></p>
                 </iframe>
             </div>
-            <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
-                <h1>The Route</h1>
-<p>From Jeddah&rsquo;s sprawling, winding metropolitan to uninhabited desert. Westward to Madinah through a secondary road, through spaces between mountains to Alu-la, and into a national reserve with insane grades down to sea level. In Jordan, the King&rsquo;s Highway connects many major tourist sites, but I took detours to avoid two massive gorges going from one castle to another.</p>
+            <div class="col-lg-6 mb-4"><h1 class="mb-3 text-center">The Route</h1>
+               <p>From Jeddah&rsquo;s sprawling, winding metropolitan to uninhabited desert. Westward to Madinah through a secondary road, through spaces between mountains to Alu-la, and into a national reserve with insane grades down to sea level. In Jordan, the King&rsquo;s Highway connects many major tourist sites, but I took detours to avoid two massive gorges going from one castle to another.</p>
             </div>
         </div>
     </div>
@@ -126,7 +124,7 @@ tags: [World Tour, Middle East, Cycling, Guides]
 <p>The Kerak Castle sets along the King&rsquo;s Highway with a canyon to the south and to the north; not close enough to be of actual defensive purposes, but I didn&rsquo;t have time to ride through either of them so I skirted the first one by riding east to the flat Desert Highway until I was past it and then cut back through Moab and the rode back to the Desert Highway to Amman.</p>
 <ul><li>Kerak Castle: A former stronghold of crusaders who went a little too far not only east but in talking of invading Mecca, which got them sacked. Egyptians later took over the castle meaning it was held by peoples of three continents. It feels like a typical European medieval castle, but later additions add in Muslim/Arabic elements.</li>
 </ul>
-<p>Exiting Jordan</p>
+<h2>Exiting Jordan</h2>
 <p>The only truly safe way out of Jordan in early 2024 was either flying out or cycling around Syria through Iraq. Central Israel should be fine to cross, but since I&rsquo;d already been and was on a time budget, I flew off to Cyprus.</p>
 <h2>What I Missed</h2>
 <ul><li>Dead Sea (already been)</li>
@@ -137,11 +135,22 @@ tags: [World Tour, Middle East, Cycling, Guides]
 <li>Jerash</li>
 </ul>
 
-<section class="p-1 jumbotron">  
-<div class="columns overflow-hidden">
-    <div class="img1"><a href="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/540x810/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/s2048x3072/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"></a></div>
-    <div class="img2"><a href="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/540x810/57638e49fbcdde440651530545093942ea53ade2.jpg"><img class="glightbox" src="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/s2048x3072/57638e49fbcdde440651530545093942ea53ade2.jpg"></a></div>
-    <div class="img3"><a href="https://64.media.tumblr.com/b7f713bdf0d3651ef4ff5baed7c95dbd/dbd638e09ca60856-3e/540x810/638826e8f73d12acdf71ab35fb02efa13c3bf283.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b7f713bdf0d3651ef4ff5baed7c95dbd/dbd638e09ca60856-3e/s2048x3072/638826e8f73d12acdf71ab35fb02efa13c3bf283.jpg"></a> </div>
+<section class="p-1 jumbotron">
+<div class="justify-content-center row"> 
+    <div class="col-lg-3 col-sm-6 pb-3 pt-3">
+<a href="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/540x810/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/s2048x3072/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"></a></div>
+<a href="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/540x810/57638e49fbcdde440651530545093942ea53ade2.jpg"><img class="glightbox" src="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/s2048x3072/57638e49fbcdde440651530545093942ea53ade2.jpg"></a></div>
+<a href="https://64.media.tumblr.com/b7f713bdf0d3651ef4ff5baed7c95dbd/dbd638e09ca60856-3e/540x810/638826e8f73d12acdf71ab35fb02efa13c3bf283.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b7f713bdf0d3651ef4ff5baed7c95dbd/dbd638e09ca60856-3e/s2048x3072/638826e8f73d12acdf71ab35fb02efa13c3bf283.jpg"></a> </div>
+</div>
+<div class="justify-content-center row"> 
+    <div class="col-lg-3 col-sm-6 pb-3 pt-3">
+<a href="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/540x810/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/s2048x3072/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"></a></div>
+<a href="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/540x810/57638e49fbcdde440651530545093942ea53ade2.jpg"><img class="glightbox" src="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/s2048x3072/57638e49fbcdde440651530545093942ea53ade2.jpg"></a></div>
+<a href="https://64.media.tumblr.com/b7f713bdf0d3651ef4ff5baed7c95dbd/dbd638e09ca60856-3e/540x810/638826e8f73d12acdf71ab35fb02efa13c3bf283.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b7f713bdf0d3651ef4ff5baed7c95dbd/dbd638e09ca60856-3e/s2048x3072/638826e8f73d12acdf71ab35fb02efa13c3bf283.jpg"></a> </div>
+ <div class="col-lg-3 col-sm-6 pb-3 pt-3">
+<a href="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/540x810/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/s2048x3072/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"></a></div>
+<a href="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/540x810/57638e49fbcdde440651530545093942ea53ade2.jpg"><img class="glightbox" src="https://64.media.tumblr.com/583a6917c429d08ca1f0ddff4537d986/dbd638e09ca60856-3f/s2048x3072/57638e49fbcdde440651530545093942ea53ade2.jpg"></a></div>
+<a href="https://64.media.tumblr.com/b7f713bdf0d3651ef4ff5baed7c95dbd/dbd638e09ca60856-3e/540x810/638826e8f73d12acdf71ab35fb02efa13c3bf283.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b7f713bdf0d3651ef4ff5baed7c95dbd/dbd638e09ca60856-3e/s2048x3072/638826e8f73d12acdf71ab35fb02efa13c3bf283.jpg"></a> </div>
 </div>
 
 
