@@ -6153,6 +6153,234 @@ button.bg-lightblue:focus {
 .mx-6 {
   margin-left: 5rem !important; }
 
+.m-n1 {
+  margin: -0.25rem !important; }
+
+.mt-n1,
+.my-n1 {
+  margin-top: -0.25rem !important; }
+
+.mr-n1,
+.mx-n1 {
+  margin-right: -0.25rem !important; }
+
+.mb-n1,
+.my-n1 {
+  margin-bottom: -0.25rem !important; }
+
+.ml-n1,
+.mx-n1 {
+  margin-left: -0.25rem !important; }
+
+.m-n2 {
+  margin: -0.5rem !important; }
+
+.mt-n2,
+.my-n2 {
+  margin-top: -0.5rem !important; }
+
+.mr-n2,
+.mx-n2 {
+  margin-right: -0.5rem !important; }
+
+.mb-n2,
+.my-n2 {
+  margin-bottom: -0.5rem !important; }
+
+.ml-n2,
+.mx-n2 {
+  margin-left: -0.5rem !important; }
+
+.m-n3 {
+  margin: -1rem !important; }
+
+.mt-n3,
+.my-n3 {
+  margin-top: -1rem !important; }
+
+.mr-n3,
+.mx-n3 {
+  margin-right: -1rem !important; }
+
+.mb-n3,
+.my-n3 {
+  margin-bottom: -1rem !important; }
+
+.ml-n3,
+.mx-n3 {
+  margin-left: -1rem !important; }
+
+.m-n4 {
+  margin: -1.5rem !important; }
+
+.mt-n4,
+.my-n4 {
+  margin-top: -1.5rem !important; }
+
+.mr-n4,
+.mx-n4 {
+  margin-right: -1.5rem !important; }
+
+.mb-n4,
+.my-n4 {
+  margin-bottom: -1.5rem !important; }
+
+.ml-n4,
+.mx-n4 {
+  margin-left: -1.5rem !important; }
+
+.m-n5 {
+  margin: -3rem !important; }
+
+.mt-n5,
+.my-n5 {
+  margin-top: -3rem !important; }
+
+.mr-n5,
+.mx-n5 {
+  margin-right: -3rem !important; }
+
+.mb-n5,
+.my-n5 {
+  margin-bottom: -3rem !important; }
+
+.ml-n5,
+.mx-n5 {
+  margin-left: -3rem !important; }
+
+.m-6 {
+  margin: -5rem !important; }
+
+.mt-6,
+.my-6 {
+  margin-top: -5rem !important; }
+
+.mr-6,
+.mx-6 {
+  margin-right: -5rem !important; }
+
+.mb-6,
+.my-6 {
+  margin-bottom: -5rem !important; }
+
+.ml-6,
+.mx-6 {
+  margin-left: -5rem !important; }
+
+  .m-n1 {
+    margin: -0.25rem !important; }
+  
+  .mt-n1,
+  .my-n1 {
+    margin-top: -0.25rem !important; }
+  
+  .mr-n1,
+  .mx-n1 {
+    margin-right: -0.25rem !important; }
+  
+  .mb-n1,
+  .my-n1 {
+    margin-bottom: -0.25rem !important; }
+  
+  .ml-n1,
+  .mx-n1 {
+    margin-left: -0.25rem !important; }
+  
+  .m-n2 {
+    margin: -0.5rem !important; }
+  
+  .mt-n2,
+  .my-n2 {
+    margin-top: -0.5rem !important; }
+  
+  .mr-n2,
+  .mx-n2 {
+    margin-right: -0.5rem !important; }
+  
+  .mb-n2,
+  .my-n2 {
+    margin-bottom: -0.5rem !important; }
+  
+  .ml-n2,
+  .mx-n2 {
+    margin-left: -0.5rem !important; }
+  
+  .m-n3 {
+    margin: -1rem !important; }
+  
+  .mt-n3,
+  .my-n3 {
+    margin-top: -1rem !important; }
+  
+  .mr-n3,
+  .mx-n3 {
+    margin-right: -1rem !important; }
+  
+  .mb-n3,
+  .my-n3 {
+    margin-bottom: -1rem !important; }
+  
+  .ml-n3,
+  .mx-n3 {
+    margin-left: -1rem !important; }
+  
+  .m-n4 {
+    margin: -1.5rem !important; }
+  
+  .mt-n4,
+  .my-n4 {
+    margin-top: -1.5rem !important; }
+  
+  .mr-n4,
+  .mx-n4 {
+    margin-right: -1.5rem !important; }
+  
+  .mb-n4,
+  .my-n4 {
+    margin-bottom: -1.5rem !important; }
+  
+  .ml-n4,
+  .mx-n4 {
+    margin-left: -1.5rem !important; }
+  
+  .m-n5 {
+    margin: -3rem !important; }
+  
+  .mt-n5,
+  .my-n5 {
+    margin-top: -3rem !important; }
+  
+  .mr-n5,
+  .mx-n5 {
+    margin-right: -3rem !important; }
+  
+  .mb-n5,
+  .my-n5 {
+    margin-bottom: -3rem !important; }
+  
+  .ml-n5,
+  .mx-n5 {
+    margin-left: -3rem !important; }
+  
+  .m-n6 {
+    margin: -5rem !important; }
+  
+  .mt-n6,
+  .my-n6 {
+    margin-top: -5rem !important; }
+  
+  .mr-n6,
+  .mx-n6 {
+    margin-right: -5rem !important; }
+  
+  .mb-n6,
+  .my-n6 {
+    margin-bottom: -5rem !important; }
+  
+  .ml-n6,
+  .mx-n6 {
+    margin-left: -5rem !important; }
+
 .p-0 {
   padding: 0 !important; }
 
@@ -8700,7 +8928,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 10%;
 }
 
-.about-timeline{ background-image: url("/assets/images/AboutBackground.svg");
+.about-timeline{ background-image: url("/assets/images/AboutBackground.svg") !important;
   background-repeat: repeat-x; background-position-y: center;}
 
 .timeline-box h6{font-size: 55px; line-height: 1; color: #8cb2e9; font-weight: 100; font-family: 'Helvetica Neue', sans-serif;background-color: #bbb;position: relative; z-index: 1; display: inline-block; width: auto; padding: 0 10px;margin: -2em; transform: translate(0,-50%);} 
