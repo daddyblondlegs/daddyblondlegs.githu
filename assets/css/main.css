@@ -3580,7 +3580,7 @@ input[type="button"].btn-block {
   min-width: 0;
   word-wrap: break-word;
   background-clip: border-box;
-  border: 1px solid #e8f3ec;
+  border: 1px solid #dad2be;
   border-radius: 0.25rem; }
   .card > hr {
     margin-right: 0;
@@ -3616,7 +3616,7 @@ input[type="button"].btn-block {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
   background-color: rgba(0, 0, 0, 0.03);
-  border-bottom: 1px solid #e8f3ec; }
+  border-bottom: 1px solid #dad2be; }
   .card-header:first-child {
     border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0; }
   .card-header + .list-group .list-group-item:first-child {
@@ -3625,7 +3625,7 @@ input[type="button"].btn-block {
 .card-footer {
   padding: 0.75rem 1.25rem;
   background-color: rgba(0, 0, 0, 0.03);
-  border-top: 1px solid #e8f3ec; }
+  border-top: 1px solid #dad2be; }
   .card-footer:last-child {
     border-radius: 0 0 calc(0.25rem - 1px) calc(0.25rem - 1px); }
 
@@ -5183,19 +5183,19 @@ button.bg-lightblue:focus {
   background-color: transparent !important; }
 
 .border {
-  border: 1px solid #e8f3ec !important; }
+  border: 1em solid #dad2be !important; }
 
 .border-top {
-  border-top: 1px solid #e8f3ec !important; }
+  border-top: 1px solid #dad2be !important; }
 
 .border-right {
-  border-right: 1px solid #e8f3ec !important; }
+  border-right: 1px solid #dad2be !important; }
 
 .border-bottom {
-  border-bottom: 1px solid #e8f3ec !important; }
+  border-bottom: 1px solid #dad2be !important; }
 
 .border-left {
-  border-left: 1px solid #e8f3ec !important; }
+  border-left: 1px solid #dad2be !important; }
 
 .border-0 {
   border: 0 !important; }
@@ -5263,8 +5263,48 @@ button.bg-lightblue:focus {
 .border-white {
   border-color: #fff !important; }
 
+.border-1 {
+    border-width: 1px !important;
+}
+
+.border-2 {
+    border-width: 2px !important;
+}
+
+.border-3 {
+    border-width: 3px !important;
+}
+
+.border-4 {
+    border-width: 4px !important;
+}
+
+.border-5 {
+    border-width: 5px !important;
+}
+
+.border-opacity-10 {
+    --bs-border-opacity: 0.1;
+}
+
+.border-opacity-25 {
+    --bs-border-opacity: 0.25;
+}
+
+.border-opacity-50 {
+    --bs-border-opacity: 0.5;
+}
+
+.border-opacity-75 {
+    --bs-border-opacity: 0.75;
+}
+
+.border-opacity-100 {
+    --bs-border-opacity: 1;
+}
+
 .rounded {
-  border-radius: 0.25rem !important; }
+  border-radius: 0.5rem !important; }
 
 .rounded-top {
   border-top-left-radius: 0.25rem !important;
