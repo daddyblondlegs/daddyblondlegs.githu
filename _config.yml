@@ -5,7 +5,7 @@ logo: '/assets/images/logo.png'
 favicon: '/assets/images/favicon.ico'
 baseurl: 'https://www.daddyblondlegs.com/'
 disqus: 'demowebsite'
-email: 'daddyblondlegs@gmail.com'
+email: ''
 mailchimp-list: 
 
 include: ["_pages"]
@@ -24,7 +24,7 @@ authors:
       site:           
       avatar:         /assets/images/avatar1.jpg
       bio:            Technophobe gracing tech companies in the Global 500, Fortune 500, a Kickstarter unicorn, and several little dinky places. Bike touring is my sanity factory.
-      email:          daddyblondlegs@gmail.com
+      email:          
       twitter:        https://twitter.com/daddyblondlegs
  
 # Defaults
