@@ -51,7 +51,7 @@ tags: [World Tour, Middle East, Cycling, Guides]
     <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
         <div class="row gap-y">
             <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-                <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=667a8f22-be72-45cc-8dcc-d5bfdc19df56&fullscreenControl=true&locateControl=false&measureControl=false&editinosmControl=false&starControl=false#7/29.031/42.334"></iframe>
+                <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=667a8f22-be72-45cc-8dcc-d5bfdc19df56&fullscreenControl=true&locateControl=false&measureControl=false&editinosmControl=false&starControl=false#6/25.790/38.298"></iframe>
             </div>
             <div class="col-lg-6 mb-4"><h1 class="mb-3 text-center">The Route</h1>
                <p>From Jeddah&rsquo;s sprawling, winding metropolitan to uninhabited desert. Westward to Madinah through a secondary road, through spaces between mountains to Alu-la, and into a national reserve with insane grades down to sea level. In Jordan, the King&rsquo;s Highway connects many major tourist sites, but I took detours to avoid two massive gorges going from one castle to another.</p>
@@ -130,7 +130,7 @@ tags: [World Tour, Middle East, Cycling, Guides]
     <li>Amman ruins</li>
     <li>As-salt</li>
     <li>Jerash</li>
-</section>
+
 
 </ul>
 <h1 style="text-align:centered;">Film Strip</h1>
