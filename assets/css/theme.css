@@ -220,6 +220,7 @@ a.text-dark:hover {
 	margin-right:2rem;
 	font-size:1.55rem;
     font-family:"helvetica",Tahoma,sans-serif;
+	padding:0px
 }
 .dropdown-item {
 	font-weight:400;
