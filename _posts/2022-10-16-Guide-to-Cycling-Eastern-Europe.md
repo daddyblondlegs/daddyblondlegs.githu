@@ -51,7 +51,7 @@ It’s not any scarier that Western Europe, just a little rough around the edges
     <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
         <div class="row gap-y">
             <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-                <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=667a8f22-be72-45cc-8dcc-d5bfdc19df56&fullscreenControl=true&locateControl=false&measureControl=false&editinosmControl=false&starControl=false#6/45.506/21.357"></iframe>
+                <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=667a8f22-be72-45cc-8dcc-d5bfdc19df56&fullscreenControl=true&locateControl=false&measureControl=false&editinosmControl=false&starControl=false#5/45.506/20.171"></iframe>
             </div>
 
 <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
