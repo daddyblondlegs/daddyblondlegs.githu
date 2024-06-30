@@ -6,6 +6,83 @@ image: https://64.media.tumblr.com/15fef40ecc6342e26d1c3bf6eca9f1de/0eb979a7f420
 tags: [World Tour, Greece, Film, Cycling]
 ---
 
+<article class="article-post"> 
+			
+
+ 
+<!--<script src="assets/js/popper.min.js"></script>
+  <script src="bootstrap/js/bootstrap.min.js"></script>-->
+  
+ 
+ <!--Top Cards --> 
+<section class="pt-4 pb-4" style="justify-content: center;">
+    <p>
+It’s not any scarier that Western Europe, just a little rough around the edges. Still, you’ll be surprised at the marvels laying all the way “over there”. My first though was that everything would be Soviet brutalism, and while there’s plenty of that to relish, there are plenty of moments that make it all seem not so far away. Then you see a horse pulling a cart down the road.
+
+    </p>
+   
+ 
+<div class="columns mb-7 text-center"> 
+     <div style="min-width: 30%;">
+            <h3>Enjoyment</h3> 
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="half-dot"></span>
+            <span class="not-dot"></span>
+        </div>
+  
+<div class="mr-4 ml-4" style="min-width: 30%;">
+        <h3>Profile</h3> 
+        <span> mi </span><span style="color:lightgray">( km)</span><br>
+        <span>⭧ k ft⭨ k ft</span> 
+    </div>
+
+<div style="min-width: 30%;"> 
+        <h3>Difficulty</h3>
+        <span class="box"></span>
+        <span class="box"></span>
+        <span class="box"></span>
+        <span class="half-box"></span>
+    </div></div>
+
+<!--Top Cards-->
+<!--Route -->
+
+
+<section style="margin-right: auto;margin-left: auto;">
+    <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
+        <div class="row gap-y">
+            <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
+             <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&fullscreenControl=true&datalayers=9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#6/7.221/39.287"></iframe>
+            </div>
+            <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
+                <p class="pl-lg-4">
+From Budapest, a slight detour up in to Czechia by train, cycling down to Vienna and then back again. Through Romania’s mountains in the north and across the mountains in the south, ferrying across the river into Bulgaria, and a dog-leg to North Macedonia because the border with Greece is impassible by bike.
+                </p> 
+            </div>
+        </div>
+    </div>
+</section>   
+
+<!--Route -->  
+<!-- Planning -->
+
+
+<section class="mt-5 mb-3">
+Czechia & Austria
+Most wouldn’t consider Austria as being “Eastern Europe”, but would say the Czech Republic is. Prague is actually further west than Vienna, and fits in nicely with this route. One of my favorite artists Mucha ended his illustrious career with a series of paintings known as the Slav Epic. Twelve panels chronicle the history of his people from prehistory to his current age. The paintings are wildly different from “snapshots” and need a companion guide to decipher the numerous layers and symbols. I think I was in there for three hours before saying it’s time to head on. Vienna had more art waiting. Everyone knows Klimt’s “The Kiss”, but some of his more interesting works can be found, including the scandalous “Beethoven’s Frieze” which pairs with Wagner’s interpretation of Beethoven’s 9th. Wireless headsets play the symphony which match with the expressions on the wall. For $10, it’s a bit much for what it is, but still unmissable.
+
+Hungary
+Budapest is a fascinating mix of some of the most remarkable buildings in Europe, attached to a metropolitan that does feel quite “Eastern European”. Dingy, dark, dirty. The alliterations go on, but cyclists will love it here because you’re joined on the streets with others, meaning there are bike lanes and prepared motorists. Outside of Budapest is basically just empty space until you get to Romania. There was a UNESCO World Heritage Site, which ended up being nothing more that fields. Being from Oklahoma, I can relate, but still it’s boring.
+
+Romania
+More like Mo’ Mania! Romania threw me for a loop, and if I had to tour any European country again, it would probably be this one. People who love architecture even a little will constantly be stopping their bikes to clap their hands and shake their heads. Well done. Bravo. No, it’s not foofy like Paris, and that’s exactly what makes it so great. Not only has Romania developed independent of the rest of Europe, individual areas have created their own style. The north holds wooden churches that create shapes and flows you wouldn’t expect wood to be able to accomplish, the center are fortified churches where they could only afford to protect the most important building in their community, and the south are castles fit for legend.
+
+The roads in Romania were actually quite good compared to Hungary and Bulgaria.
+
+
+
+<section class="p-1 jumbotron">  
   <div class="columns">
   <div class="img1"><a href="https://64.media.tumblr.com/8b5015da970e39094a23119b1cef2e4a/0eb979a7f420c5e0-0e/s2048x3072/1622e6e0da0877ba2957049d8991faab40300969.jpg"><img class="glightbox" src="https://64.media.tumblr.com/8b5015da970e39094a23119b1cef2e4a/0eb979a7f420c5e0-0e/s2048x3072/1622e6e0da0877ba2957049d8991faab40300969.jpg" /></a>
 
@@ -19,7 +96,9 @@ tags: [World Tour, Greece, Film, Cycling]
 
    </div>
   </div>
-  
+  </section>
+
+<section class="p-1 jumbotron">  
   <div class="columns">
   <div class="img1"><a href="https://64.media.tumblr.com/b09a4da3f31158412f573f73ecaf1e90/0eb979a7f420c5e0-35/s2048x3072/9e344f230aff947160dba295923e045df9098ea1.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b09a4da3f31158412f573f73ecaf1e90/0eb979a7f420c5e0-35/s2048x3072/9e344f230aff947160dba295923e045df9098ea1.jpg" /></a>
 
@@ -70,11 +149,14 @@ tags: [World Tour, Greece, Film, Cycling]
   </div>
   <div class="img3"><a href="https://64.media.tumblr.com/a4344c2b7b2f03cd95861658facc349f/0eb979a7f420c5e0-4b/s2048x3072/234213cbfa774e5b3f347b4dd8754e9f29db1c5c.jpg"><img class="glightbox" src="https://64.media.tumblr.com/a4344c2b7b2f03cd95861658facc349f/0eb979a7f420c5e0-4b/s2048x3072/234213cbfa774e5b3f347b4dd8754e9f29db1c5c.jpg" /></a>
   </div>
-   </div>
-   
  <a href="https://64.media.tumblr.com/2e8b90983326ba4f7db28d0a73d07c6a/0eb979a7f420c5e0-03/s2048x3072/47a9b2290796789fc79bc098125a8a686df770ab.jpg"><img class="glightbox" src="https://64.media.tumblr.com/2e8b90983326ba4f7db28d0a73d07c6a/0eb979a7f420c5e0-03/s2048x3072/47a9b2290796789fc79bc098125a8a686df770ab.jpg" /></a>
+ </div>
+ </section>
 
+Bulgaria & North Macedonia
+Crossing into Bulgaria was accomplished by a river ferry loaded exclusively with semis… and me and my bike. The roads were immediately worse and never improved, and there wasn’t really anything worth seeing. The last day through side road following the A2 was in fact quite nice. That side road ends at the border with Greece, and since you can’t ride on expressway, the only feasible option was a long detour out and around through The Kingdom of Northern Macedonia. It was only an extra day’s ride to get to add a really cool flag to the mix. Like Bulgaria, there wasn’t much down in this strip except a ride through a valley, but also a really charming lake.
 
+<section class="p-1 jumbotron">  
 <div class="columns">
   <div class="img1">
   <a href="https://64.media.tumblr.com/7c838699dfa1b6dd398b26c9f84837c6/ab4e002728f0a0bb-56/s2048x3072/f53c35c5dcdfcd1e9059594bd5590072196748dd.jpg"><img class="glightbox" src="https://64.media.tumblr.com/7c838699dfa1b6dd398b26c9f84837c6/ab4e002728f0a0bb-56/s2048x3072/f53c35c5dcdfcd1e9059594bd5590072196748dd.jpg" /></a>
@@ -85,13 +167,9 @@ tags: [World Tour, Greece, Film, Cycling]
 <div class="img3">
   <a href="https://64.media.tumblr.com/7fd80fb1e67e31b6625d62c1f786702d/ab4e002728f0a0bb-fb/s2048x3072/3a0e59fc2cc8e23b74b59050f8f6577532ed2852.jpg"><img class="glightbox" src="https://64.media.tumblr.com/7fd80fb1e67e31b6625d62c1f786702d/ab4e002728f0a0bb-fb/s2048x3072/3a0e59fc2cc8e23b74b59050f8f6577532ed2852.jpg" /></a>
 </div>
-</div>
-
-<div class="columns">
-  <div class="img1">
   <a href="https://64.media.tumblr.com/5966c5fa1c3d8dab6501ff3283e53092/ab4e002728f0a0bb-ac/s2048x3072/c33544733a7fe30d42efc6b7f7acb549f34b53cf.jpg"><img class="glightbox" src="https://64.media.tumblr.com/5966c5fa1c3d8dab6501ff3283e53092/ab4e002728f0a0bb-ac/s2048x3072/c33544733a7fe30d42efc6b7f7acb549f34b53cf.jpg" /></a>
 </div>
-<div class="img2">
+<!--<div class="img2">
   <a href="https://64.media.tumblr.com/07e9160cf6339a82925f9f1005b9b573/ab4e002728f0a0bb-ac/s2048x3072/f1fd0ed2ccaf949ef87a72060e14b25989691fff.jpg"><img class="glightbox" src="https://64.media.tumblr.com/07e9160cf6339a82925f9f1005b9b573/ab4e002728f0a0bb-ac/s2048x3072/f1fd0ed2ccaf949ef87a72060e14b25989691fff.jpg" /></a>
 </div>
 <div class="img3">
