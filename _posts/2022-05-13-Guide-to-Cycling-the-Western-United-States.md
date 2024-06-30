@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "World Tour: Cycling "
+title:  "World Tour: Cycling Western USA"
 categories: [World Tour, Cycling]
-image: 
-tags: [World Tour, Cycling, Guides]
+image: https://64.media.tumblr.com/7b22f95ac8fc753650e008413102624d/11f540256d474e07-b4/s540x810/d72d08bb480131dbe88d1d0ae60bae1094f43dbb.jpg
+tags: [World Tour, Cycling, Guides, USA]
 ---
 
 <article class="article-post"> 
@@ -69,17 +69,10 @@ It's a very weird feeling to be putting a bicycle together by the carousels, but
 
 
 <section class="mt-5 mb-3">
-                                                                                                                                                                    *
+                                                                                                                                                                    
 <p><h2>Seattle to Idaho</h2>
 Seattle was a bit tricky to get out of, especially because my only navigation was a flip phone for emergencies. There really wasn’t a plan, but why not go ride up to Mt. Rainier? After all, it’s the model name of my rear panniers which are made just north of here. A bike/ski shop wasn’t sure if the pass had been cleared but thought my chances were decent. No, it hadn’t. Even in May. It rained solid for two days and was mostly uphill (your parents probably took this road on their way to school), but once I reached the last peak for a while it was an incredible decent into the valley. Eastern Washington holds some of the most idyllic farmland I’ve ever seen.
-
-
-
-Utah was my favorite part of this trip all the way up until Namibia, which has the advantage of wild animals. Lonely deserts are my cup of tea, and Highway 191 running south gave me plenty of it. I stopped by the house (uninvited, unexpected) of the guy who made my bike’s frame, who was nice enough to let me sleep in his backyard. Good thing too, because it was like 9:00 when I got there. I was a little nervous that my bike had made it this far because it was trying to return home like a pigeon, but my frame builder assured me he designed it so it would leave. I spent a couple of days touring Arches National Park and Dead Horse Point (don’t look at pictures, just go there blindly.), which allow bikes, but couldn’t care less how hellish their roads are.
-
-Colorado’s Mesa Verde couldn’t care either. They too allow bikes in the park, but it’s basically near impossible for a loaded tourer to go to the back of the park, see everything, and return to the designated village for camping. Don’t ask me how I did it. The thought of crossing the Rockies by bike almost had me cycling down to Taos and taking the easy way out, but honestly it wasn’t that bad. Daring yourself to not touch the brakes going down was the hard part. This is probably a great place to cross the Rockies by bike, because the Race Across America cyclists chose this route.
-
-Once into the panhandle of Oklahoma, the horizon was perfectly flat for the first time. But still the road dipped up and down incessantly in these micro waves that would cook you in the heat. The goal was to make it back home by the 4th of July, which meant 100-mile days for 5 days straight. I’d been on the road for two months and felt the fullness of life on an incredible journey. How strange the streets of my hometown felt now that I was carrying it all with me into my garage. My mom said I smelled awful.
+<br>
 
 
 <a href="https://64.media.tumblr.com/79027e06c409e6876ae3a2c89435c76b/11f540256d474e07-98/s2048x3072/c68cbc8556f2df146a92ec3fc82c7c392e0aa86c.jpg"><img class="glightbox" src="https://64.media.tumblr.com/79027e06c409e6876ae3a2c89435c76b/11f540256d474e07-98/s2048x3072/c68cbc8556f2df146a92ec3fc82c7c392e0aa86c.jpg" /></a>
@@ -130,8 +123,7 @@ There aren't any pictures here because my film didn't spool correctly. Pro tip: 
 Utah was my favorite part of this trip all the way up until Namibia, which has the advantage of wild animals. Lonely deserts are my cup of tea, and Highway 191 running south gave me plenty of it. I stopped by the house (uninvited, unexpected) of the guy who made my bike’s frame, who was nice enough to let me sleep in his backyard. Good thing too, because it was like 9:00 when I got there. I was a little nervous that my bike had made it this far because it was trying to return home like a pigeon, but my frame builder assured me he designed it so it would leave. I spent a couple of days touring Arches National Park and Dead Horse Point (don’t look at pictures, just go there blindly.), which allow bikes, but couldn’t care less how hellish their roads are.
 
 Colorado’s Mesa Verde couldn’t care either. They too allow bikes in the park, but it’s basically near impossible for a loaded tourer to go to the back of the park, see everything, and return to the designated village for camping. Don’t ask me how I did it. The thought of crossing the Rockies by bike almost had me cycling down to Taos and taking the easy way out, but honestly it wasn’t that bad. Daring yourself to not touch the brakes going down was the hard part. This is probably a great place to cross the Rockies by bike, because the Race Across America cyclists chose this route.
-
-Once into the panhandle of Oklahoma, the horizon was perfectly flat for the first time. But still the road dipped up and down incessantly in these micro waves that would cook you in the heat. The goal was to make it back home by the 4th of July, which meant 100-mile days for 5 days straight. I’d been on the road for two months and felt the fullness of life on an incredible journey. How strange the streets of my hometown felt now that I was carrying it all with me into my garage. My mom said I smelled awful.
+<br>
 
 <a href="https://64.media.tumblr.com/c791d79f60f0aa2fe3e3c087c2389943/7b8241f50ccef935-18/s2048x3072/004fb206dbd22c52e359ada6139df1fb9ce4a7dd.jpg"><img class="glightbox" src="https://64.media.tumblr.com/c791d79f60f0aa2fe3e3c087c2389943/7b8241f50ccef935-18/s2048x3072/004fb206dbd22c52e359ada6139df1fb9ce4a7dd.jpg" /></a>
   
@@ -179,9 +171,7 @@ Once into the panhandle of Oklahoma, the horizon was perfectly flat for the firs
   <div class="img2">
 <a href="https://64.media.tumblr.com/5fa57ef24f2141d8cf2b6ee561e6b893/7b8241f50ccef935-26/s2048x3072/c47a98f03166827e0f18229f42a61cf77ca2dbfa.jpg"><img class="glightbox" src="https://64.media.tumblr.com/5fa57ef24f2141d8cf2b6ee561e6b893/7b8241f50ccef935-26/s2048x3072/c47a98f03166827e0f18229f42a61cf77ca2dbfa.jpg" /></a>
  </div>
-  <div class="img3">
-<a href="https://64.media.tumblr.com/089e72dc292526085dcc4101768d80c0/7b8241f50ccef935-49/s2048x3072/bce9482edf09939b4720ab25976ac0b1ad916596.jpg"><img class="glightbox" src="https://64.media.tumblr.com/089e72dc292526085dcc4101768d80c0/7b8241f50ccef935-49/s2048x3072/bce9482edf09939b4720ab25976ac0b1ad916596.jpg" /></a>
-   </div>
+
   </div>
   
   
@@ -202,8 +192,9 @@ Once into the panhandle of Oklahoma, the horizon was perfectly flat for the firs
  <a href="https://64.media.tumblr.com/fa5c3c51b5ed4171f429ad860c52c631/7b8241f50ccef935-ab/s2048x3072/c1484c548f63258b2056d2714d3ca9b910ff5f2e.jpg"><img class="glightbox" src="https://64.media.tumblr.com/fa5c3c51b5ed4171f429ad860c52c631/7b8241f50ccef935-ab/s2048x3072/c1484c548f63258b2056d2714d3ca9b910ff5f2e.jpg" /></a>
   </div> 
   </div>
- 
+<br>
 
+Once into the panhandle of Oklahoma, the horizon was perfectly flat for the first time. But still the road dipped up and down incessantly in these micro waves that would cook you in the heat. The goal was to make it back home by the 4th of July, which meant 100-mile days for 5 days straight. I’d been on the road for two months and felt the fullness of life on an incredible journey. How strange the streets of my hometown felt now that I was carrying it all with me into my garage. My mom said I smelled awful.
 
 
 

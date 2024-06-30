@@ -1403,16 +1403,16 @@ pre {
     outline: 0;
     box-shadow: 0 0 0 0.2rem #ffe696; }
   .form-control::-webkit-input-placeholder {
-    color: #6c757d;
+    color: #888c;
     opacity: 1; }
   .form-control:-ms-input-placeholder {
-    color: #6c757d;
+    color: #888;
     opacity: 1; }
   .form-control::-ms-input-placeholder {
-    color: #6c757d;
+    color: #888;
     opacity: 1; }
   .form-control::placeholder {
-    color: #6c757d;
+    color: #888d;
     opacity: 1; }
   .form-control:disabled, .form-control[readonly] {
     background-color: #e9ecef;

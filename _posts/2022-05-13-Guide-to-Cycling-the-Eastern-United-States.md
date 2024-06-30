@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "World Tour: Cycling "
+title:  "World Tour: Cycling Eastern USA"
 categories: [World Tour, Cycling]
-image: 
-tags: [World Tour, Cycling, Guides]
+image: https://64.media.tumblr.com/16f6e312fa110d5184e53e4d21f9b1a0/6aa83f5e4efedd14-8a/s540x810/5d7ea6f94c69bd137d6db87c28f69df7b9f3ae37.jpg
+tags: [World Tour, Cycling, Guides, USA]
 ---
 
 <article class="article-post"> 
@@ -17,7 +17,7 @@ tags: [World Tour, Cycling, Guides]
  <!--Top Cards --> 
 <section class="pt-4 pb-4" style="justify-content: center;">
     <p>
- Up until this point, I’d just told people that I was riding from Seattle to Oklahoma; that way, if I couldn’t do it or it wasn’t for me, it wouldn’t seem like such a catastrophic failure! Now, I was telling people that my goal was D.C. And it was... for now...
+ Up until this point, I’d just told people I was riding from Seattle to Oklahoma; that way, if it was too hard or not for me, it wouldn’t seem like a catastrophic failure. Now, I was telling people that my goal was D.C. And it was... for now...
     </p>
    
  
@@ -26,7 +26,7 @@ tags: [World Tour, Cycling, Guides]
             <h3>Enjoyment</h3> 
             <span class="dot"></span>
             <span class="dot"></span>
-            <span class="not-box"></span>
+            <span class="not-dot"></span>
             <span class="not-dot"></span>
         </div>
   
@@ -74,7 +74,7 @@ tags: [World Tour, Cycling, Guides]
 
  
 
- <p><h2>Oklahoma to Missouri</h2></p>
+ <p><h2>Oklahoma to Missouri</h2>
 Up until this point, I’d just told people that I was riding from Seattle to Oklahoma; that way, if I couldn’t do it or it wasn’t for me, it wouldn’t seem like such a catastrophic failure! Now, I was telling people that my goal was D.C. And it was, for now. Route 66 wasn’t the iconic strip of pavement it used to be, if it ever were. Maybe the roadside cafes and hotels that populated it and the newness of something so ambitious warranted a song, but the current one just jogs sloppily through neighborhoods and then turns into an I-44 service road. Not having a phone, I only learned this later. I just rode on the interstate. What?! That’s crazy and dangerous! You should be flogged! Honestly, I’d rather have six feet between me and a vehicle going 80 MPH than have someone see me and go around me at half that speed. When’s the last time you saw a car on the interstate veer completely into the shoulder because they weren’t paying attention? Even if they’re distracted, they’re still probably going straight.</p>
 
  <div class="columns">
@@ -113,7 +113,7 @@ Up until this point, I’d just told people that I was riding from Seattle to Ok
  As watertight as my interstate argument may seem to folks like you and me, the authorities of Kentucky felt otherwise. First it was the road crews following me with loudspeakers saying bikes aren’t allowed on the interstate, then said crews called the cops who said to stay of the interstates for a bit *wink wink nudge nudge*, then the sheriff was neither winking nor nudging. Highway 50, as dangerous as it may be, goes into the heart of Frankfurt where you can visit Daniel Boone’s grave and see a bust of Colonel Sanders in the stunning capitol building. The elite racing horse farms of Lexington were a fresh breath of beauty following a rather ugly ride thus far. The pictures didn't turn out because my shutter would stick part way up - something I didn't realize until many ruined photos later.
 
 Tired of Can’tucky, I headed up to Ohio into West Virginia. It must be nicer when you’re not slogging through gruelling hills. I tapped out after Highway 50 ripped me to shreds and took the gentler Highway 48 where my dad was waiting for me expecting me to finish in D.C. Uhhh, I guess maybe this wasn’t where my trip wasn’t ending. There might be a little bit more. </p>
-
+<br>
 <div class="columns">
   <div class="img1">
  <a href="https://64.media.tumblr.com/7eb8e2fcb0404858a39e23d429286654/7c24fe46274cce0c-e4/s2048x3072/daf0b426391172d95a9a94bde0d6a4fc4732dd97.jpg"><img class="glightbox" src="https://64.media.tumblr.com/7eb8e2fcb0404858a39e23d429286654/7c24fe46274cce0c-e4/s2048x3072/daf0b426391172d95a9a94bde0d6a4fc4732dd97.jpg" /></a>
@@ -133,4 +133,4 @@ Tired of Can’tucky, I headed up to Ohio into West Virginia. It must be nicer w
   </div>
   
 <a href="https://64.media.tumblr.com/d8505902ac54cb25b6cfaff625cd5450/7c24fe46274cce0c-86/s2048x3072/b4af667dc677329c5968ee065929c95f480908b3.jpg"><img class="glightbox" src="https://64.media.tumblr.com/d8505902ac54cb25b6cfaff625cd5450/7c24fe46274cce0c-86/s2048x3072/b4af667dc677329c5968ee065929c95f480908b3.jpg" /></a>
-From phone camera... the film version didn't turn out.                                                                                                                                                                    *
+From phone camera... the film version didn't turn out.                                                                                                                                                                    
