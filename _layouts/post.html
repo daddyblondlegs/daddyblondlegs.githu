@@ -175,9 +175,9 @@ layout: default
       #mlb2-16041767.ml-form-embedContainer .ml-form-embedWrapper {
         background-color: #dad2be;
         
-        border-width: 0px;
-        border-color: transparent;
-        border-radius: 4px;
+        border-width: 9px;
+        border-color: #e6e6e6;
+        border-radius: 11px;
         border-style: solid;
         box-sizing: border-box;
         display: inline-block !important;
@@ -186,15 +186,15 @@ layout: default
         position: relative;
               }
       #mlb2-16041767.ml-form-embedContainer .ml-form-embedWrapper.embedPopup,
-      #mlb2-16041767.ml-form-embedContainer .ml-form-embedWrapper.embedDefault { width: 400px; }
-      #mlb2-16041767.ml-form-embedContainer .ml-form-embedWrapper.embedForm { max-width: 400px; width: 100%; }
+      #mlb2-16041767.ml-form-embedContainer .ml-form-embedWrapper.embedDefault { width: 510px; }
+      #mlb2-16041767.ml-form-embedContainer .ml-form-embedWrapper.embedForm { max-width: 510px; width: 100%; }
       #mlb2-16041767.ml-form-embedContainer .ml-form-align-left { text-align: left; }
       #mlb2-16041767.ml-form-embedContainer .ml-form-align-center { text-align: center; }
       #mlb2-16041767.ml-form-embedContainer .ml-form-align-default { display: table-cell !important; vertical-align: middle !important; text-align: center !important; }
       #mlb2-16041767.ml-form-embedContainer .ml-form-align-right { text-align: right; }
       #mlb2-16041767.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedHeader img {
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
+        border-top-left-radius: 11px;
+        border-top-right-radius: 11px;
         height: auto;
         margin: 0 auto !important;
         max-width: 100%;
@@ -673,7 +673,7 @@ layout: default
 
       .ml-error .custom-checkbox-radio-list {
         border: 1px solid red !important;
-        border-radius: 4px;
+        border-radius: 11px;
         padding: 10px;
       }
 
@@ -688,7 +688,7 @@ layout: default
       #mlb2-16041767.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow.ml-error .label-description p:first-letter {
         color: #ff0000 !important;
       }
-            @media only screen and (max-width: 400px){
+            @media only screen and (max-width: 510px){
 
         .ml-form-embedWrapper.embedDefault, .ml-form-embedWrapper.embedPopup { width: 100%!important; }
         .ml-form-formContent.horozintalForm { float: left!important; }
@@ -701,85 +701,124 @@ layout: default
       }
     </style>
 
-          
+    <style type="text/css">
+
+      .ml-mobileButton-horizontal { display: none; }
+
+      #mlb2-16041767 .ml-mobileButton-horizontal button {
+
+        background-color: #fff2bc !important;
+        border-color: #fff2bc !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-radius: 4px !important;
+        box-shadow: none !important;
+        color: #696969 !important;
+        cursor: pointer;
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif !important;
+        font-size: 14px !important;
+        font-weight: 700 !important;
+        line-height: 20px !important;
+        padding: 10px !important;
+        width: 100% !important;
+
+      }
+
+      @media only screen and (max-width: 510px) {
+        #mlb2-16041767.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-formContent.horozintalForm {
+          padding: 0 0 10px 0 !important;
+        }
+        .ml-hide-horizontal { display: none !important; }
+        .ml-form-formContent.horozintalForm .ml-button-horizontal { display: none!important; }
+        .ml-mobileButton-horizontal { display: inline-block !important; margin-bottom: 20px;width:100%; }
+        .ml-form-formContent.horozintalForm .ml-form-horizontalRow .ml-input-horizontal > div { padding-bottom: 0px !important; }
+      }
+
+    </style>
+  <style type="text/css">
+    @media only screen and (max-width: 510px) {
+       .ml-form-formContent.horozintalForm .ml-form-horizontalRow .horizontal-fields {
+        margin-bottom: 10px !important;
+        width: 100% !important;
+      }
+    }
+  </style>
+    
+	
     <div id="mlb2-16041767" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-16041767">
-      <div class="ml-form-align-center ">
+      <div class="ml-form-align-left ">
         <div class="ml-form-embedWrapper embedForm">
 
           
+          
 
-          <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+          <div class="ml-form-embedBody ml-form-embedBodyHorizontal row-form">
 
             <div class="ml-form-embedContent" style=" ">
               
-                <h4>Daddy Issues</h4>
-                <p>Get 'em a few times a year (if you're lucky).</p>
+                <h4>Get Daddy Issues</h4>
+                <p>I'll shoot you an email when I do something cool.</p>
               
             </div>
 
             <form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/1007092/forms/125593174789850624/subscribe" data-code="" method="post" target="_blank">
-              <div class="ml-form-formContent">
-                
-
-                  
-                  <div class="ml-form-fieldRow ml-last-item">
-                    <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
-
-
-                      <!-- input -->
-                      <input aria-label="email" aria-required="true" type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Email" autocomplete="email">
-                      <!-- /input -->
-
-                      <!-- textarea -->
-                      
-                      <!-- /textarea -->
-
-                      <!-- select -->
-                      
-                      <!-- /select -->
-
-                      <!-- checkboxes -->
-            
-            <!-- /checkboxes -->
-
-                      <!-- radio -->
-                      
-                      <!-- /radio -->
-
-                      <!-- countries -->
-                      
-                      <!-- /countries -->
-
-
-
-
-
-                    </div>
-                  </div>
-                
-              </div>
-
               
+
+              <div class="ml-form-formContent horozintalForm">
+                <div class="ml-form-horizontalRow">
+                  <div class="ml-input-horizontal">
+                    
+                      
+                      <div style="width: 100%;" class="horizontal-fields">
+
+
+
+
+
+
+                        <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
+                          
+                          <!-- input -->
+                      <input type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Email" autocomplete="email">
+                      <!-- /input -->
+                        </div>
+
+
+
+                      </div>
+                    
+                  </div>
+
+
+                  <div class="ml-button-horizontal primary ">
+                    
+                      <button type="submit" class="primary">Boop</button>
+                    
+                    <button disabled="disabled" style="display: none;" type="button" class="loading">
+                      <div class="ml-form-embedSubmitLoad"></div>
+                      <span class="sr-only">Hermmm...</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
 
               <!-- Privacy policy -->
               
               <!-- /Privacy policy -->
 
-
+			  
               
               <input type="hidden" name="ml-submit" value="1">
 
-              <div class="ml-form-embedSubmit">
-                
-                  <button type="submit" class="primary">Subscribe</button>
-                
+              
+
+              <div class="ml-mobileButton-horizontal">
+                <button type="submit" class="primary">Boop</button>
                 <button disabled="disabled" style="display: none;" type="button" class="loading">
                   <div class="ml-form-embedSubmitLoad"></div>
                   <span class="sr-only">Loading...</span>
                 </button>
               </div>
-
-              
               <input type="hidden" name="anticsrf" value="true">
             </form>
           </div>
@@ -788,9 +827,9 @@ layout: default
 
             <div class="ml-form-successContent">
               
-                <h4>Thank you!</h4>
+                <h4>You're in.</h4>
                 
-                  <p>You have successfully joined our subscriber list.</p>
+                  <p>I'll be living my best life in your junk folder.</p>
                 
               
             </div>
@@ -799,6 +838,10 @@ layout: default
         </div>
       </div>
     </div>
+
+  
+
+  
   
   <script>
     function ml_webform_success_16041767() {
@@ -817,11 +860,7 @@ layout: default
 
 
 
-
-
-
-
-            <!--Author Box-->
+<!--Author Box-->
                 {% if page.author %}				
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
@@ -838,16 +877,16 @@ layout: default
             
     
 		
-        <!-- Comments
+	<!-- Comments
 		{% if page.comments != false %}
 		{% include comments.html %}
-	{% endif %}-->
+	{% endif %} 
+	-->
         
 	</div>
 </div>
 
 
-  
 
 <!-- Aletbar Prev/Next -->
 <div class="alertbar">
