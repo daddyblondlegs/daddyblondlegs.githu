@@ -7,11 +7,9 @@ tags: [World Tour, Film, Cycling, Europe]
 ---
 
 <article class="article-post"> 
-			
-
- 
-<!--<script src="assets/js/popper.min.js"></script>
-  <script src="bootstrap/js/bootstrap.min.js"></script>-->
+			 
+<script src="assets/js/popper.min.js"></script>
+  <script src="bootstrap/js/bootstrap.min.js"></script>
   
  
  <!--Top Cards --> 
@@ -21,29 +19,33 @@ It’s not any scarier that Western Europe, just a little rough around the edges
 
     </p>
    
- 
-<div class="columns mb-7 text-center"> 
-     <div style="min-width: 30%;">
-            <h3>Enjoyment</h3> 
-            <span class="dot"></span>
-            <span class="dot"></span>
-            <span class="not-dot"></span>
-            <span class="not-dot"></span>
-        </div>
-  
-<div class="mr-4 ml-4" style="min-width: 30%;">
-        <h3>Profile</h3> 
-        <span> mi </span><span style="color:lightgray">( km)</span><br>
-        <span>⭧ k ft⭨ k ft</span> 
-    </div>
+<!--Info Cards--> 
+<div class="flex-wrap-reverse justify-content-center m-5 row"> 
+  <div class="col-lg-6 pb-3 pt-3">
+    <h3>Enjoyment</h3> 
+    <span class="dot"></span>
+    <span class="dot"></span>
+    <span class="not-dot"></span>
+    <span class="not-dot"></span>
+  </div>
 
-<div style="min-width: 30%;"> 
-        <h3>Difficulty</h3>
-        <span class="box"></span>
-        <span class="half-box"></span>
-        <span class="not-box"></span>
-        <span class="not-box"></span>
-    </div></div>
+  <div class="mr-4 ml-4" class="col-lg-6 pb-3 pt-3">
+    <h3>Profile</h3> 
+    <span> mi </span><span style="color:lightgray">( km)</span><br>
+    <span>⭧ k ft⭨ k ft</span> 
+  </div>
+  
+
+  <div class="col-lg-6 pb-3 pt-3"> 
+    <h3>Difficulty</h3>
+    <span class="box"></span>
+    <span class="half-box"></span>
+    <span class="not-box"></span>
+    <span class="not-box"></span>
+  </div>
+</div>
+<!--Info Cards--> 
+
 
 <!--Top Cards-->
 <!--Route -->
@@ -51,7 +53,7 @@ It’s not any scarier that Western Europe, just a little rough around the edges
     <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
         <div class="row gap-y">
             <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-                <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=667a8f22-be72-45cc-8dcc-d5bfdc19df56&fullscreenControl=true&locateControl=false&measureControl=false&editinosmControl=false&starControl=false#5/45.506/20.171"></iframe>
+                <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=667a8f22-be72-45cc-8dcc-d5bfdc19df56&fullscreenControl=true&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&captionControl=false#5/45.506/20.171"></iframe>
             </div>
 
 <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>

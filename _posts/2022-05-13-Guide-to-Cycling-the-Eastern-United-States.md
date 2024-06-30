@@ -46,18 +46,13 @@ tags: [World Tour, Cycling, Guides, USA]
 
 <!--Top Cards-->
 <!--Route -->
-
-
 <section style="margin-right: auto;margin-left: auto;">
     <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
         <div class="row gap-y">
             <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-               
-<iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&fullscreenControl=true&datalayers=9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#5/38.065/-87.45"></iframe>
-
-                
+            <iframe width="100%" height="700px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=false&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false#5/38.065/-87.45"></iframe> 
             </div>
-            <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
+          <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
                 <p class="pl-lg-4">
                  Much optimizing needs to be done because frankly, this route stinks. It was noisy interstates, uninspiring views except for a few exceptions. River towns add something to look forward to. The route is pretty direct, which if you want to finish The States before you run out of willpower, this makes sense.                                                                                                                                           
                 </p> 
