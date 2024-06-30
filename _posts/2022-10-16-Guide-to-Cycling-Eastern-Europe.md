@@ -3,7 +3,7 @@ layout: post
 title:  "World Cycling Tour: Eastern Europe"
 categories: [World Tour, Cycling]
 image: https://64.media.tumblr.com/15fef40ecc6342e26d1c3bf6eca9f1de/0eb979a7f420c5e0-54/s540x810/c82bf07de4ad8761df94dfbf3f804090a6b0a4b4.jpg
-tags: [World Tour, Greece, Film, Cycling]
+tags: [World Tour, Film, Cycling, Europe]
 ---
 
 <article class="article-post"> 
@@ -27,7 +27,7 @@ It’s not any scarier that Western Europe, just a little rough around the edges
             <h3>Enjoyment</h3> 
             <span class="dot"></span>
             <span class="dot"></span>
-            <span class="half-dot"></span>
+            <span class="not-dot"></span>
             <span class="not-dot"></span>
         </div>
   
@@ -40,9 +40,9 @@ It’s not any scarier that Western Europe, just a little rough around the edges
 <div style="min-width: 30%;"> 
         <h3>Difficulty</h3>
         <span class="box"></span>
-        <span class="box"></span>
-        <span class="box"></span>
         <span class="half-box"></span>
+        <span class="not-box"></span>
+        <span class="not-box"></span>
     </div></div>
 
 <!--Top Cards-->
@@ -53,7 +53,7 @@ It’s not any scarier that Western Europe, just a little rough around the edges
     <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
         <div class="row gap-y">
             <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-             <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&fullscreenControl=true&datalayers=9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#6/7.221/39.287"></iframe>
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=667a8f22-be72-45cc-8dcc-d5bfdc19df56&fullscreenControl=true&locateControl=false&measureControl=false&editinosmControl=false&starControl=false#6/45.506/21.357"></iframe>
             </div>
             <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
                 <p class="pl-lg-4">
@@ -69,18 +69,29 @@ From Budapest, a slight detour up in to Czechia by train, cycling down to Vienna
 
 
 <section class="mt-5 mb-3">
-Czechia & Austria
+<h1>Czechia & Austria</h1>
 Most wouldn’t consider Austria as being “Eastern Europe”, but would say the Czech Republic is. Prague is actually further west than Vienna, and fits in nicely with this route. One of my favorite artists Mucha ended his illustrious career with a series of paintings known as the Slav Epic. Twelve panels chronicle the history of his people from prehistory to his current age. The paintings are wildly different from “snapshots” and need a companion guide to decipher the numerous layers and symbols. I think I was in there for three hours before saying it’s time to head on. Vienna had more art waiting. Everyone knows Klimt’s “The Kiss”, but some of his more interesting works can be found, including the scandalous “Beethoven’s Frieze” which pairs with Wagner’s interpretation of Beethoven’s 9th. Wireless headsets play the symphony which match with the expressions on the wall. For $10, it’s a bit much for what it is, but still unmissable.
 
-Hungary
-Budapest is a fascinating mix of some of the most remarkable buildings in Europe, attached to a metropolitan that does feel quite “Eastern European”. Dingy, dark, dirty. The alliterations go on, but cyclists will love it here because you’re joined on the streets with others, meaning there are bike lanes and prepared motorists. Outside of Budapest is basically just empty space until you get to Romania. There was a UNESCO World Heritage Site, which ended up being nothing more that fields. Being from Oklahoma, I can relate, but still it’s boring.
+<section class="p-1 jumbotron">  
+  <div class="columns">
+  <div class="img1"><a href="https://64.media.tumblr.com/b09a4da3f31158412f573f73ecaf1e90/0eb979a7f420c5e0-35/s2048x3072/9e344f230aff947160dba295923e045df9098ea1.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b09a4da3f31158412f573f73ecaf1e90/0eb979a7f420c5e0-35/s2048x3072/9e344f230aff947160dba295923e045df9098ea1.jpg" /></a>
 
-Romania
-More like Mo’ Mania! Romania threw me for a loop, and if I had to tour any European country again, it would probably be this one. People who love architecture even a little will constantly be stopping their bikes to clap their hands and shake their heads. Well done. Bravo. No, it’s not foofy like Paris, and that’s exactly what makes it so great. Not only has Romania developed independent of the rest of Europe, individual areas have created their own style. The north holds wooden churches that create shapes and flows you wouldn’t expect wood to be able to accomplish, the center are fortified churches where they could only afford to protect the most important building in their community, and the south are castles fit for legend.
+  </div>
+  
+  <div class="img2"><a href="https://64.media.tumblr.com/f93003916849541a1ff7ce91aeb53d3a/0eb979a7f420c5e0-43/s2048x3072/69b9e3b755f43d930dccf6f1d91892dff8a32c41.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f93003916849541a1ff7ce91aeb53d3a/0eb979a7f420c5e0-43/s2048x3072/69b9e3b755f43d930dccf6f1d91892dff8a32c41.jpg" /></a>
 
-The roads in Romania were actually quite good compared to Hungary and Bulgaria.
+  </div>
+  
+  <div class="img3"><a href="https://64.media.tumblr.com/f95a1cae3fec4d1537e7683981870279/0eb979a7f420c5e0-ee/s2048x3072/ff6c7b199b1d48a76a01a9d73b14eb8776766507.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f95a1cae3fec4d1537e7683981870279/0eb979a7f420c5e0-ee/s2048x3072/ff6c7b199b1d48a76a01a9d73b14eb8776766507.jpg" /></a>
 
+   </div>
+  </div>
 
+</section>
+
+<h1>Hungary</h1>
+Budapest is a fascinating mix of some of the most remarkable buildings in Europe, attached to a metropolitan that does feel quite “Eastern European”. Dingy, dark, dirty. The alliterations go on, but cyclists will love it here because you’re joined on the streets with others, meaning there are bike lanes and prepared motorists. Not only that, but they have a store dedicated entirely to maps! I'm in love. Outside of Budapest is basically just empty space until you get to Romania. There was a UNESCO World Heritage Site, which ended up being nothing more that fields. Being from Oklahoma, I can relate, but still it’s boring.
+<br>
 
 <section class="p-1 jumbotron">  
   <div class="columns">
@@ -98,21 +109,13 @@ The roads in Romania were actually quite good compared to Hungary and Bulgaria.
   </div>
   </section>
 
+<h1>Romania</h1>
+More like Mo’ Mania! Romania threw me for a loop, and if I had to tour any European country again, it would probably be this one. People who love architecture even a little will constantly be stopping their bikes to clap their hands and shake their heads. Well done. Bravo. No, it’s not foofy like Paris, and that’s exactly what makes it so great. Not only has Romania developed independent of the rest of Europe, individual areas have created their own style. The north holds wooden churches that create shapes and flows you wouldn’t expect wood to be able to accomplish, the center are fortified churches where they could only afford to protect the most important building in their community, and the south are castles fit for legend.
+
+The roads in Romania were actually quite good compared to Hungary and Bulgaria.
+<br>
+
 <section class="p-1 jumbotron">  
-  <div class="columns">
-  <div class="img1"><a href="https://64.media.tumblr.com/b09a4da3f31158412f573f73ecaf1e90/0eb979a7f420c5e0-35/s2048x3072/9e344f230aff947160dba295923e045df9098ea1.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b09a4da3f31158412f573f73ecaf1e90/0eb979a7f420c5e0-35/s2048x3072/9e344f230aff947160dba295923e045df9098ea1.jpg" /></a>
-
-  </div>
-  
-  <div class="img2"><a href="https://64.media.tumblr.com/f93003916849541a1ff7ce91aeb53d3a/0eb979a7f420c5e0-43/s2048x3072/69b9e3b755f43d930dccf6f1d91892dff8a32c41.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f93003916849541a1ff7ce91aeb53d3a/0eb979a7f420c5e0-43/s2048x3072/69b9e3b755f43d930dccf6f1d91892dff8a32c41.jpg" /></a>
-
-  </div>
-  
-  <div class="img3"><a href="https://64.media.tumblr.com/f95a1cae3fec4d1537e7683981870279/0eb979a7f420c5e0-ee/s2048x3072/ff6c7b199b1d48a76a01a9d73b14eb8776766507.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f95a1cae3fec4d1537e7683981870279/0eb979a7f420c5e0-ee/s2048x3072/ff6c7b199b1d48a76a01a9d73b14eb8776766507.jpg" /></a>
-
-   </div>
-  </div>
-  
   <div class="columns">
   <div class="img1"><a href="https://64.media.tumblr.com/5984dfe328ba16840373fa0a4bbf46b3/0eb979a7f420c5e0-29/s2048x3072/09e1fb6bfd2d2fd6a6ca8ce9422c222f705a2f1b.jpg"><img class="glightbox" src="https://64.media.tumblr.com/5984dfe328ba16840373fa0a4bbf46b3/0eb979a7f420c5e0-29/s2048x3072/09e1fb6bfd2d2fd6a6ca8ce9422c222f705a2f1b.jpg" /></a>
 
@@ -129,32 +132,29 @@ The roads in Romania were actually quite good compared to Hungary and Bulgaria.
 
   <div class="columns">
   <div class="img1"><a href="https://64.media.tumblr.com/1db917567aff0f25f004719882d1133a/0eb979a7f420c5e0-69/s2048x3072/cd43c8e5d23a6c2884ade96ea45fa43efa869c6b.jpg"><img class="glightbox" src="https://64.media.tumblr.com/1db917567aff0f25f004719882d1133a/0eb979a7f420c5e0-69/s2048x3072/cd43c8e5d23a6c2884ade96ea45fa43efa869c6b.jpg" /></a>
-
   </div>
-  
   <div class="img2"><a href="https://64.media.tumblr.com/990e7da4dc6d4b5cc108d729983b78d1/0eb979a7f420c5e0-7e/s2048x3072/36b3bc909b65b2ec1c603c62c51047aabe302e51.jpg"><img class="glightbox" src="https://64.media.tumblr.com/990e7da4dc6d4b5cc108d729983b78d1/0eb979a7f420c5e0-7e/s2048x3072/36b3bc909b65b2ec1c603c62c51047aabe302e51.jpg" /></a>
-
   </div>
-  
-  <div class="img3"><a href="https://64.media.tumblr.com/fd4b638334fd8912889b8c401add15f5/0eb979a7f420c5e0-69/s2048x3072/d163cc5bb9de1cda2148a805ef0d605b67f89544.jpg"><img class="glightbox" src="https://64.media.tumblr.com/fd4b638334fd8912889b8c401add15f5/0eb979a7f420c5e0-69/s2048x3072/d163cc5bb9de1cda2148a805ef0d605b67f89544.jpg" /></a>
-
+ <div class="img3"><a href="https://64.media.tumblr.com/fd4b638334fd8912889b8c401add15f5/0eb979a7f420c5e0-69/s2048x3072/d163cc5bb9de1cda2148a805ef0d605b67f89544.jpg"><img class="glightbox" src="https://64.media.tumblr.com/fd4b638334fd8912889b8c401add15f5/0eb979a7f420c5e0-69/s2048x3072/d163cc5bb9de1cda2148a805ef0d605b67f89544.jpg" /></a>
   </div>
    </div>
-  <div class="columns">
-  <div class="img1"><a href="https://64.media.tumblr.com/9c1b1b75f906dab9c66584ea95f0cb98/0eb979a7f420c5e0-80/s2048x3072/9ccf7e34086d2db194786e44460f833ab59ea607.jpg"><img class="glightbox" src="https://64.media.tumblr.com/9c1b1b75f906dab9c66584ea95f0cb98/0eb979a7f420c5e0-80/s2048x3072/9ccf7e34086d2db194786e44460f833ab59ea607.jpg" /></a>
 
+<div class="columns">
+  <div class="img1"><a href="https://64.media.tumblr.com/9c1b1b75f906dab9c66584ea95f0cb98/0eb979a7f420c5e0-80/s2048x3072/9ccf7e34086d2db194786e44460f833ab59ea607.jpg"><img class="glightbox" src="https://64.media.tumblr.com/9c1b1b75f906dab9c66584ea95f0cb98/0eb979a7f420c5e0-80/s2048x3072/9ccf7e34086d2db194786e44460f833ab59ea607.jpg" /></a>
   </div>
-  
   <div class="img2"><a href="https://64.media.tumblr.com/b924da9e54bc3cab2dda290930d1f39a/0eb979a7f420c5e0-01/s2048x3072/20393e47f56a70c4f96a2f50c2c81d02c0f17776.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b924da9e54bc3cab2dda290930d1f39a/0eb979a7f420c5e0-01/s2048x3072/20393e47f56a70c4f96a2f50c2c81d02c0f17776.jpg" /></a>
   </div>
   <div class="img3"><a href="https://64.media.tumblr.com/a4344c2b7b2f03cd95861658facc349f/0eb979a7f420c5e0-4b/s2048x3072/234213cbfa774e5b3f347b4dd8754e9f29db1c5c.jpg"><img class="glightbox" src="https://64.media.tumblr.com/a4344c2b7b2f03cd95861658facc349f/0eb979a7f420c5e0-4b/s2048x3072/234213cbfa774e5b3f347b4dd8754e9f29db1c5c.jpg" /></a>
   </div>
- <a href="https://64.media.tumblr.com/2e8b90983326ba4f7db28d0a73d07c6a/0eb979a7f420c5e0-03/s2048x3072/47a9b2290796789fc79bc098125a8a686df770ab.jpg"><img class="glightbox" src="https://64.media.tumblr.com/2e8b90983326ba4f7db28d0a73d07c6a/0eb979a7f420c5e0-03/s2048x3072/47a9b2290796789fc79bc098125a8a686df770ab.jpg" /></a>
+  </div>
+  <div>
+ <a href="https://64.media.tumblr.com/2e8b90983326ba4f7db28d0a73d07c6a/0eb979a7f420c5e0-03/s2048x3072/47a9b2290796789fc79bc098125a8a686df770ab.jpg"><img class="glightbox" src="https://64.media.tumblr.com/2e8b90983326ba4f7db28d0a73d07c6a/0eb979a7f420c5e0-03/s2048x3072/47a9b2290796789fc79bc098125a8a686df770ab.jpg"></a>
  </div>
- </section>
+  </section>
 
 Bulgaria & North Macedonia
 Crossing into Bulgaria was accomplished by a river ferry loaded exclusively with semis… and me and my bike. The roads were immediately worse and never improved, and there wasn’t really anything worth seeing. The last day through side road following the A2 was in fact quite nice. That side road ends at the border with Greece, and since you can’t ride on expressway, the only feasible option was a long detour out and around through The Kingdom of Northern Macedonia. It was only an extra day’s ride to get to add a really cool flag to the mix. Like Bulgaria, there wasn’t much down in this strip except a ride through a valley, but also a really charming lake.
+<br>
 
 <section class="p-1 jumbotron">  
 <div class="columns">
@@ -169,7 +169,8 @@ Crossing into Bulgaria was accomplished by a river ferry loaded exclusively with
 </div>
   <a href="https://64.media.tumblr.com/5966c5fa1c3d8dab6501ff3283e53092/ab4e002728f0a0bb-ac/s2048x3072/c33544733a7fe30d42efc6b7f7acb549f34b53cf.jpg"><img class="glightbox" src="https://64.media.tumblr.com/5966c5fa1c3d8dab6501ff3283e53092/ab4e002728f0a0bb-ac/s2048x3072/c33544733a7fe30d42efc6b7f7acb549f34b53cf.jpg" /></a>
 </div>
-<!--<div class="img2">
+<!--
+<div class="img2">
   <a href="https://64.media.tumblr.com/07e9160cf6339a82925f9f1005b9b573/ab4e002728f0a0bb-ac/s2048x3072/f1fd0ed2ccaf949ef87a72060e14b25989691fff.jpg"><img class="glightbox" src="https://64.media.tumblr.com/07e9160cf6339a82925f9f1005b9b573/ab4e002728f0a0bb-ac/s2048x3072/f1fd0ed2ccaf949ef87a72060e14b25989691fff.jpg" /></a>
 </div>
 <div class="img3">
@@ -209,4 +210,5 @@ Crossing into Bulgaria was accomplished by a river ferry loaded exclusively with
   <a href="https://64.media.tumblr.com/413776eacf02c9a1bc5d366b86fabe27/ab4e002728f0a0bb-35/s2048x3072/499615e202de074d94978439af4e9cb74e1a87ff.jpg"><img class="glightbox" src="https://64.media.tumblr.com/413776eacf02c9a1bc5d366b86fabe27/ab4e002728f0a0bb-35/s2048x3072/499615e202de074d94978439af4e9cb74e1a87ff.jpg" /></a>
 </div>
 </div>
+-->
 

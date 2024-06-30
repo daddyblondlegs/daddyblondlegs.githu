@@ -6,7 +6,83 @@ image: https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b864
 tags: [World Tour, France, Germany, Film, Cycling]
 ---
 
-<h2>Portugal to Andorra</h2>
+<article class="article-post"> 
+			
+
+ 
+<!--<script src="assets/js/popper.min.js"></script>
+  <script src="bootstrap/js/bootstrap.min.js"></script>-->
+  
+ 
+ <!--Top Cards --> 
+<section class="pt-4 pb-4" style="justify-content: center;">
+    <p>
+It’s the epitome of travel for not only American and Asians, but Europeans themselves. Many people I talked to knew they had a good thing going, and were just as curious as I was to explore it. So many lasting manifestations of praise and power mean that you never get to see it all in one lifetime, though some may try.
+    </p>
+   
+ 
+<div class="columns mb-7 text-center"> 
+     <div style="min-width: 30%;">
+            <h3>Enjoyment</h3> 
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="half-dot"></span>
+            <span class="not-dot"></span>
+        </div>
+  
+<div class="mr-4 ml-4" style="min-width: 30%;">
+        <h3>Profile</h3> 
+        <span> mi </span><span style="color:lightgray">( km)</span><br>
+        <span>⭧ k ft⭨ k ft</span> 
+    </div>
+
+<div style="min-width: 30%;"> 
+        <h3>Difficulty</h3>
+        <span class="box"></span>
+        <span class="box"></span>
+        <span class="box"></span>
+        <span class="half-box"></span>
+    </div></div>
+
+<!--Top Cards-->
+<!--Route -->
+
+
+<section style="margin-right: auto;margin-left: auto;">
+    <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
+        <div class="row gap-y">
+            <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
+             <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&fullscreenControl=true&datalayers=9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#6/7.221/39.287"></iframe>
+            </div>
+            <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
+                <p class="pl-lg-4">
+Across the plains of Spain into the mountains dividing it with France, up to the northern coast of France via canal paths, across the vineyards of France, into the hills of Germany, and exiting along the Danube.
+                </p> 
+            </div>
+        </div>
+    </div>
+</section>   
+
+<!--Route -->  
+<!-- Planning -->
+
+
+<section class="mt-5 mb-3">
+<h1>Portugal</h1>
+My sleeping gear didn’t arrive at the airport, leaving me with a week of wondering in Lisbon. Lucky for me, it kept me busy. 
+
+    • Tomb of Vasco de Gama
+    • Ride the trolleys
+    • World’s oldest bookstore
+
+<h1>Spain</h1>
+Everyone raves about how beautiful Spain is, but really it’s a whole lot of dead grass, which are nice in their own way, but not something you’d broadcast without an explanation. It’s a subtle beauty, I’ll give it that. Bullfighting is pretty much in every town every Sunday, yet somehow I never managed to see one. 
+
+    • Prehistoric stone circle
+    • Guadalupe Cathedral
+    • Cycling Madrid at night
+
+    x Bull fight
 
 <div class="columns">
   <div class="img1"><a href="https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg"><img class="glightbox" src="https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg" /></a>
@@ -33,16 +109,25 @@ tags: [World Tour, France, Germany, Film, Cycling]
 </div>
   <div class="img2"><a href="https://64.media.tumblr.com/7e3532946c9b03fb1ac0ca44e6c40c75/9d38c6a8b86410f9-8d/s500x750/42ddeb58be31672cd7550d4b60308baf7ad51c6e.jpg"><img class="glightbox" src="https://64.media.tumblr.com/7e3532946c9b03fb1ac0ca44e6c40c75/9d38c6a8b86410f9-8d/s500x750/42ddeb58be31672cd7550d4b60308baf7ad51c6e.jpg" /></a>
 </div>
-  <div class="img3"><a href="https://64.media.tumblr.com/993911c19d89bed1066a852b262daa0b/9d38c6a8b86410f9-12/s500x750/95154dee93df2f862e7558d0464ae14bade91e94.jpg"><img class="glightbox" src="https://64.media.tumblr.com/993911c19d89bed1066a852b262daa0b/9d38c6a8b86410f9-12/s500x750/95154dee93df2f862e7558d0464ae14bade91e94.jpg" /></a>
-
+  <div class="img3"><a href="https://64.media.tumblr.com/f0a514d1e75d3aea771b6a092d837366/9d38c6a8b86410f9-ea/s500x750/ad83f795bbea8a6c40982f86099e957fe671d64e.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f0a514d1e75d3aea771b6a092d837366/9d38c6a8b86410f9-ea/s500x750/ad83f795bbea8a6c40982f86099e957fe671d64e.jpg" /></a>
   </div>
   </div>
-  
+<a href="https://64.media.tumblr.com/993911c19d89bed1066a852b262daa0b/9d38c6a8b86410f9-12/s500x750/95154dee93df2f862e7558d0464ae14bade91e94.jpg"><img class="glightbox" src="https://64.media.tumblr.com/993911c19d89bed1066a852b262daa0b/9d38c6a8b86410f9-12/s500x750/95154dee93df2f862e7558d0464ae14bade91e94.jpg" /></a>
+</section>
 
-<a href="https://64.media.tumblr.com/f0a514d1e75d3aea771b6a092d837366/9d38c6a8b86410f9-ea/s500x750/ad83f795bbea8a6c40982f86099e957fe671d64e.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f0a514d1e75d3aea771b6a092d837366/9d38c6a8b86410f9-ea/s500x750/ad83f795bbea8a6c40982f86099e957fe671d64e.jpg" /></a>
+<h1>France</h1>
+I’d lived in France for a year and saw a lot of the south on weekend excursions. Though I’d already been, Toulouse was still somewhere I was excited to see. The use of red brick over white limestone makes it stand out. Going back by bike felt like a completely different experience, especially because I was looking for the entrance to the Canal de Garrone. This remarkable engineering achievement connects the Atlantic with another canal that runs into the Mediterranean. Could you ask for a better road than one that is almost perfectly flat, shaded, and without cars? It’s what hobby cyclists uses on their hours-long trips, but for me, it was a welcome reprieve. There’s a historical town south of the canal that just happens to be named Condom (don’t be perverted), and adds a bit of interest to the repetitive canal roads. Nantes is the hometown of fantasy author Jules Verne and has little Easter eggs around the city from his books. An aquatic carousel takes its riders 20,000 leagues under the sea and a hanging illuminated moon over trampolines simulates a voyage there. Mont St. Michel was the real reason I went north, because it’s all over tour guides to France. What makes it so impressive is that it’s on an island that’s only accessible when the tide goes out. Today, a bridge gives people access all day long. The next thing on my France bucket list was to see the double helix staircase designed by Leonardo da Vinci, which as I found out wasn’t a Fontainebleau. No worries, it turned out to be something even more astounding: the home of royalty since the Middle Ages. You have to stop and think for a minute that people 100 years ago wouldn’t have had the opportunity to just tour these halls to peek into Napoleon’s surprisingly modest bathroom or see where a pope had stayed. France ended with a ride through Champagne country into Belgium and Luxembourg and down to Germany.
 
-<h2>France to Germany</h2>
+    • Toulouse
+    • Bordeaux region
+    • Nantes
+    • Mont Saint Michel
+    • Champagne region
 
+    x Mechanical elephant performance (Nantes)
+    x Da Vinci’s double helix staircase
+
+<section class="p-1 jumbotron"> 
 <div class="columns">
   <div class="img1"><img class="glightbox" src="https://64.media.tumblr.com/a8d51acb76d9f9065feaa78f54bf528c/c5d52787a4b36409-50/s500x750/61c5619a327ecb4d4bdda54c9bbf339b755daa8f.jpg" />
   </div>
@@ -89,11 +174,24 @@ tags: [World Tour, France, Germany, Film, Cycling]
   <div class="img2"><a href="https://64.media.tumblr.com/f1c897f626c4abd63d53003eef4488a3/c5d52787a4b36409-45/s500x750/b198348413e130a98874401d1f7f310f34c93043.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f1c897f626c4abd63d53003eef4488a3/c5d52787a4b36409-45/s500x750/b198348413e130a98874401d1f7f310f34c93043.jpg" /></a>
   </div>
   <div class="img3"><a href="https://64.media.tumblr.com/38749c3c7416556aed143f458059335b/c5d52787a4b36409-08/s500x750/f7ea66fee9976ab1c49a9fd01ceb27e978d2241e.jpg"><img class="glightbox" src="https://64.media.tumblr.com/38749c3c7416556aed143f458059335b/c5d52787a4b36409-08/s500x750/f7ea66fee9976ab1c49a9fd01ceb27e978d2241e.jpg" /></a>
-
-
 </div>
   </div>
+  </section>
   
+<h1>Germany</h1>
+There are three good steins in Germany I wanted to see: Liechtenstein, Stein Am Rhine, and Neuschwanstein, and the first two aren’t even in Germany. The first town across the border was a place that screams in German. Half-timber houses, decorative eaves, and red/brown contrast on white. This welcome is what I needed after starting to feel everything looked the same. The ride through the black forest and next to Lake Constance was a definite change of pace from farmland. Neuschwanstein is that Disneyland castle that’s on every top 5 Germany itineraries, but arriving in the fall when all the hillsides were different colors and getting to the mountain at sunset was overwhelming to say the least. You just don’t want to leave. The king that built this castle, built another one on an island in a lake. I arrived too late, and didn’t want to waste a whole day seeing it. 
+While the roads are great in Germany, there are sadly bike paths everywhere. Wait, isn’t that a good thing? Roads aim to be as flat and straight as possible, where bike paths just follow the natural undulations of the land, get lost in towns, and make sweeping detours around certain developments. While it might be great for recreationalists, it seems to halve the progress you could make out on the roads. Switching back to roads didn’t feel right. There weren’t shoulders, and drivers won’t pass you unless they can be at least 4–5 feet from you. All it did was make me feel guilty for inconveniencing them because I didn’t want to ride on the paths they spent millions on. That came to an end with bike paths running along rivers. Not entirely scenic, but it meant good progress. These paths carry over into Austria and go all the way into Vienna, Budapest, and down into Eastern Europe. 
+
+    • Freiburg
+    • Black Forest
+    • Lake Constance (Bodensee)
+    • Stein Am Rhine (Switzerland)
+    • Lichtenstein
+    • Neuschwanstein Castle
+
+    x Herrenchiemsee Castle
+
+<section class="p-1 jumbotron"> 
   <div class="columns">
   <div class="img1"><a href="https://64.media.tumblr.com/ae9f6bc914dd4b9ff3cf084d72fe4bd3/9723b4eb1d29fdf2-4b/s500x750/17b189e1de664ca8948be75c436f2abfad925104.jpg"><img class="glightbox" src="https://64.media.tumblr.com/ae9f6bc914dd4b9ff3cf084d72fe4bd3/9723b4eb1d29fdf2-4b/s500x750/17b189e1de664ca8948be75c436f2abfad925104.jpg" /></a>
   </div>
@@ -122,3 +220,8 @@ tags: [World Tour, France, Germany, Film, Cycling]
   <div class="img3"><a href="https://64.media.tumblr.com/421eb0a37e3338eec698bf5b7b094248/9723b4eb1d29fdf2-ad/s500x750/0d705baa68899b91c07a397bf0616d8fc2ef89a6.jpg"><img class="glightbox" src="https://64.media.tumblr.com/421eb0a37e3338eec698bf5b7b094248/9723b4eb1d29fdf2-ad/s500x750/0d705baa68899b91c07a397bf0616d8fc2ef89a6.jpg" /></a>
 </div>
 </div>
+</section>
+
+
+
+

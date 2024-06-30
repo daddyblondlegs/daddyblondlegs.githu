@@ -25,7 +25,7 @@ tags: [World Tour, Cycling, Guides, USA]
      <div style="min-width: 30%;">
             <h3>Enjoyment</h3> 
             <span class="dot"></span>
-            <span class="dot"></span>
+            <span class="half-dot"></span>
             <span class="not-dot"></span>
             <span class="not-dot"></span>
         </div>
