@@ -17,7 +17,7 @@ tags: [World Tour, France, Germany, Film, Cycling]
  <!--Top Cards --> 
 <section class="pt-4 pb-4" style="justify-content: center;">
     <p>
-It’s the epitome of travel for not only American and Asians, but Europeans themselves. Many people I talked to knew they had a good thing going, and were just as curious as I was to explore it. So many lasting manifestations of praise and power mean that you never get to see it all in one lifetime, though some may try.
+It’s the epitome of travel for not only Americans and Asians, but Europeans themselves. Many people I talked to knew they had a good thing going, and were just as curious as I was to explore it. So many lasting manifestations of praise and power mean that you never get to see it all in one lifetime, though some may try.
     </p>
    
  
@@ -26,8 +26,8 @@ It’s the epitome of travel for not only American and Asians, but Europeans the
             <h3>Enjoyment</h3> 
             <span class="dot"></span>
             <span class="dot"></span>
+            <span class="dot"></span>
             <span class="half-dot"></span>
-            <span class="not-dot"></span>
         </div>
   
 <div class="mr-4 ml-4" style="min-width: 30%;">
@@ -39,9 +39,9 @@ It’s the epitome of travel for not only American and Asians, but Europeans the
 <div style="min-width: 30%;"> 
         <h3>Difficulty</h3>
         <span class="box"></span>
-        <span class="box"></span>
-        <span class="box"></span>
-        <span class="half-box"></span>
+        <span class="not-box"></span>
+        <span class="not-box"></span>
+        <span class="not-box"></span>
     </div></div>
 
 <!--Top Cards-->
@@ -69,20 +69,18 @@ Across the plains of Spain into the mountains dividing it with France, up to the
 
 <section class="mt-5 mb-3">
 <h1>Portugal</h1>
-My sleeping gear didn’t arrive at the airport, leaving me with a week of wondering in Lisbon. Lucky for me, it kept me busy. 
-
-    • Tomb of Vasco de Gama
-    • Ride the trolleys
-    • World’s oldest bookstore
-
+<p>My sleeping gear didn&rsquo;t arrive at the airport, leaving me with a week of wondering in Lisbon. Lucky for me, it kept me busy.</p>
+<ul><li>Tomb of Vasco de Gama</li>
+<li>Ride the trolleys</li>
+<li>World&rsquo;s oldest bookstore</li>
+</ul>
 <h1>Spain</h1>
-Everyone raves about how beautiful Spain is, but really it’s a whole lot of dead grass, which are nice in their own way, but not something you’d broadcast without an explanation. It’s a subtle beauty, I’ll give it that. Bullfighting is pretty much in every town every Sunday, yet somehow I never managed to see one. 
-
-    • Prehistoric stone circle
-    • Guadalupe Cathedral
-    • Cycling Madrid at night
-
-    x Bull fight
+<p>Everyone raves about how beautiful Spain is, but really it&rsquo;s a whole lot of dead grass, which are nice in their own way, but not something you&rsquo;d broadcast without an explanation. It&rsquo;s a subtle beauty, I&rsquo;ll give it that. Bullfighting is pretty much in every town every Sunday, yet somehow I never managed to see one.</p>
+<ul><li>Prehistoric stone circle</li>
+<li>Guadalupe Cathedral</li>
+<li>Cycling Madrid at night</li>
+</ul>
+<p>&times; Bullfighting</p>
 
 <div class="columns">
   <div class="img1"><a href="https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg"><img class="glightbox" src="https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg" /></a>
@@ -116,16 +114,14 @@ Everyone raves about how beautiful Spain is, but really it’s a whole lot of de
 </section>
 
 <h1>France</h1>
-I’d lived in France for a year and saw a lot of the south on weekend excursions. Though I’d already been, Toulouse was still somewhere I was excited to see. The use of red brick over white limestone makes it stand out. Going back by bike felt like a completely different experience, especially because I was looking for the entrance to the Canal de Garrone. This remarkable engineering achievement connects the Atlantic with another canal that runs into the Mediterranean. Could you ask for a better road than one that is almost perfectly flat, shaded, and without cars? It’s what hobby cyclists uses on their hours-long trips, but for me, it was a welcome reprieve. There’s a historical town south of the canal that just happens to be named Condom (don’t be perverted), and adds a bit of interest to the repetitive canal roads. Nantes is the hometown of fantasy author Jules Verne and has little Easter eggs around the city from his books. An aquatic carousel takes its riders 20,000 leagues under the sea and a hanging illuminated moon over trampolines simulates a voyage there. Mont St. Michel was the real reason I went north, because it’s all over tour guides to France. What makes it so impressive is that it’s on an island that’s only accessible when the tide goes out. Today, a bridge gives people access all day long. The next thing on my France bucket list was to see the double helix staircase designed by Leonardo da Vinci, which as I found out wasn’t a Fontainebleau. No worries, it turned out to be something even more astounding: the home of royalty since the Middle Ages. You have to stop and think for a minute that people 100 years ago wouldn’t have had the opportunity to just tour these halls to peek into Napoleon’s surprisingly modest bathroom or see where a pope had stayed. France ended with a ride through Champagne country into Belgium and Luxembourg and down to Germany.
-
-    • Toulouse
-    • Bordeaux region
-    • Nantes
-    • Mont Saint Michel
-    • Champagne region
-
-    x Mechanical elephant performance (Nantes)
-    x Da Vinci’s double helix staircase
+<p>I&rsquo;d lived in France for a year and saw a lot of the south on weekend excursions. Though I&rsquo;d already been, Toulouse was still somewhere I was excited to see. The use of red brick over white limestone makes it stand out. Going back by bike felt like a completely different experience, especially because I was looking for the entrance to the Canal de Garrone. This remarkable engineering achievement connects the Atlantic with another canal that runs into the Mediterranean. Could you ask for a better road than one that is almost perfectly flat, shaded, and without cars? It&rsquo;s what hobby cyclists uses on their hours-long trips, but for me, it was a welcome reprieve. There&rsquo;s a historical town south of the canal that just happens to be named Condom (don&rsquo;t be perverted), and adds a bit of interest to the repetitive canal roads. Nantes is the hometown of fantasy author Jules Verne and has little Easter eggs around the city from his books. An aquatic carousel takes its riders 20,000 leagues under the sea and a hanging illuminated moon over trampolines simulates a voyage there. Mont St. Michel was the real reason I went north, because it&rsquo;s all over tour guides to France. What makes it so impressive is that it&rsquo;s on an island that&rsquo;s only accessible when the tide goes out. Today, a bridge gives people access all day long. The next thing on my France bucket list was to see the double helix staircase designed by Leonardo da Vinci, which as I found out wasn&rsquo;t a Fontainebleau. No worries, it turned out to be something even more astounding: the home of royalty since the Middle Ages. You have to stop and think for a minute that people 100 years ago wouldn&rsquo;t have had the opportunity to just tour these halls to peek into Napoleon&rsquo;s surprisingly modest bathroom or see where a pope had stayed. France ended with a ride through Champagne country into Belgium and Luxembourg and down to Germany.</p>
+<ul><li>Toulouse</li>
+<li>Bordeaux region</li>
+<li>Nantes</li>
+<li>Mont Saint Michel</li>
+<li>Champagne region</li>
+</ul>
+<p>&times; Mechanical elephant performance (Nantes)<br>&times; Da Vinci&rsquo;s double helix staircase</p>
 
 <section class="p-1 jumbotron"> 
 <div class="columns">
@@ -179,17 +175,16 @@ I’d lived in France for a year and saw a lot of the south on weekend excursion
   </section>
   
 <h1>Germany</h1>
-There are three good steins in Germany I wanted to see: Liechtenstein, Stein Am Rhine, and Neuschwanstein, and the first two aren’t even in Germany. The first town across the border was a place that screams in German. Half-timber houses, decorative eaves, and red/brown contrast on white. This welcome is what I needed after starting to feel everything looked the same. The ride through the black forest and next to Lake Constance was a definite change of pace from farmland. Neuschwanstein is that Disneyland castle that’s on every top 5 Germany itineraries, but arriving in the fall when all the hillsides were different colors and getting to the mountain at sunset was overwhelming to say the least. You just don’t want to leave. The king that built this castle, built another one on an island in a lake. I arrived too late, and didn’t want to waste a whole day seeing it. 
-While the roads are great in Germany, there are sadly bike paths everywhere. Wait, isn’t that a good thing? Roads aim to be as flat and straight as possible, where bike paths just follow the natural undulations of the land, get lost in towns, and make sweeping detours around certain developments. While it might be great for recreationalists, it seems to halve the progress you could make out on the roads. Switching back to roads didn’t feel right. There weren’t shoulders, and drivers won’t pass you unless they can be at least 4–5 feet from you. All it did was make me feel guilty for inconveniencing them because I didn’t want to ride on the paths they spent millions on. That came to an end with bike paths running along rivers. Not entirely scenic, but it meant good progress. These paths carry over into Austria and go all the way into Vienna, Budapest, and down into Eastern Europe. 
-
-    • Freiburg
-    • Black Forest
-    • Lake Constance (Bodensee)
-    • Stein Am Rhine (Switzerland)
-    • Lichtenstein
-    • Neuschwanstein Castle
-
-    x Herrenchiemsee Castle
+<p>There are three good steins in Germany I wanted to see: Liechtenstein, Stein Am Rhine, and Neuschwanstein, and the first two aren&rsquo;t even in Germany. The first town across the border was a place that screams in German. Half-timber houses, decorative eaves, and red/brown contrast on white. This welcome is what I needed after starting to feel everything looked the same. The ride through the black forest and next to Lake Constance was a definite change of pace from farmland. Neuschwanstein is that Disneyland castle that&rsquo;s on every top 5 Germany itineraries, but arriving in the fall when all the hillsides were different colors and getting to the mountain at sunset was overwhelming to say the least. You just don&rsquo;t want to leave. The king that built this castle, built another one on an island in a lake. I arrived too late, and didn&rsquo;t want to waste a whole day seeing it.</p>
+<p>While the roads are great in Germany, there are sadly bike paths everywhere. Wait, isn&rsquo;t that a good thing? Roads aim to be as flat and straight as possible, where bike paths just follow the natural undulations of the land, get lost in towns, and make sweeping detours around certain developments. While it might be great for recreationalists, it seems to halve the progress you could make out on the roads. Switching back to roads didn&rsquo;t feel right. There weren&rsquo;t shoulders, and drivers won&rsquo;t pass you unless they can be at least 4&ndash;5 feet from you. All it did was make me feel guilty for inconveniencing them because I didn&rsquo;t want to ride on the paths they spent millions on. That came to an end with bike paths running along rivers. Not entirely scenic, but it meant good progress. These paths carry over into Austria and go all the way into Vienna, Budapest, and down into <a href="https://daddyblondlegs.com//Guide-to-Cycling-Eastern-Europe/">Eastern Europe</a>.  </p>
+<ul><li>Freiburg</li>
+<li>Black Forest</li>
+<li>Lake Constance (Bodensee)</li>
+<li>Stein Am Rhine (Switzerland)</li>
+<li>Lichtenstein</li>
+<li>Neuschwanstein Castle</li>
+</ul>
+<p>&times; Herrenchiemsee Castle</p>
 
 <section class="p-1 jumbotron"> 
   <div class="columns">
