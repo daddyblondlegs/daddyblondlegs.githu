@@ -74,16 +74,16 @@ From Budapest, a slight detour up in to Czechia by train, cycling down to Vienna
 Most wouldn’t consider Austria as being “Eastern Europe”, but would say the Czech Republic is. Prague is actually further west than Vienna, and fits in nicely with this route. One of my favorite artists Mucha ended his illustrious career with a series of paintings known as the Slav Epic. Twelve panels chronicle the history of his people from prehistory to his current age. The paintings are wildly different from “snapshots” and need a companion guide to decipher the numerous layers and symbols. I think I was in there for three hours before saying it’s time to head on. Vienna had more art waiting. Everyone knows Klimt’s “The Kiss”, but some of his more interesting works can be found, including the scandalous “Beethoven’s Frieze” which pairs with Wagner’s interpretation of Beethoven’s 9th. Wireless headsets play the symphony which match with the expressions on the wall. For $10, it’s a bit much for what it is, but still unmissable.
 
 <section class="p-1 jumbotron">  
-  <div class="columns">
-  <div class="img1"><a href="https://64.media.tumblr.com/b09a4da3f31158412f573f73ecaf1e90/0eb979a7f420c5e0-35/s2048x3072/9e344f230aff947160dba295923e045df9098ea1.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b09a4da3f31158412f573f73ecaf1e90/0eb979a7f420c5e0-35/s2048x3072/9e344f230aff947160dba295923e045df9098ea1.jpg" /></a>
+  <div class="flex-wrap justify-content-center row">
+  <div class="img1 p-2 col-sm"><a href="https://64.media.tumblr.com/b09a4da3f31158412f573f73ecaf1e90/0eb979a7f420c5e0-35/s2048x3072/9e344f230aff947160dba295923e045df9098ea1.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/b09a4da3f31158412f573f73ecaf1e90/0eb979a7f420c5e0-35/s2048x3072/9e344f230aff947160dba295923e045df9098ea1.jpg" /></a>
 
   </div>
   
-  <div class="img2"><a href="https://64.media.tumblr.com/f93003916849541a1ff7ce91aeb53d3a/0eb979a7f420c5e0-43/s2048x3072/69b9e3b755f43d930dccf6f1d91892dff8a32c41.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f93003916849541a1ff7ce91aeb53d3a/0eb979a7f420c5e0-43/s2048x3072/69b9e3b755f43d930dccf6f1d91892dff8a32c41.jpg" /></a>
+  <div class="img2 p-2 col-sm"><a href="https://64.media.tumblr.com/f93003916849541a1ff7ce91aeb53d3a/0eb979a7f420c5e0-43/s2048x3072/69b9e3b755f43d930dccf6f1d91892dff8a32c41.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/f93003916849541a1ff7ce91aeb53d3a/0eb979a7f420c5e0-43/s2048x3072/69b9e3b755f43d930dccf6f1d91892dff8a32c41.jpg" /></a>
 
   </div>
   
-  <div class="img3"><a href="https://64.media.tumblr.com/f95a1cae3fec4d1537e7683981870279/0eb979a7f420c5e0-ee/s2048x3072/ff6c7b199b1d48a76a01a9d73b14eb8776766507.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f95a1cae3fec4d1537e7683981870279/0eb979a7f420c5e0-ee/s2048x3072/ff6c7b199b1d48a76a01a9d73b14eb8776766507.jpg" /></a>
+  <div class="img3 p-2 col-sm"><a href="https://64.media.tumblr.com/f95a1cae3fec4d1537e7683981870279/0eb979a7f420c5e0-ee/s2048x3072/ff6c7b199b1d48a76a01a9d73b14eb8776766507.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/f95a1cae3fec4d1537e7683981870279/0eb979a7f420c5e0-ee/s2048x3072/ff6c7b199b1d48a76a01a9d73b14eb8776766507.jpg" /></a>
 
    </div>
   </div>
