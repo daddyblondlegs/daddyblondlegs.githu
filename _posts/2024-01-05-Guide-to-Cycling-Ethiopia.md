@@ -20,7 +20,7 @@ tags: [World Tour, Africa, Cycling, Guides]
    
  
 <div class="columns mb-5 text-center"> 
-     <div style="min-width: 30%;">
+     <div class="col text-center">
             <h3>Enjoyment</h3> 
             <span class="dot"></span>
             <span class="not-dot"></span>
@@ -28,13 +28,13 @@ tags: [World Tour, Africa, Cycling, Guides]
             <span class="not-dot"></span>
         </div>
   
-<div class="mr-4 ml-4" style="min-width: 30%;">
+<div class="mr-4 ml-4" class="col text-center">
         <h3>Profile</h3> 
         <span>981 mi </span><span style="color:lightgray">(1,580 km)</span><br>
         <span>⭧ 56.8k ft⭨ 54.1k ft</span> 
     </div>
 
-<div style="min-width: 30%;"> 
+<div class="col text-center"> 
         <h3>Difficulty</h3>
         <span class="box"></span>
         <span class="box"></span>

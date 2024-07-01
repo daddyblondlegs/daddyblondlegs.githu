@@ -23,20 +23,20 @@ tags: [World Tour, Cycling, Guides]
                                                                                                         *
                                                                                                         *
     </p>
-     <div class="flex-wrap-reverse justify-content-center m-5 row"> 
-        <div class="col-lg-6 pb-3 pt-3">
+     <div class="flex-wrap justify-content-center m-5 row"> 
+        <div class="col text-center">
             <h3>Enjoyment</h3> 
             <span class="dot"></span>
             <span class="dot"></span>
             <span class="not-dot"></span>
             <span class="not-dot"></span>
         </div>
-        <div class="mr-4 ml-4" class="col-lg-6 pb-3 pt-3">
+        <div class="mr-4 ml-4" class="col text-center">
             <h3>Profile</h3> 
             <span> mi </span><span style="color:lightgray">( km)</span><br>
             <span>⭧ k ft⭨ k ft</span> 
         </div>
-        <div class="col-lg-6 pb-3 pt-3"> 
+        <div class="col text-center"> 
             <h3>Difficulty</h3>
             <span class="box"></span>
             <span class="half-box"></span>

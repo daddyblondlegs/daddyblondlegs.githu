@@ -19,21 +19,21 @@ tags: [World Tour, Middle East, Cycling, Guides]
     <p>
     Coming from Ethiopia, Saudi Arabia couldn&rsquo;t be easier. It was going from fighting off takers to fighting off givers. Really! There were a few times I refused bottles of water simply because I wasn&rsquo;t in the mood to stop one more time. It went from rice and beans to Kristy Kreme, from constant noise to the emptiness of long desert roads, from avoiding scams to being smothered in gifts. Jordan was similar, except people left you completely alone, which I was more than ready for.
     </p>  
- <div class="columns mb-7 text-center"> 
-    <div style="min-width: 30%;"> 
+ <div class="flex-wrap justify-content-center mt-3 mb-3 row"> 
+    <div class="col text-center"> 
         <h3>Difficulty</h3>
         <span class="box"></span>
         <span class="half-box"></span>
         <span class="not-box"></span>
         <span class="not-box"></span>
     </div>
-    <div class="mr-4 ml-4 text-center" style="min-width: 30%;">
+    <div class="mr-4 ml-4 text-center" class="col text-center">
         <h3>Profile</h3> 
         <span>1,324 mi</span><br>
         <span>⭧ 40.7k ft</span><br>
         <span>⭨ 38.4k ft</span>
     </div>
-    <div style="min-width: 30%;">
+    <div class="col text-center">
             <h3>Enjoyment</h3> 
             <span class="dot"></span>
             <span class="dot"></span>

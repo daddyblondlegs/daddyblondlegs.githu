@@ -21,8 +21,8 @@ It's a very weird feeling to be putting a bicycle together by the carousels, but
     </p>
    
  
-<div class="columns mb-7 text-center"> 
-     <div style="min-width: 30%;">
+<div class="flex-wrap justify-content-center mt-3 mb-3 row"> 
+     <div class="col text-center">
             <h3>Enjoyment</h3> 
             <span class="dot"></span>
             <span class="dot"></span>
@@ -30,13 +30,13 @@ It's a very weird feeling to be putting a bicycle together by the carousels, but
             <span class="dot"></span>
         </div>
   
-<div class="mr-4 ml-4" style="min-width: 30%;">
+<div class="mr-4 ml-4" class="col text-center">
         <h3>Profile</h3> 
         <span> mi </span><span style="color:lightgray">( km)</span><br>
         <span>⭧ k ft⭨ k ft</span> 
     </div>
 
-<div style="min-width: 30%;"> 
+<div class="col text-center"> 
         <h3>Difficulty</h3>
         <span class="box"></span>
         <span class="box"></span>
