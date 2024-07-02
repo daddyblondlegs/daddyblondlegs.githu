@@ -947,7 +947,9 @@ div.a2a_full_footer {display:none;}
   .hover-shadow:hover {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
 }
+ 
 
+/* My Adds*/
 .myroutemap {margin-top: -4rem;border: #fff4cb;border-style: solid;border-width: 1em;}
 
 .dot {
@@ -1023,4 +1025,32 @@ div.a2a_full_footer {display:none;}
 	flex: 0 0 50%;
     max-width: 50%;
 	margin-top:-4em;
+  }
+
+
+ 
+.filmstrip {
+	padding: 1px;
+	background-color: #988888;
+	border: #ccc0c0;
+	border-style: dashed;
+	border-width: .5em;
+	border-right: none;
+	border-left: none;
+	background-size: cover;
+	margin-bottom: 2rem;
+	margin-top: 1rem;
+	border-radius: 0.3rem;
+  }
+  
+  .film {
+	flex-basis: 0;
+	flex-grow: 1;
+	max-width: 100%;
+	overflow: hidden;
+	padding: 4px;
+	color: orange;
+	mix-blend-mode: difference;
+	opacity: .7;
+  
   }
