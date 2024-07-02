@@ -66,6 +66,6 @@ collections:
     output: true
 
     #clicky
-    jekyll_clicky:              #Add this if you want to track with Clicky analytics
+  jekyll_clicky: 101457663             
   site: daddyblondlegs.com
   id: 101457663         
