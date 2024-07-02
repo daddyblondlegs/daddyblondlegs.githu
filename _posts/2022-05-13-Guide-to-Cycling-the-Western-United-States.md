@@ -32,8 +32,8 @@ It's a very weird feeling to be putting a bicycle together by the carousels, but
   
 <div class="mr-4 ml-4" class="col text-center">
         <h3>Profile</h3> 
-        <span> mi </span><span style="color:lightgray">( km)</span><br>
-        <span>⭧ k ft⭨ k ft</span> 
+        <span> 5265 mi </span><span style="color:lightgray">(8473 km)</span><br>
+        <span>⭧ 175k ft⭨ 174.3k ft</span> 
     </div>
 
 <div class="col text-center"> 

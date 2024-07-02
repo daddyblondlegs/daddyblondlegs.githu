@@ -9082,3 +9082,29 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+/* My Adds*/
+.filmstrip {
+  padding: 1px;
+  background-color: #988888;
+  border: #ccc0c0;
+  border-style: dashed;
+  border-width: .5em;
+  border-right: none;
+  border-left: none;
+  background-size: cover;
+  margin: bottom 2rem;
+  margin-top: 1rem;
+  border-radius: 0.3rem;
+}
+
+.film {
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%;
+  overflow: hidden;
+  padding: 4px;
+  color: orange;
+  mix-blend-mode: difference;
+  opacity: .7;
+
+}

@@ -32,8 +32,8 @@ tags: [World Tour, Cycling, Guides, USA]
   
 <div class="mr-4 ml-4" class="col text-center">
         <h3>Profile</h3> 
-        <span> mi </span><span style="color:lightgray">( km)</span><br>
-        <span>⭧ k ft⭨ k ft</span> 
+        <span> 2525 mi </span><span style="color:lightgray">(4063 km)</span><br>
+        <span>⭧ 89.7k ft⭨ 90.8k ft</span> 
     </div>
 
 <div class="col text-center"> 

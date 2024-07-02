@@ -31,8 +31,8 @@ It’s not any scarier that Western Europe, just a little rough around the edges
 
   <div class="mr-4 ml-4" class="col text-center">
     <h3>Profile</h3> 
-    <span> mi </span><span style="color:lightgray">( km)</span><br>
-    <span>⭧ k ft⭨ k ft</span> 
+    <span> 4009 mi </span><span style="color:lightgray">(6451 km)</span><br>
+    <span>⭧ 150k ft⭨ 150k ft</span> 
   </div>
   
 

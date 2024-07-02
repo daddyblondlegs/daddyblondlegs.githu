@@ -32,8 +32,8 @@ It’s the epitome of travel for not only Americans and Asians, but Europeans th
   
 <div class="mr-4 ml-4" class="col text-center">
         <h3>Profile</h3> 
-        <span> mi </span><span style="color:lightgray">( km)</span><br>
-        <span>⭧ k ft⭨ k ft</span> 
+        <span> 6163 mi </span><span style="color:lightgray">(9918 km)</span><br>
+        <span>⭧ 244k ft⭨ 244k ft</span> 
     </div>
 
 <div class="col text-center"> 
