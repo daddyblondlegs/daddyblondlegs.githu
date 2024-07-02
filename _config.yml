@@ -67,7 +67,6 @@ collections:
   category:
     output: true      
 
-#Jekyll_Clicky
 jekyll_clicky: 
-  site: daddyblondlegs
+  site: 
     id: 101457663 
