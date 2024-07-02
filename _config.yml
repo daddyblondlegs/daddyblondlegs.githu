@@ -11,6 +11,10 @@ mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 
+jekyll_clicky:              #Add this if you want to track with Clicky analytics
+  site: 
+    id: 101457663
+
 # Plugins
 plugins: 
   - jekyll-feed
