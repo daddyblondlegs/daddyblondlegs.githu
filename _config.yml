@@ -11,6 +11,9 @@ mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 
+jekyll_clicky: 
+  site: 
+    id: 101457663 
 
 
 # Plugins
@@ -67,6 +70,3 @@ collections:
   category:
     output: true      
 
-jekyll_clicky: 
-  site: 
-    id: 101457663 
