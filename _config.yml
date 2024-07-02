@@ -63,9 +63,4 @@ exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffe
 
 collections:
   category:
-    output: true
-
-    #clicky
-  jekyll_clicky: daddyblondlegs.com             
-  site: daddyblondlegs.com
-  id: 101457663         
+    output: true       
