@@ -107,7 +107,6 @@ tags: [World Tour, Africa, Cycling, Guides]
 <p>E-visas for Djibouti may not be possible for land crossing, even by train. You&rsquo;d be better off going to the embassy in Addis; the Djibouti consulate in Dire Dawa does not issue visas. I didn&rsquo;t find this out until it was too late, but was ready to get on to the <a href="https://daddyblondlegs.com/">Middle East</a> anyways.</p>
 
 <h1>Film Strip</h1>
-<span>Click a pic already!<span>
 <section class="filmstrip">
     <div class="columns" style="margin-bottom: 0px !important">
         <div class="film"><a href="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/540x810/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"><img class="glightbox" src="https://64.media.tumblr.com/d42c8f5dfb1b059882a18a2732c34de3/dbd638e09ca60856-1c/s2048x3072/b5ab1ad331ba4050c01ced4828a19cfae3080280.jpg"></a>
