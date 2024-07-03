@@ -8880,7 +8880,7 @@ html {
   display: block;
   width: auto;
   height: 100%;
-  object-fit: cover;
+  object-fit: scale-down; /*Monkey*/
     
 }
 

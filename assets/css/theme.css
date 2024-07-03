@@ -1041,15 +1041,14 @@ div.a2a_full_footer {display:none;}
 	margin-bottom: 2rem;
 	margin-top: 1rem;
 	border-radius: 0.3rem;
-	overflow: scroll;
-	max-height: 100px;
+	overflow-x: scroll;
+	overflow-y: hidden;
   }
   
   .film {
 	/* flex-basis: 0;
 	flex-grow: 1; */
 	width: 100%; 
-	overflow: ;
 	padding: 4px;
 	color: orange;
 	mix-blend-mode: difference;

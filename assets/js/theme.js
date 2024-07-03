@@ -216,7 +216,62 @@ if(el.closest('ul, p')) {
 
 document.addEventListener("DOMContentLoaded", function() {
 
- /* //create lightbox div in the footer
+});
+
+
+//Image Map Resize
+window.onload = function () {
+  var ImageMap = function (map) {
+          var n,
+              areas = map.getElementsByTagName('area'),
+              len = areas.length,
+              coords = [],
+              previousWidth = 3072;
+          for (n = 0; n < len; n++) {
+              coords[n] = areas[n].coords.split(',');
+          }
+          this.resize = function () {
+              var n, m, clen,
+                  x = document.body.clientWidth / previousWidth;
+              for (n = 0; n < len; n++) {
+                  clen = coords[n].length;
+                  for (m = 0; m < clen; m++) {
+                      coords[n][m] *= x;
+                  }
+                  areas[n].coords = coords[n].join(',');
+              }
+              previousWidth = document.body.clientWidth;
+              return true;
+          };
+          window.onresize = this.resize;
+      },
+      imageMap = new ImageMap(document.getElementById('map_ID'));
+  imageMap.resize();
+}
+// Imape Map Resize (end)
+
+//Scroll to top
+var bike = document.getElementById('bike');
+$(document).ready(function(){ 
+    $(window).scroll(function(){ 
+        if ($(this).scrollTop() > 100) { 
+            $('#scroll').fadeIn(); 
+        } else { 
+            $('#scroll').fadeOut(); 
+        } 
+    }); 
+    
+    $('#scroll').click(function(){ 
+        //$("html, body").animate({ scrollTop: 0 }, 600); 
+        //return false;
+        bike.scrollIntoView();
+    }); 
+});
+//Scroll to top (end)
+
+
+
+/* //create lightbox div in the footer
   var newdiv = document.createElement("div");
   newdiv.setAttribute('id',"lightbox");
   document.body.appendChild(newdiv);
@@ -277,54 +332,3 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 
 });*/
-
-
-//Image Map Resize
-window.onload = function () {
-  var ImageMap = function (map) {
-          var n,
-              areas = map.getElementsByTagName('area'),
-              len = areas.length,
-              coords = [],
-              previousWidth = 3072;
-          for (n = 0; n < len; n++) {
-              coords[n] = areas[n].coords.split(',');
-          }
-          this.resize = function () {
-              var n, m, clen,
-                  x = document.body.clientWidth / previousWidth;
-              for (n = 0; n < len; n++) {
-                  clen = coords[n].length;
-                  for (m = 0; m < clen; m++) {
-                      coords[n][m] *= x;
-                  }
-                  areas[n].coords = coords[n].join(',');
-              }
-              previousWidth = document.body.clientWidth;
-              return true;
-          };
-          window.onresize = this.resize;
-      },
-      imageMap = new ImageMap(document.getElementById('map_ID'));
-  imageMap.resize();
-}
-// Imape Map Resize (end)
-
-//Scroll to top
-var bike = document.getElementById('bike');
-$(document).ready(function(){ 
-    $(window).scroll(function(){ 
-        if ($(this).scrollTop() > 100) { 
-            $('#scroll').fadeIn(); 
-        } else { 
-            $('#scroll').fadeOut(); 
-        } 
-    }); 
-    
-    $('#scroll').click(function(){ 
-        //$("html, body").animate({ scrollTop: 0 }, 600); 
-        //return false;
-        bike.scrollIntoView();
-    }); 
-});
-//Scroll to top (end)
