@@ -1046,12 +1046,12 @@ div.a2a_full_footer {display:none;}
   }
   
   .film {
-	/* flex-basis: 0;
-	flex-grow: 1; */
+	flex-basis: min-content;
+	/* flex-grow: 1; */
 	width: 100%; 
 	padding: 4px;
 	color: orange;
 	mix-blend-mode: difference;
 	opacity: .7;
-  	min-width: 100px;
+  	min-width: 200px;
   }
