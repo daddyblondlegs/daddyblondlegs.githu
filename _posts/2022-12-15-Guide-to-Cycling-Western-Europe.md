@@ -82,35 +82,29 @@ Across the plains of Spain into the mountains dividing it with France, up to the
 </ul>
 <p>&times; Bullfighting</p>
 
-<div class="columns">
-  <div class="img1"><a href="https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg"><img class="glightbox" src="https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg" /></a>
-</div>
-  <div class="img2"><a href="https://64.media.tumblr.com/4f0dc7541fe6a13a65132133beb85a0c/9d38c6a8b86410f9-f8/s500x750/c98e75618360b38262f7ef9ca40d64e806280a62.jpg"><img class="glightbox" src="https://64.media.tumblr.com/4f0dc7541fe6a13a65132133beb85a0c/9d38c6a8b86410f9-f8/s500x750/c98e75618360b38262f7ef9ca40d64e806280a62.jpg" /></a>
-</div>
-  <div class="img3"><a href="https://64.media.tumblr.com/b8829ed98a9863a271ffbe4d6d2dc318/9d38c6a8b86410f9-0d/s500x750/edd595edc4573a20588e98e63ccf4819ea59a80f.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b8829ed98a9863a271ffbe4d6d2dc318/9d38c6a8b86410f9-0d/s500x750/edd595edc4573a20588e98e63ccf4819ea59a80f.jpg" /></a>
-
-  </div>
-  </div>
-  
-  <div class="columns">
-  <div class="img1"><a href="https://64.media.tumblr.com/3b61198fb10796067ecf53da1dd4ace7/9d38c6a8b86410f9-ee/s500x750/8d6c82f34db01f5b2a772b5087b0d93ffc58d303.jpg"><img class="glightbox" src="https://64.media.tumblr.com/3b61198fb10796067ecf53da1dd4ace7/9d38c6a8b86410f9-ee/s500x750/8d6c82f34db01f5b2a772b5087b0d93ffc58d303.jpg" /></a>
-</div>
-  <div class="img2"><a href="https://64.media.tumblr.com/6dde3a7e61a6aa5b4ec4dbda25aa00cb/9d38c6a8b86410f9-a0/s500x750/b301d990fcca28a9218b62b898f9bcd6837b8b44.jpg"><img class="glightbox" src="https://64.media.tumblr.com/6dde3a7e61a6aa5b4ec4dbda25aa00cb/9d38c6a8b86410f9-a0/s500x750/b301d990fcca28a9218b62b898f9bcd6837b8b44.jpg" /></a>
-</div>
-  <div class="img3"><a href="https://64.media.tumblr.com/45b58c40df36ac9c2a8df4b46602a43d/9d38c6a8b86410f9-88/s500x750/fcdc9afbadcf499db387e1fcf70fa9f3b5a90438.jpg"><img class="glightbox" src="https://64.media.tumblr.com/45b58c40df36ac9c2a8df4b46602a43d/9d38c6a8b86410f9-88/s500x750/fcdc9afbadcf499db387e1fcf70fa9f3b5a90438.jpg" /></a>
-
-  </div>
-  </div>
-  
-  <div class="columns">
-  <div class="img1"><a href="https://64.media.tumblr.com/ff5191a8f15fd3888043cefddcf3eed7/9d38c6a8b86410f9-e3/s500x750/0bb4bad23cc8689f5575970b9e194036a947672f.jpg"><img class="glightbox" src="https://64.media.tumblr.com/ff5191a8f15fd3888043cefddcf3eed7/9d38c6a8b86410f9-e3/s500x750/0bb4bad23cc8689f5575970b9e194036a947672f.jpg" /></a>
-</div>
-  <div class="img2"><a href="https://64.media.tumblr.com/7e3532946c9b03fb1ac0ca44e6c40c75/9d38c6a8b86410f9-8d/s500x750/42ddeb58be31672cd7550d4b60308baf7ad51c6e.jpg"><img class="glightbox" src="https://64.media.tumblr.com/7e3532946c9b03fb1ac0ca44e6c40c75/9d38c6a8b86410f9-8d/s500x750/42ddeb58be31672cd7550d4b60308baf7ad51c6e.jpg" /></a>
-</div>
-  <div class="img3"><a href="https://64.media.tumblr.com/f0a514d1e75d3aea771b6a092d837366/9d38c6a8b86410f9-ea/s500x750/ad83f795bbea8a6c40982f86099e957fe671d64e.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f0a514d1e75d3aea771b6a092d837366/9d38c6a8b86410f9-ea/s500x750/ad83f795bbea8a6c40982f86099e957fe671d64e.jpg" /></a>
-  </div>
-  </div>
-<a href="https://64.media.tumblr.com/993911c19d89bed1066a852b262daa0b/9d38c6a8b86410f9-12/s500x750/95154dee93df2f862e7558d0464ae14bade91e94.jpg"><img class="glightbox" src="https://64.media.tumblr.com/993911c19d89bed1066a852b262daa0b/9d38c6a8b86410f9-12/s500x750/95154dee93df2f862e7558d0464ae14bade91e94.jpg" /></a>
+<section class="filmstrip">
+    <div class="row" style="flex-wrap: nowrap !important">
+      <div class="film"><a href="https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg"><img class="glightbox" src="https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg" /></a>
+      </div>
+      <div class="film"><a href="https://64.media.tumblr.com/4f0dc7541fe6a13a65132133beb85a0c/9d38c6a8b86410f9-f8/s500x750/c98e75618360b38262f7ef9ca40d64e806280a62.jpg"><img class="glightbox" src="https://64.media.tumblr.com/4f0dc7541fe6a13a65132133beb85a0c/9d38c6a8b86410f9-f8/s500x750/c98e75618360b38262f7ef9ca40d64e806280a62.jpg" /></a>
+      </div>
+      <div class="film"><a href="https://64.media.tumblr.com/b8829ed98a9863a271ffbe4d6d2dc318/9d38c6a8b86410f9-0d/s500x750/edd595edc4573a20588e98e63ccf4819ea59a80f.jpg"><img class="glightbox" src="https://64.media.tumblr.com/b8829ed98a9863a271ffbe4d6d2dc318/9d38c6a8b86410f9-0d/s500x750/edd595edc4573a20588e98e63ccf4819ea59a80f.jpg" /></a>
+      </div>
+      <div class="film"><a href="https://64.media.tumblr.com/3b61198fb10796067ecf53da1dd4ace7/9d38c6a8b86410f9-ee/s500x750/8d6c82f34db01f5b2a772b5087b0d93ffc58d303.jpg"><img class="glightbox" src="https://64.media.tumblr.com/3b61198fb10796067ecf53da1dd4ace7/9d38c6a8b86410f9-ee/s500x750/8d6c82f34db01f5b2a772b5087b0d93ffc58d303.jpg" /></a>
+      </div>
+      <div class="film"><a href="https://64.media.tumblr.com/6dde3a7e61a6aa5b4ec4dbda25aa00cb/9d38c6a8b86410f9-a0/s500x750/b301d990fcca28a9218b62b898f9bcd6837b8b44.jpg"><img class="glightbox" src="https://64.media.tumblr.com/6dde3a7e61a6aa5b4ec4dbda25aa00cb/9d38c6a8b86410f9-a0/s500x750/b301d990fcca28a9218b62b898f9bcd6837b8b44.jpg" /></a>
+     </div>
+      <div class="film"><a href="https://64.media.tumblr.com/45b58c40df36ac9c2a8df4b46602a43d/9d38c6a8b86410f9-88/s500x750/fcdc9afbadcf499db387e1fcf70fa9f3b5a90438.jpg"><img class="glightbox" src="https://64.media.tumblr.com/45b58c40df36ac9c2a8df4b46602a43d/9d38c6a8b86410f9-88/s500x750/fcdc9afbadcf499db387e1fcf70fa9f3b5a90438.jpg" /></a>
+      </div>
+      <div class="film"><a href="https://64.media.tumblr.com/ff5191a8f15fd3888043cefddcf3eed7/9d38c6a8b86410f9-e3/s500x750/0bb4bad23cc8689f5575970b9e194036a947672f.jpg"><img class="glightbox" src="https://64.media.tumblr.com/ff5191a8f15fd3888043cefddcf3eed7/9d38c6a8b86410f9-e3/s500x750/0bb4bad23cc8689f5575970b9e194036a947672f.jpg" /></a>
+      </div>
+      <div class="film"><a href="https://64.media.tumblr.com/7e3532946c9b03fb1ac0ca44e6c40c75/9d38c6a8b86410f9-8d/s500x750/42ddeb58be31672cd7550d4b60308baf7ad51c6e.jpg"><img class="glightbox" src="https://64.media.tumblr.com/7e3532946c9b03fb1ac0ca44e6c40c75/9d38c6a8b86410f9-8d/s500x750/42ddeb58be31672cd7550d4b60308baf7ad51c6e.jpg" /></a>
+      </div>
+      <div class="film"><a href="https://64.media.tumblr.com/f0a514d1e75d3aea771b6a092d837366/9d38c6a8b86410f9-ea/s500x750/ad83f795bbea8a6c40982f86099e957fe671d64e.jpg"><img class="glightbox" src="https://64.media.tumblr.com/f0a514d1e75d3aea771b6a092d837366/9d38c6a8b86410f9-ea/s500x750/ad83f795bbea8a6c40982f86099e957fe671d64e.jpg" /></a>
+      </div>
+      <div class="film"><a href="https://64.media.tumblr.com/993911c19d89bed1066a852b262daa0b/9d38c6a8b86410f9-12/s500x750/95154dee93df2f862e7558d0464ae14bade91e94.jpg"><img class="glightbox" src="https://64.media.tumblr.com/993911c19d89bed1066a852b262daa0b/9d38c6a8b86410f9-12/s500x750/95154dee93df2f862e7558d0464ae14bade91e94.jpg" /></a>
+      </div>
+    </div>
 </section>
 
 <h1>France</h1>
