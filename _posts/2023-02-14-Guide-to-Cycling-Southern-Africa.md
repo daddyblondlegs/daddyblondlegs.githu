@@ -9,7 +9,7 @@ tags: [World Tour, Africa, Cycling]
 It's probably not hard to imagine that this was my favorite leg of the world tour. The traffic to nature ratio was excellent.
 
 
-<h2>Capetown to Windhoek</h2>
+<h1>Capetown to Windhoek</h1>
 
 <section class="filmstrip">
   <div class="row" style="flex-wrap: nowrap !important">
@@ -64,7 +64,7 @@ It's probably not hard to imagine that this was my favorite leg of the world tou
 
 <br>
 <br>
-<h2>Windhoek to Livingstone</h2>
+<h1>Windhoek to Livingstone</h1>
  <section class="filmstrip">
   <div class="row" style="flex-wrap: nowrap !important">
     <div class="film"><a href="https://64.media.tumblr.com/a1410c88f6b9d861898ad02cf1b491e5/433a940ef3b25307-46/s540x810/2a53308ca6bb64cf5ab68c3a2f08a046aa3d37ea.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/a1410c88f6b9d861898ad02cf1b491e5/433a940ef3b25307-46/s2048x3072/45fb37a636fe231459b83f92da1c9c87682a3ccd.jpg" /></a>

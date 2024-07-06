@@ -53,10 +53,10 @@ It’s not any scarier that Western Europe, just a little rough around the edges
     <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
         <div class="row gap-y">
             <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-                <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=667a8f22-be72-45cc-8dcc-d5bfdc19df56&fullscreenControl=true&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&captionControl=false#5/45.506/20.171"></iframe>
+                <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=667a8f22-be72-45cc-8dcc-d5bfdc19df56&fullscreenControl=null&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&captionControl=false#5/45.506/20.171"></iframe>
             </div>
 
-<div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
+<div class="col-lg-6 mb-4"><h1 class="mb-3 text-center">The Route</h1>
                 <p class="pl-lg-4">
 From Budapest, a slight detour up in to Czechia by train, cycling down to Vienna and then back again. Through Romania’s mountains in the north and across the mountains in the south, ferrying across the river into Bulgaria, and a dog-leg to North Macedonia because the border with Greece is impassible by bike.
                 </p> 
@@ -130,7 +130,7 @@ The roads in Romania were actually quite good compared to Hungary and Bulgaria.
   </div>
 </section>
 
-Bulgaria & North Macedonia
+<h1>Bulgaria & North Macedonia</h1>
 Crossing into Bulgaria was accomplished by a river ferry loaded exclusively with semis… and me and my bike. The roads were immediately worse and never improved, and there wasn’t really anything worth seeing. The last day through side road following the A2 was in fact quite nice. That side road ends at the border with Greece, and since you can’t ride on expressway, the only feasible option was a long detour out and around through The Kingdom of Northern Macedonia. It was only an extra day’s ride to get to add a really cool flag to the mix. Like Bulgaria, there wasn’t much down in this strip except a ride through a valley, but also a really charming lake.
 <br>
 
@@ -141,12 +141,13 @@ Crossing into Bulgaria was accomplished by a river ferry loaded exclusively with
     <div class="film"><a href="https://64.media.tumblr.com/019a65b502edf745ef6d179dd6cf48cf/ab4e002728f0a0bb-12/s2048x3072/bf218085b6eca6e56300e1370cfc201b3b0eec33.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/019a65b502edf745ef6d179dd6cf48cf/ab4e002728f0a0bb-12/s2048x3072/bf218085b6eca6e56300e1370cfc201b3b0eec33.jpg" /></a>
     </div>
     <div class="film"><a href="https://64.media.tumblr.com/7fd80fb1e67e31b6625d62c1f786702d/ab4e002728f0a0bb-fb/s2048x3072/3a0e59fc2cc8e23b74b59050f8f6577532ed2852.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/7fd80fb1e67e31b6625d62c1f786702d/ab4e002728f0a0bb-fb/s2048x3072/3a0e59fc2cc8e23b74b59050f8f6577532ed2852.jpg" /></a>
-    </div><a href="https://64.media.tumblr.com/5966c5fa1c3d8dab6501ff3283e53092/ab4e002728f0a0bb-ac/s2048x3072/c33544733a7fe30d42efc6b7f7acb549f34b53cf.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/5966c5fa1c3d8dab6501ff3283e53092/ab4e002728f0a0bb-ac/s2048x3072/c33544733a7fe30d42efc6b7f7acb549f34b53cf.jpg" /></a>
+    </div>
+    <div class="film"><a href="https://64.media.tumblr.com/5966c5fa1c3d8dab6501ff3283e53092/ab4e002728f0a0bb-ac/s2048x3072/c33544733a7fe30d42efc6b7f7acb549f34b53cf.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/5966c5fa1c3d8dab6501ff3283e53092/ab4e002728f0a0bb-ac/s2048x3072/c33544733a7fe30d42efc6b7f7acb549f34b53cf.jpg" /></a>
     </div>
   </div>
 </section>
 
-Greece
+<h1>Greece</h1>
 Definitely needs its own page soon.
 
 <section class="filmstrip-bw">

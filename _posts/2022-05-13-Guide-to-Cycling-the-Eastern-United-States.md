@@ -50,9 +50,9 @@ tags: [World Tour, Cycling, Guides, USA]
     <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
         <div class="row gap-y">
             <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-            <iframe width="100%" height="700px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=false&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false#5/38.065/-87.45"></iframe> 
+            <iframe width="100%" height="700px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false#5/38.065/-87.45"></iframe> 
             </div>
-          <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
+          <div class="col-lg-6 mb-4"><h1 class="mb-3 text-center">The Route</h1>
                 <p class="pl-lg-4">
                  Much optimizing needs to be done because frankly, this route stinks. It was noisy interstates, uninspiring views except for a few exceptions. River towns add something to look forward to. The route is pretty direct, which if you want to finish The States before you run out of willpower, this makes sense.                                                                                                                                           
                 </p> 
@@ -67,7 +67,7 @@ tags: [World Tour, Cycling, Guides, USA]
 
 <section class="mt-5 mb-3">
 
-<p><h2>Oklahoma to Missouri</h2>
+<p><h1>Oklahoma to Missouri</h1>
 Up until this point, I’d just told people that I was riding from Seattle to Oklahoma; that way, if I couldn’t do it or it wasn’t for me, it wouldn’t seem like such a catastrophic failure! Now, I was telling people that my goal was D.C. And it was, for now. Route 66 wasn’t the iconic strip of pavement it used to be, if it ever were. Maybe the roadside cafes and hotels that populated it and the newness of something so ambitious warranted a song, but the current one just jogs sloppily through neighborhoods and then turns into an I-44 service road. Not having a phone, I only learned this later. I just rode on the interstate. What?! That’s crazy and dangerous! You should be flogged! Honestly, I’d rather have six feet between me and a vehicle going 80 MPH than have someone see me and go around me at half that speed. When’s the last time you saw a car on the interstate veer completely into the shoulder because they weren’t paying attention? Even if they’re distracted, they’re still probably going straight.</p>
 
 <section class="filmstrip">
@@ -99,7 +99,7 @@ Up until this point, I’d just told people that I was riding from Seattle to Ok
   </div>
 </section>
 
- <p><h2>Missouri to DC</h2>
+ <p><h1>Missouri to DC</h1>
  As watertight as my interstate argument may seem to folks like you and me, the authorities of Kentucky felt otherwise. First it was the road crews following me with loudspeakers saying bikes aren’t allowed on the interstate, then said crews called the cops who said to stay of the interstates for a bit *wink wink nudge nudge*, then the sheriff was neither winking nor nudging. Highway 50, as dangerous as it may be, goes into the heart of Frankfurt where you can visit Daniel Boone’s grave and see a bust of Colonel Sanders in the stunning capitol building. The elite racing horse farms of Lexington were a fresh breath of beauty following a rather ugly ride thus far. The pictures didn't turn out because my shutter would stick part way up - something I didn't realize until many ruined photos later.
 
 Tired of Can’tucky, I headed up to Ohio into West Virginia. It must be nicer when you’re not slogging through gruelling hills. I tapped out after Highway 50 ripped me to shreds and took the gentler Highway 48 where my dad was waiting for me expecting me to finish in D.C. Uhhh, I guess maybe this wasn’t where my trip wasn’t ending. There might be a little bit more. </p>
