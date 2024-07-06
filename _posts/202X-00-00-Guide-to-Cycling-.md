@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "World Tour: Cycling "
+title:  "World Cycling Tour: "
 categories: [World Tour, Cycling]
 image: 
 tags: [World Tour, Cycling, Guides]

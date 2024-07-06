@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "World Tour: Cycling Western USA"
+title:  "World Cycling Tour: Western USA"
 categories: [World Tour, Cycling]
 image: https://64.media.tumblr.com/7b22f95ac8fc753650e008413102624d/11f540256d474e07-b4/s540x810/d72d08bb480131dbe88d1d0ae60bae1094f43dbb.jpg
 tags: [World Tour, Cycling, Guides, USA]

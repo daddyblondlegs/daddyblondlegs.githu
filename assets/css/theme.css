@@ -1044,6 +1044,22 @@ div.a2a_full_footer {display:none;}
 	overflow-x: scroll;
 	overflow-y: hidden;
   }
+
+ .filmstrip-bw {
+	padding: 1px;
+	background-color: #383838;
+	border: #ebeaea;
+	border-style: dashed;
+	border-width: .5em;
+	border-right: none;
+	border-left: none;
+	background-size: cover;
+	margin-bottom: 2rem;
+	margin-top: 1rem;
+	border-radius: 0.3rem;
+	overflow-x: scroll;
+	overflow-y: hidden;
+  }
   
   .film {
 	flex-basis: min-content;

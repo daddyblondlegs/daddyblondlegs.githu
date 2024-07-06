@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "World Tour: Cycling Saudi Arabia and Jordan"
+title:  "World Cycling Tour: Saudi Arabia and Jordan"
 categories: [World Tour, Cycling]
 image: https://64.media.tumblr.com/a93ac96349f6733673819416dd510db7/6aa83f5e4efedd14-48/s540x810/1c125b275981d5ad0f71387a696acce0cec25b1e.jpg
 tags: [World Tour, Middle East, Cycling, Guides]
