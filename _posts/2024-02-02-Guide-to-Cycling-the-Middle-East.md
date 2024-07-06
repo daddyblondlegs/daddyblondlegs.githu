@@ -130,17 +130,14 @@ tags: [World Tour, Middle East, Cycling, Guides]
     <li>Amman ruins</li>
     <li>As-salt</li>
     <li>Jerash</li>
-
-
 </ul>
+
 <h1>Film Strip</h1>
 <section class="filmstrip-bw">
   <div class="row" style="flex-wrap: nowrap !important">
     <div class="film"><a href="https://64.media.tumblr.com/0f422e7338a40bf844249b1031370638/6d50fe6817487f66-9c/s250x400/78a2e315d103dae64d53eedc541280b519c76800.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/0f422e7338a40bf844249b1031370638/6d50fe6817487f66-9c/s2048x3072/4f52d1bde65d95912ad69809e8f3e78dbf38015f.jpg" /></a>
     </div>
     <div class="film"><a href="https://64.media.tumblr.com/34c975d8e5e13be19261f277b43d1412/6d50fe6817487f66-11/s250x400/f7d2c9072801df41204d0c192ef175e04baf0142.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/34c975d8e5e13be19261f277b43d1412/6d50fe6817487f66-11/s2048x3072/59b41e0d59630b77c72054c8ed46814823ed9dc9.jpg" /></a>
-    </div>
-    <div class="film"><a href="https://64.media.tumblr.com/97bdc64a0641cb4359db7f67abea745a/6d50fe6817487f66-70/s250x400/4ff589afde6175c5c2c1836958a3ea2054913d17.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/97bdc64a0641cb4359db7f67abea745a/6d50fe6817487f66-70/s2048x3072/6a8161eb3e1d45c5712c9fd148853dd417b96ee4.jpg" /></a>
     </div>
     <div class="film"><a href="https://64.media.tumblr.com/f109c3cd2114d52b471f36b97474bc78/6d50fe6817487f66-16/s250x400/6007534a603b91fdfba89e56196fb5070a4ba298.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/f109c3cd2114d52b471f36b97474bc78/6d50fe6817487f66-16/s2048x3072/6b35b928f86667fd9ab8f31f882c33cb4a5ed70f.jpg" /></a>
     </div>
@@ -168,9 +165,7 @@ tags: [World Tour, Middle East, Cycling, Guides]
     </div>
     <div class="film"><a href="https://64.media.tumblr.com/d2b5f6f72630cb5df7b66e22f85fe917/6d50fe6817487f66-47/s250x400/5d27deb3e0a7b20e875980d9ef6590d14e5fb95b.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/d2b5f6f72630cb5df7b66e22f85fe917/6d50fe6817487f66-47/s2048x3072/850389b59fe71238604354ec7268e29448c8ad19.jpg" /></a>
     </div>
-    <div class="film"><a href="https://64.media.tumblr.com/be7288e7aa5a2fd6cf6ecb28f614ccee/6d50fe6817487f66-9b/s250x400/9a3f6a334de11ded0055448ebeea3e3b8582486c.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/be7288e7aa5a2fd6cf6ecb28f614ccee/6d50fe6817487f66-9b/s2048x3072/f8be2b7c5ce966e8019aa7eba9177125e1fc5b0f.jpg" /></a>
-    </div>
     <div class="film"><a href="https://64.media.tumblr.com/a349bb121336e7cd6b8881dc07c65a01/6d50fe6817487f66-dd/s250x400/4b9a944f4c07511e0fd72f4f7ca725de497cf0c5.jpg"><img class="glightbox m-0" src="https://64.media.tumblr.com/a349bb121336e7cd6b8881dc07c65a01/6d50fe6817487f66-dd/s2048x3072/0c4611fb6e0fb7d328a29a5b42b8f31a56dd1df8.jpg" /></a>
     </div>
   </div>
-</section
+</section>
